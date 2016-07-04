@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>东北师大智能信息处理实验室</title>
+    <link href="css/base.css" rel="stylesheet" type="text/css">
+    <link href="css/sec.css" rel="stylesheet" type="text/css">
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+</head>
+<body>
+    <div class="header">
+        <img src="img/logo.png">
+        <p>智能信息处理实验室</p>
+    </div>
+    <div class="main-wrapper">
+        <div class="content">
+            <div class="main-content"></div>
+        </div>
+        <div class="leftBar">
+            <a href="javascript:void(0)" class="block ajax-main-content" id="mainContent">
+                &emsp;&emsp;<i class="fa fa-home fa-lg">&emsp;主页</i>
+            </a>
+            <a href="javascript:void(0)" class="block ajax-main-content" id="memberContent">
+                &emsp;&emsp;<i class="fa fa-male fa-lg">&emsp;成员</i>
+            </a>
+            <a href="javascript:void(0)" class="block ajax-main-content" id="bookContent">
+                &emsp;&emsp;<i class="fa fa-database fa-lg">&emsp;论著</i>
+            </a>
+            <a href="javascript:void(0)" class="block ajax-main-content" id="applicationContent">
+                &emsp;&emsp;<i class="fa fa-globe fa-lg">&emsp;应用</i>
+            </a>
+            <a href="javascript:void(0)" class="block ajax-main-content" id="dataContent">
+                &emsp;<i class="fa fa-bar-chart fa-lg">&emsp;数据与代码</i>
+            </a>
+            <a href="javascript:void(0)" class="block ajax-main-content" id="libraryContent">
+                &emsp;&emsp;<i class="fa fa-book fa-lg">&emsp;图书馆</i>
+            </a>
+            <a href="javascript:void(0)" class="block ajax-main-content" id="conferenceContent">
+                &emsp;&emsp;<i class="fa fa-weixin fa-lg">&emsp;讨论会</i>
+            </a>
+            <a href="javascript:void(0)" class="block ajax-main-content" id="linkContent">
+                &emsp;&emsp;<i class="fa fa-link fa-lg">&emsp;链接</i>
+            </a>
+            <a href="javascript:void(0)" class="block ajax-main-content" id="photoContent">
+                &emsp;&emsp;<i class="fa fa-photo fa-lg">&emsp;相册</i>
+            </a>
+        </div>
+
+
+    </div>
+
+</body>
+<script>
+
+    $(document).ready(function(){
+        $(".main-content").load("./second.html #mainContent", function(){
+        });
+
+        $(document).on('click', ".ajax-main-content", function(){
+            // console.log(checkSec(this)+" outer");
+            if(checkSec(this) == true){
+                $(".main-content").load("../"+this.id+"/index.html", function(){
+                });
+            }
+            else{
+                $(".main-content").load("./second.html #"+this.id+"", function(){
+                });
+            }
+        });
+        
+    });
+
+  
+    
+
+    function checkSec(dom){
+
+        var classList = $(dom).attr("class").split(" ");
+        for(var i = 0 ; i < classList.length ; i ++){
+            if(classList[i]=="sec"){
+                return true;
+            }
+        }
+        return false;
+    }
+</script>
+</html>
