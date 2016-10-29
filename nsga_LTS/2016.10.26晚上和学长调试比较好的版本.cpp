@@ -730,15 +730,6 @@ void swap_machine(Individual *individual, int nowM, int nowPos, int toM, int toP
     individual->machine[toM][toPos] = temp;
 }
 
-void insert_machine(Individual *individual, int nowM, int nowPos, int toM, int toPos) {
-    vector<int>::iterator iter;
-    int temp = individual->machine[nowM][nowPos];
-    individual->machine[toM].insert(individual->machine[toM].begin() + toPos, temp);
-
-    if(nowM == toM && nowPos > toPos) individual->machine[nowM].erase(individual->machine[nowM].begin() + nowPos + 1);
-    else individual->machine[nowM].erase(individual->machine[nowM].begin() + nowPos);
-}
-
 bool check_machine(Individual *individual) {
     vector<int>:: iterator iter;
     /***************initialize******************/
@@ -838,9 +829,9 @@ void swap_localsearch(Individual *individual) {
     int temp;
     Individual temp_individual = *individual;
     Individual best_individual = *individual;
-    Individual origin_individual = *individual;
     for(int l = 0 ; l < m ; l ++) {
         segmentSize[l] = temp_individual.machine[l].size();
+//        printf("segmentSize[%d] = %d\n", l , segmentSize[l]);
     }
 
     //generate a sequence
@@ -855,9 +846,6 @@ void swap_localsearch(Individual *individual) {
     machineNumber = 0;
     /******************done*********************/
     while(k <= kMax) {
-
-//        origin_individual = temp_individual;
-
         evaluate_objective(&best_individual);
         double makespan = best_individual.makespan;
         double workload = best_individual.workload;
@@ -865,14 +853,10 @@ void swap_localsearch(Individual *individual) {
         nowMachine = 0;
         temp = randomSequence[machineNumber];
 //        printf("temp = %d\n", temp);
-        for(int l = 0 ; l < m ; l ++) {
-            segmentSize[l] = temp_individual.machine[l].size();
-        }
         while(temp - segmentSize[nowMachine] >= 0) {
             temp -= segmentSize[nowMachine];
             nowMachine ++;
         }
-//        printf("segmentSize[%d] = %d\n", nowMachine, segmentSize[nowMachine]);
         if(temp < 0) nowPos = segmentSize[nowMachine] + temp;
         else nowPos = temp;
         machineNumber ++;
@@ -887,115 +871,20 @@ void swap_localsearch(Individual *individual) {
         for(toMachine = 0 ; toMachine < m ; toMachine ++) {
             if(segmentSize[toMachine]) for(toPos = 0 ; toPos < segmentSize[toMachine] ; toPos ++) {
                 if(nowMachine != toMachine || nowPos != toPos) {
-//                    printf("nowMachine = %d nowPos = %d toMachine = %d toPos = %d\n", nowMachine, nowPos, toMachine, toPos);
-//                    printf("insert 前\n");
-//                    for(int j = 0 ; j < m ; j ++){
-//                        printf("第%d个机器: ", j);
-//                        for(vector<int>::iterator iter = temp_individual.machine[j].begin(); iter != temp_individual.machine[j].end() ; iter ++){
-//                            printf("%d ", (*iter));
-//                        }
-//                        printf("\n");
-//                    }
-
                     swap_machine(&temp_individual, nowMachine, nowPos, toMachine, toPos);
-//                    printf("insert 后\n");
-//                    for(int j = 0 ; j < m ; j ++){
-//                        printf("第%d个机器: ", j);
-//                        for(vector<int>::iterator iter = temp_individual.machine[j].begin(); iter != temp_individual.machine[j].end() ; iter ++){
-//                            printf("%d ", (*iter));
-//                        }
-//                        printf("\n");
-//                    }
-
                     if(check_machine(&temp_individual)) { //如果符合条件
-//                        printf("fuhe\n");
                         evaluate_objective(&temp_individual);
-//                        printf("evaluate 后\n");
-//                        for(int j = 0 ; j < m ; j ++){
-//                            printf("第%d个机器: ", j);
-//                            for(vector<int>::iterator iter = temp_individual.machine[j].begin(); iter != temp_individual.machine[j].end() ; iter ++){
-//                                printf("%d ", (*iter));
-//                            }
-//                            printf("\n");
-//                        }
-//                        printf("individual\n");
-//                        for(int j = 0 ; j < m ; j ++){
-//                            printf("第%d个机器: ", j);
-//                            for(vector<int>::iterator iter = individual->machine[j].begin(); iter != individual->machine[j].end() ; iter ++){
-//                                printf("%d ", (*iter));
-//                            }
-//                            printf("\n");
-//                        }
-//                        for(int j = 0 ; j < m ; j ++){
-//                            printf("第%d个机器: ", j);
-//                            for(vector<int>::iterator iter = individual->machine[j].begin(); iter != individual->machine[j].end() ; iter ++){
-//                                printf("%d ", (*iter));
-//                            }
-//                            printf("\n");
-//                        }
                         if((temp_individual.makespan <= makespan && temp_individual.workload < workload) || (temp_individual.makespan < makespan && temp_individual.workload <= workload)) {
-
                             makespan = temp_individual.makespan;
                             workload = temp_individual.workload;
-//                            printf("find best before before\n");
-//                            for(int j = 0 ; j < m ; j ++){
-//                                printf("第%d个机器: ", j);
-//                                for(vector<int>::iterator iter = individual->machine[j].begin(); iter != individual->machine[j].end() ; iter ++){
-//                                    printf("%d ", (*iter));
-//                                }
-//                                printf("\n");
-//                            }
                             best_individual = temp_individual;
-//                            printf("find best before\n");
-//                            for(int j = 0 ; j < m ; j ++){
-//                                printf("第%d个机器: ", j);
-//                                for(vector<int>::iterator iter = individual->machine[j].begin(); iter != individual->machine[j].end() ; iter ++){
-//                                    printf("%d ", (*iter));
-//                                }
-//                                printf("\n");
-//                            }
-                            makespan = best_individual.makespan;
-                            workload = best_individual.workload;
-
 //                            printf("find best\n");
-//                            for(int j = 0 ; j < m ; j ++){
-//                                printf("第%d个机器: ", j);
-//                                for(vector<int>::iterator iter = individual->machine[j].begin(); iter != individual->machine[j].end() ; iter ++){
-//                                    printf("%d ", (*iter));
-//                                }
-//                                printf("\n");
-//                            }
                         }
                         if(temp_individual.makespan < makespan || temp_individual.workload < workload) {
                             updateElistCollection(&temp_individual);
                         }
                     }
-//                    printf("individual\n");
-//                    for(int j = 0 ; j < m ; j ++){
-//                        printf("第%d个机器: ", j);
-//                        for(vector<int>::iterator iter = individual->machine[j].begin(); iter != individual->machine[j].end() ; iter ++){
-//                            printf("%d ", (*iter));
-//                        }
-//                        printf("\n");
-//                    }
                     temp_individual = *individual;
-
-//                    printf("还原temp\n");
-//                    for(int j = 0 ; j < m ; j ++){
-//                        printf("第%d个机器: ", j);
-//                        for(vector<int>::iterator iter = temp_individual.machine[j].begin(); iter != temp_individual.machine[j].end() ; iter ++){
-//                            printf("%d ", (*iter));
-//                        }
-//                        printf("\n");
-//                    }
-//                    printf("individual\n");
-//                    for(int j = 0 ; j < m ; j ++){
-//                        printf("第%d个机器: ", j);
-//                        for(vector<int>::iterator iter = individual->machine[j].begin(); iter != individual->machine[j].end() ; iter ++){
-//                            printf("%d ", (*iter));
-//                        }
-//                        printf("\n");
-//                    }
                 }
             }
         }
@@ -1003,7 +892,6 @@ void swap_localsearch(Individual *individual) {
 //        printf("best_individual.makespan = %.2lf individual->makespan = %.2lf\n", best_individual.makespan, individual->makespan);
         if((best_individual.makespan <= individual->makespan && best_individual.workload < individual->workload) || (best_individual.makespan < individual->makespan && best_individual.workload <= individual->workload)) {
             *individual = best_individual;
-            temp_individual = best_individual;
             k = 1;
             machineNumber = 0;
             for(int i = 0 ; i < n ; i ++) {
@@ -1012,9 +900,6 @@ void swap_localsearch(Individual *individual) {
             for(int i = 0 ; i < n ; i ++) {
                 temp = rand() % n;
                 swap(randomSequence[i], randomSequence[temp]);
-            }
-            for(int l = 0 ; l < m ; l ++) {
-                segmentSize[l] = temp_individual.machine[l].size();
             }
 //            printf("k init\n");
         }
@@ -1208,7 +1093,6 @@ void solve()
     scanf("%d%d", &pop, &gen);
     scanf("%d%d", &m , &n);
     printf("m = %d n = %d\n", m , n);
-    printf("pop = %d gen = %d\n", pop, gen);
     //所有任务在不同机器上执行时间相同
     for(int i=0; i<n; i++)
     {
@@ -1326,30 +1210,17 @@ void solve()
     printf("tot = %d\n", tot);
 }
 
-//int main(int argc, char **argv){
-int main(){
-//    char outPutFile[100];
+int main(int argc, char **argv){
 //    char testcase[100];
 //    int myRand;
 //    strcpy(testcase, argv[1]);
-//    strcpy(outPutFile, strtok(argv[1], "."));
-//    strcat(outPutFile, "-");
-//    strcat(outPutFile, argv[2]);
 //    myRand = atoi(argv[2]);
-//    strcat(outPutFile, "-");
-//    strcat(outPutFile, argv[3]);
 //    pop = atoi(argv[3]);
-//    strcat(outPutFile, "-");
-//    strcat(outPutFile, argv[4]);
-//    strcat(outPutFile, ".txt");
 //    gen = atoi(argv[4]);
 //    srand(myRand);
-//    freopen(testcase, "r", stdin);
-//    freopen(outPutFile, "w", stdout);
-//    printf("%s\n", outPutFile);
+//    freopen("testcase/TMNR.dat", "r", stdin);
 //    solve();
     srand(3);
-//    freopen("testcase/TMNR.dat", "r", stdin);
     freopen("testcase/h264_14.dat", "r", stdin);
     solve();
 
