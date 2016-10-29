@@ -1,0 +1,3 @@
+﻿  moha.cpp
+d:\git\nsga_lts\moha\moha\moha.cpp(108): warning C4018: “>=”: 有符号/无符号不匹配
+  MOHA.vcxproj -> D:\git\nsga_LTS\MOHA\Debug\MOHA.exe
