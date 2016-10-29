@@ -1,0 +1,11 @@
+*{padding: 0px; margin: 0px;}
+
+.left-nav{
+    width: 170px;
+    float: left;
+    border-right: 1px solid;
+}
+
+.content{
+    padding: 10px;
+}
