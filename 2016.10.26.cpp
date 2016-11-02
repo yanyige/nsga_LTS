@@ -10,12 +10,12 @@
 
 using namespace std;
 
-const int MAXN = 300;
-const int MAXM = 300;
+const int MAXN = 205;
+const int MAXM = 200;
 int m;
 int n;
 const int inf = 0x3f3f3f3f;
-const int cycle=2;//周期数
+const int cycle=3;//周期数
 
 //*******
 //**pop - Population size
@@ -109,7 +109,7 @@ void evaluate_objective(Individual *i)
     i->n = inf;
     i->makespan = 0;
     i->workload = 0;
-    double depcopy[cycle][MAXN][MAXN];
+    double depcopy[cycle][200][200];
     int isdepcopy[cycle][MAXN],todepcopy[cycle][MAXN];
     for(int k=0; k<cycle; k++)
     {
@@ -1046,7 +1046,6 @@ void make_new_pop(Individual individuals[], int length)
 //        printf("target1 = %d, target2 = %d\n", target1, target2);
         int temp = rand() % 10;
         gacrossover(target1, target2, &new_individual);
-
         //    printf("3新生成机器%d\n",i);
         if(temp >= 0 && temp < 9) {}
         else
@@ -1125,8 +1124,8 @@ void init()
         {
             Collection[i].machine[j].erase(Collection[i].machine[j].begin(), Collection[i].machine[j].end());
         }
-    }
-    greedy_with_topo();
+    }printf("greedy begin\n");
+    greedy_with_topo();printf("greedy done\n");
 
     for(int i = 1 ; i < pop*2 ; i ++)
     {
@@ -1205,7 +1204,7 @@ void init()
 void solve()
 {
 
-    scanf("%d%d", &pop, &gen);
+//    scanf("%d%d", &pop, &gen);
     scanf("%d%d", &m , &n);
     printf("m = %d n = %d\n", m , n);
     printf("pop = %d gen = %d\n", pop, gen);
@@ -1326,32 +1325,36 @@ void solve()
     printf("tot = %d\n", tot);
 }
 
-//int main(int argc, char **argv){
-int main(){
-//    char outPutFile[100];
-//    char testcase[100];
-//    int myRand;
-//    strcpy(testcase, argv[1]);
-//    strcpy(outPutFile, strtok(argv[1], "."));
-//    strcat(outPutFile, "-");
-//    strcat(outPutFile, argv[2]);
-//    myRand = atoi(argv[2]);
-//    strcat(outPutFile, "-");
-//    strcat(outPutFile, argv[3]);
-//    pop = atoi(argv[3]);
-//    strcat(outPutFile, "-");
-//    strcat(outPutFile, argv[4]);
-//    strcat(outPutFile, ".txt");
-//    gen = atoi(argv[4]);
-//    srand(myRand);
-//    freopen(testcase, "r", stdin);
+int main(int argc, char **argv){
+//int main(){
+    char outPutFile[100];
+    char testcase[100];
+    char *fileName;
+    int myRand;
+    strcpy(testcase, argv[1]);
+    strtok(strtok(argv[1], "."), "/");
+    strcpy(outPutFile, fileName = strtok(NULL, "/"));
+    strcat(outPutFile, "/");
+    strcat(outPutFile, fileName);
+    strcat(outPutFile, "-");
+    strcat(outPutFile, argv[2]);
+    myRand = atoi(argv[2]);
+    strcat(outPutFile, "-");
+    strcat(outPutFile, argv[3]);
+    pop = atoi(argv[3]);
+    strcat(outPutFile, "-");
+    strcat(outPutFile, argv[4]);
+    strcat(outPutFile, ".txt");
+    gen = atoi(argv[4]);
+    srand(myRand);
+    freopen(testcase, "r", stdin);
 //    freopen(outPutFile, "w", stdout);
 //    printf("%s\n", outPutFile);
-//    solve();
-    srand(3);
-//    freopen("testcase/TMNR.dat", "r", stdin);
-    freopen("testcase/h264_14.dat", "r", stdin);
     solve();
+//    srand(3);
+////    freopen("testcase/TMNR.dat", "r", stdin);
+//    freopen("testcase/h264_14.dat", "r", stdin);
+//    solve();
 
     return 0;
 }
