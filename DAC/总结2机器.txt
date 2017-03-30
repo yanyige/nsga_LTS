@@ -1,0 +1,247 @@
+TMNR 种子3 有初始化收敛快 结果一样
+h264 有初始化收敛快 结果一样
+MP3_decoder 种子3 有初始化收敛快 结果一样
+MP3_decoder——16 有初始化收敛慢 结果一样
+MWD 有初始化收敛快 结果一样
+FFT-BUTTERFLY 种子1 有初始化收敛慢 结果好
+FFT-LOOP 种子1 有初始化收敛快 结果一样
+
+TMNR
+
+1号种子
+
+有初始化
+*****************************t=14*****************************
+time to convergence: 7.58 s
+15 generation time: 7.61 s
+[3052.00,4.00], 一样
+
+无初始化
+*****************************t=11*****************************
+time to convergence: 5.99 s
+12 generation time: 6.02 s
+[3052.00,4.00],
+
+2号种子
+
+有初始化
+*****************************t=3*****************************
+time to convergence: 1.75 s
+time to convergence: 1.92 s
+4 generation time: 1.95 s
+[3052.00,4.00],
+
+无初始化
+*****************************t=1*****************************
+time to convergence: 1.01 s
+2 generation time: 1.04 s
+[3052.00,4.00],
+
+3号种子
+
+有初始化
+*****************************t=7*****************************
+time to convergence: 4.15 s
+time to convergence: 4.15 s
+8 generation time: 4.18 s
+[3052.00,4.00],
+
+无初始化
+*****************************t=42*****************************
+time to convergence: 21.52 s
+43 generation time: 21.55 s
+[3052.00,4.00],
+
+h264 2机器
+
+有初始化
+*****************************t=34*****************************
+time to convergence: 20.59 s
+35 generation time: 20.62 s
+[179484.00,291.00], 一样
+[163741.00,627.00], 一样
+[199938.00,169.00], 一样
+[203656.00,139.00], 一样
+[188326.00,269.00], 一样
+[178331.00,597.00], 一样
+[163739.00,4501.00], 一样
+[220710.00,87.00],
+
+无初始化
+*****************************t=36*****************************
+time to convergence: 22.15 s
+37 generation time: 22.20 s
+[179484.00,291.00],
+[163741.00,627.00],
+[178331.00,597.00],
+[199938.00,169.00],
+[188326.00,269.00],
+[203656.00,139.00],
+[220710.00,87.00],
+[163739.00,4501.00],
+
+MP3_decoder 2机器
+
+1号种子
+有初始化
+*****************************t=3*****************************
+time to convergence: 1.03 s
+4 generation time: 1.06 s
+[124.00,1.00], 一样
+
+无初始化
+*****************************t=1*****************************
+time to convergence: 0.39 s
+time to convergence: 0.50 s
+2 generation time: 0.53 s
+[124.00,1.00],
+
+2号种子
+有初始化
+*****************************t=0*****************************
+time to convergence: 0.01 s
+time to convergence: 0.01 s
+time to convergence: 0.01 s
+time to convergence: 0.01 s
+time to convergence: 0.02 s
+time to convergence: 0.02 s
+time to convergence: 0.02 s
+time to convergence: 0.02 s
+time to convergence: 0.02 s
+time to convergence: 0.02 s
+time to convergence: 0.03 s
+time to convergence: 0.03 s
+time to convergence: 0.09 s
+time to convergence: 0.09 s
+time to convergence: 0.09 s
+time to convergence: 0.12 s
+time to convergence: 0.13 s
+time to convergence: 0.13 s
+time to convergence: 0.14 s
+time to convergence: 0.17 s
+time to convergence: 0.17 s
+time to convergence: 0.17 s
+time to convergence: 0.26 s
+1 generation time: 0.29 s
+[124.00,1.00],
+
+无初始化
+*****************************t=0*****************************
+time to convergence: 0.01 s
+time to convergence: 0.01 s
+time to convergence: 0.01 s
+time to convergence: 0.01 s
+time to convergence: 0.03 s
+time to convergence: 0.03 s
+time to convergence: 0.03 s
+time to convergence: 0.03 s
+time to convergence: 0.03 s
+time to convergence: 0.09 s
+time to convergence: 0.09 s
+time to convergence: 0.09 s
+time to convergence: 0.09 s
+time to convergence: 0.10 s
+time to convergence: 0.10 s
+time to convergence: 0.12 s
+time to convergence: 0.13 s
+time to convergence: 0.14 s
+time to convergence: 0.15 s
+time to convergence: 0.15 s
+time to convergence: 0.15 s
+time to convergence: 0.17 s
+time to convergence: 0.17 s
+time to convergence: 0.22 s
+time to convergence: 0.22 s
+time to convergence: 0.32 s
+time to convergence: 0.32 s
+1 generation time: 0.36 s
+[124.00,1.00],
+
+3号种子
+
+有初始化
+*****************************t=1*****************************
+time to convergence: 0.56 s
+2 generation time: 0.59 s
+[124.00,1.00],
+
+无初始化
+*****************************t=3*****************************
+time to convergence: 0.95 s
+4 generation time: 0.98 s
+[124.00,1.00],
+
+MP3_decoder_16 2机器
+
+有初始化
+*****************************t=156*****************************
+time to convergence: 112.19 s
+157 generation time: 112.24 s
+[62912.00,5.00], 一样
+[62595.00,77.00], 一样
+[62058.00,1129.00], 一样
+[62910.00,33.00], 一样
+
+无初始化
+*****************************t=6*****************************
+time to convergence: 4.52 s
+7 generation time: 4.55 s
+[62910.00,33.00],
+[62595.00,77.00],
+[62058.00,1129.00],
+[62912.00,5.00],
+
+MWD 2机器
+
+有初始化
+*****************************t=0*****************************
+time to convergence: 0.41 s
+time to convergence: 0.41 s
+time to convergence: 0.41 s
+time to convergence: 0.41 s
+time to convergence: 0.41 s
+1 generation time: 0.44 s
+[2012.00,0.00],
+
+无初始化
+*****************************t=13*****************************
+time to convergence: 5.20 s
+14 generation time: 5.25 s
+[2012.00,0.00],
+
+FFT-BUTTERFLY
+
+种子1
+有初始化
+*****************************t=157*****************************
+time to convergence: 1005.35 s
+158 generation time: 1005.40 s
+[5352.00,0.00],
+
+无初始化
+*****************************t=10*****************************
+time to convergence: 78.76 s
+11 generation time: 78.81 s
+[5360.00,0.00],
+
+FFT-LOOP
+
+种子1
+有初始化
+*****************************t=20*****************************
+time to convergence: 73.31 s
+time to convergence: 73.31 s
+21 generation time: 73.34 s
+[7352.00,324.00],
+[10672.00,322.00],
+[7348.00,328.00],
+[7350.00,326.00],
+
+无初始化
+*****************************t=92*****************************
+time to convergence: 376.06 s
+93 generation time: 376.09 s
+[7350.00,326.00],
+[10672.00,322.00],
+[7348.00,328.00],
+[7352.00,324.00],

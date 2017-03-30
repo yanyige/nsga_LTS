@@ -1,0 +1,20 @@
+m = 2 n = 12
+pop = 30 gen = 400
+init...begin
+init...done
+*****************************t=0*****************************
+1 generation time: 0.52 s
+*****************************t=1*****************************
+find a better solution in: 0.97 s	
+find a better solution in: 0.97 s	
+2 generation time: 1.09 s
+*****************************t=2*****************************
+updateTimes = 11
+find a better solution in: 1.88 s	
+find a better solution in: 1.88 s	
+3 generation time: 1.99 s
+*****************************t=3*****************************
+updateTimes = 11
+4 generation time: 2.80 s
+*****************************t=4*****************************
+updateTimes = 11

@@ -1,0 +1,5 @@
+
+378 generation time: 100.08 s
+[124.00,1.00],
+tot = 1
+total time: 100.16 s

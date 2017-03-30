@@ -1,0 +1,13 @@
+m = 4 n = 262
+pop = 30 gen = 400
+init...begin
+greedy begin
+greedy done
+init...done
+*****************************t=0*****************************
+time to convergence: 0.48 s	
+time to convergence: 0.50 s	
+time to convergence: 0.54 s	
+time to convergence: 0.63 s	
+time to convergence: 0.85 s	
+time to convergence: 1.13 s	

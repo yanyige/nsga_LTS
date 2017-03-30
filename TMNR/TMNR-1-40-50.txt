@@ -1,0 +1,7 @@
+m = 3 n = 14
+pop = 40 gen = 50
+init...begin
+greedy begin
+greedy done
+init...done
+*****************************t=0*****************************

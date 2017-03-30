@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ECharts</title>
+    <!-- 引入 echarts.js -->
+    <script src="jquery-1.11.3.min.js"></script>
+    <script src="echarts.min.js"></script>
+    <style type="text/css">
+    	.Xaxis {
+    		position: absolute;
+    		top: 30px;
+    		font-family: Helvetica,Arial,sans-serif;
+    		color: gray;
+    		left: 20px;
+    	}
+    	.Yaxis {
+    		position: absolute;
+    		bottom: 50px;
+    		font-family: Helvetica,Arial,sans-serif;
+    		color: gray;
+    		right: -20px;
+    	}
+    	.time {
+    		position: absolute;
+    		width: 80%;
+    		left: 0;
+    		right: 0;
+    		bottom: 0px;
+    		font-family: Helvetica,Arial,sans-serif;
+    		color: gray;
+    		margin: 0 auto;
+    		text-align: center;
+    	}
+    </style>
+</head>
+<body>
+    <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+    <div id="main" style="width: 700px;height:500px;"></div>
+    <script type="text/javascript">
+        // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('main'));
+        var arr = [[5360.00,0.00]];
+        var arr1 = [[7360.00,0.00],
+[7356.00,668.00]];
+		var arr2 = [];
+        // 指定图表的配置项和数据
+        option = {
+    	title: {
+	    	show: false,
+	    	text: "FFT_butterfly_machine2",
+	    	left: "center",
+        },
+	    tooltip : {
+	        trigger: 'axis',
+	        showDelay : 0,
+	        axisPointer:{
+	            show: true,
+	            type : 'cross',
+	            lineStyle: {
+	                type : 'dashed',
+	                width : 1
+	            }
+	        },
+	        zlevel: 1
+	    },
+	    legend: {
+	        data:['MOHA','NSGA-Ⅱ','CPLEX'],
+	        orient: 'verticle',
+	        right: 130,
+	        top: 60,
+	    },
+	    toolbox: {
+	        show : true,
+	        feature : {
+	            mark : {show: true},
+	            dataZoom : {show: true},
+	            dataView : {show: true, readOnly: false},
+	            restore : {show: true},
+	            saveAsImage : {
+	            	show: true,
+	            	pixelRatio: 4,
+	            }
+	        }
+	    },
+	    grid: {
+	    	width: 500,
+	    },
+	    xAxis : {
+	    	type: 'value',
+	    	scale: true,
+	    	name: 'makespan',
+	    	nameTextStyle: {
+	    		fontSize: 20,
+	    	},
+	    	axisLine: {
+		    	lineStyle: {
+		    	}
+		    },
+		    nameGap: 0
+	    },
+	    yAxis :{
+	    	type: 'value',
+	    	scale: true,
+	    	name: 'workload',
+	    	nameTextStyle: {
+	    		fontSize: 20,
+	    	},
+	    	axisLine: {
+		    	lineStyle: {
+		    	}
+		    }
+	    },
+	    series : [
+	        {
+	            name:'MOHA',
+	            type:'scatter',
+	            large: true,
+	            symbolSize: 15,
+	            itemStyle: {
+                    normal: {
+                        color: 'rgb(198,43,45)'
+                    }
+                },
+	            data: (function () {
+	                var d = [];
+	                var len = 1;
+	                for(var i = 0 ; i < len ; i ++){
+	                	d.push([arr[i][0],arr[i][1]]);
+	                }
+	                //console.log(d)
+	                return d;
+	            })()
+	        },
+	        {
+	            name:'NSGA-Ⅱ',
+	            type:'scatter',
+	            large: true,
+	            symbolSize: 15,
+	            itemStyle: {
+                    normal: {
+                        color: 'green'
+                    }
+                },
+	            data: (function () {
+	                var d = [];
+	                var len = 2;
+	                for(var i = 0 ; i < len ; i ++){
+	                	d.push([arr1[i][0],arr1[i][1]]);
+	                }
+	                //console.log(d)
+	                return d;
+	            })()
+	        },
+	        {
+	            name:'CPLEX',
+	            type:'scatter',
+	            large: true,
+	            symbolSize: 10,
+	            itemStyle: {
+                    normal: {
+                        color: 'orange'
+                    }
+                },
+	            data: (function () {
+	                var d = [];
+	                var len = 0;
+	                for(var i = 0 ; i < len ; i ++){
+	                	d.push([arr2[i][0],arr2[i][1]]);
+	                }
+	                //console.log(d)
+	                return d;
+	            })(),
+	            markLine: {
+	            	data: [
+				    {
+				        name: 'workload值为 0 的水平线',
+				        yAxis: 0
+				    }],
+				    symbolSize: 0,
+				    lineStyle: {
+				    	normal: {
+				    		width: 3,
+				    		color: 'Indigo'
+				    	}
+				    },
+	            },
+	        }
+	    ]
+	};
+
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+    </script>
+</body>
+</html>

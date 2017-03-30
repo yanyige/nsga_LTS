@@ -1,0 +1,38 @@
+m = 4 n = 32
+pop = 30 gen = 100
+init...begin
+greedy begin
+greedy done
+init...done
+*****************************t=0*****************************
+time to convergence: 31.93 s	
+time to convergence: 31.93 s	
+time to convergence: 31.93 s	
+time to convergence: 31.93 s	
+time to convergence: 31.93 s	
+time to convergence: 31.93 s	
+time to convergence: 31.93 s	
+1 generation time: 32.00 s
+[7891.00,0.00],
+[5690.00,1670.00],
+[6853.00,334.00],
+[6684.00,668.00],
+[6016.00,1002.00],
+*****************************t=1*****************************
+time to convergence: 66.39 s	
+time to convergence: 66.39 s	
+2 generation time: 66.49 s
+[7891.00,0.00],
+[5189.00,334.00],
+[5012.00,668.00],
+*****************************t=2*****************************
+time to convergence: 95.83 s	
+time to convergence: 95.83 s	
+3 generation time: 95.94 s
+[4857.00,0.00],
+*****************************t=3*****************************
+time up
+[4857.00,0.00],
+[4857.00,0.00],
+tot = 1
+total time: 129.11 s

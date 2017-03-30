@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ECharts</title>
+    <!-- 引入 echarts.js -->
+    <script src="jquery-1.11.3.min.js"></script>
+    <script src="echarts.min.js"></script>
+    <style type="text/css">
+    	.Xaxis {
+    		position: absolute;
+    		top: 30px;
+    		font-family: Helvetica,Arial,sans-serif;
+    		color: gray;
+    		left: 20px;
+    	}
+    	.Yaxis {
+    		position: absolute;
+    		bottom: 50px;
+    		font-family: Helvetica,Arial,sans-serif;
+    		color: gray;
+    		right: -20px;
+    	}
+    	.time {
+    		position: absolute;
+    		width: 80%;
+    		left: 0;
+    		right: 0;
+    		bottom: 0px;
+    		font-family: Helvetica,Arial,sans-serif;
+    		color: gray;
+    		margin: 0 auto;
+    		text-align: center;
+    	}
+    </style>
+</head>
+<body>
+    <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+    <div id="main" style="width: 700px;height:500px;"></div>
+    <script type="text/javascript">
+        // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('main'));
+        var arr = [[140210.00,6873.00],
+[150597.00,692.50],
+[132721.00,10890.50],
+[149972.00,2405.00],
+[140430.00,5217.00],
+[160568.00,640.50],
+[138395.00,9631.50],
+[149162.00,2600.50],
+[149138.00,2624.50],
+[132694.00,11689.00],
+[132706.00,11665.00],
+[169540.00,570.50],
+[140460.00,3255.00],
+[132709.00,10914.50],
+[150131.00,722.50],
+[149987.00,1630.50]];
+        var arr1 = [[132723.00,10890.50],
+[166619.00,640.50],
+[150881.00,4596.50],
+[140698.00,8214.50],
+[149987.00,5504.50],
+[154527.00,2684.50],
+[140526.00,10747.00],
+[148372.00,7663.00],
+[156175.00,692.50],
+[153439.00,4501.00],
+[156151.00,876.50],
+[132723.00,10890.50],
+[166619.00,640.50],
+[150881.00,4596.50],
+[140698.00,8214.50],
+[149987.00,5504.50],
+[154527.00,2684.50],
+[140526.00,10747.00],
+[148372.00,7663.00],
+[156175.00,692.50],
+[153439.00,4501.00],
+[156151.00,876.50]];
+		var arr2 = [[200002.00,529.00]];
+        // 指定图表的配置项和数据
+        option = {
+    	title: {
+	    	show: false,
+	    	text: "h264_14_machine4",
+	    	left: "center",
+        },
+	    tooltip : {
+	        trigger: 'axis',
+	        showDelay : 0,
+	        axisPointer:{
+	            show: true,
+	            type : 'cross',
+	            lineStyle: {
+	                type : 'dashed',
+	                width : 1
+	            }
+	        },
+	        zlevel: 1
+	    },
+	    legend: {
+	        data:['MOHA','NSGA-Ⅱ','CPLEX'],
+	        orient: 'verticle',
+	        right: 130,
+	        top: 60,
+	    },
+	    toolbox: {
+	        show : true,
+	        feature : {
+	            mark : {show: true},
+	            dataZoom : {show: true},
+	            dataView : {show: true, readOnly: false},
+	            restore : {show: true},
+	            saveAsImage : {
+	            	show: true,
+	            	pixelRatio: 4,
+	            }
+	        }
+	    },
+	    grid: {
+	    	width: 500,
+	    },
+	    xAxis : {
+	    	type: 'value',
+	    	scale: true,
+	    	name: 'makespan',
+	    	nameTextStyle: {
+	    		fontSize: 20,
+	    	},
+	    	axisLine: {
+		    	lineStyle: {
+		    	}
+		    },
+		    nameGap: 0
+	    },
+	    yAxis :{
+	    	type: 'value',
+	    	scale: true,
+	    	name: 'workload',
+	    	nameTextStyle: {
+	    		fontSize: 20,
+	    	},
+	    	axisLine: {
+		    	lineStyle: {
+		    	}
+		    }
+	    },
+	    series : [
+	        {
+	            name:'MOHA',
+	            type:'scatter',
+	            large: true,
+	            symbolSize: 10,
+	            itemStyle: {
+                    normal: {
+                        color: 'rgb(198,43,45)'
+                    }
+                },
+	            data: (function () {
+	                var d = [];
+	                var len = 16;
+	                for(var i = 0 ; i < len ; i ++){
+	                	d.push([arr[i][0],arr[i][1]]);
+	                }
+	                //console.log(d)
+	                return d;
+	            })()
+	        },
+	        {
+	            name:'NSGA-Ⅱ',
+	            type:'scatter',
+	            large: true,
+	            symbolSize: 8,
+	            itemStyle: {
+                    normal: {
+                        color: 'green'
+                    }
+                },
+	            data: (function () {
+	                var d = [];
+	                var len = 11;
+	                for(var i = 0 ; i < len ; i ++){
+	                	d.push([arr1[i][0],arr1[i][1]]);
+	                }
+	                //console.log(d)
+	                return d;
+	            })()
+	        },
+	        {
+	            name:'CPLEX',
+	            type:'scatter',
+	            large: true,
+	            symbolSize: 8,
+	            itemStyle: {
+                    normal: {
+                        color: 'orange'
+                    }
+                },
+	            data: (function () {
+	                var d = [];
+	                var len = 1;
+	                for(var i = 0 ; i < len ; i ++){
+	                	d.push([arr2[i][0],arr2[i][1]]);
+	                }
+	                //console.log(d)
+	                return d;
+	            })(),
+	            markLine: {
+	            	data: [
+				    {
+				        name: 'workload值为 529 的水平线',
+				        yAxis: 529
+				    }],
+				    symbolSize: 0,
+				    lineStyle: {
+				    	normal: {
+				    		width: 2,
+				    		color: 'Indigo'
+				    	}
+				    },
+	            },
+	        }
+	    ]
+	};
+
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+    </script>
+</body>
+</html>

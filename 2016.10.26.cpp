@@ -15,7 +15,7 @@ const int MAXM = 200;
 int m;
 int n;
 const int inf = 0x3f3f3f3f;
-const int cycle=3;//周期数
+const int cycle=2;//周期数
 
 //*******
 //**pop - Population size
@@ -1348,7 +1348,7 @@ int main(int argc, char **argv){
     gen = atoi(argv[4]);
     srand(myRand);
     freopen(testcase, "r", stdin);
-//    freopen(outPutFile, "w", stdout);
+    freopen(outPutFile, "w", stdout);
 //    printf("%s\n", outPutFile);
     solve();
 //    srand(3);

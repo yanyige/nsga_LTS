@@ -1,0 +1,74 @@
+m = 4 n = 28
+pop = 30 gen = 100
+init...begin
+greedy begin
+greedy done
+init...done
+*****************************t=0*****************************
+time to convergence: 0.07 s	
+time to convergence: 0.08 s	
+time to convergence: 0.08 s	
+time to convergence: 0.09 s	
+time to convergence: 0.13 s	
+time to convergence: 0.14 s	
+time to convergence: 0.15 s	
+time to convergence: 0.16 s	
+time to convergence: 0.16 s	
+time to convergence: 0.17 s	
+time to convergence: 0.21 s	
+time to convergence: 0.22 s	
+time to convergence: 0.22 s	
+time to convergence: 0.24 s	
+time to convergence: 0.25 s	
+time to convergence: 0.25 s	
+time to convergence: 0.26 s	
+time to convergence: 0.27 s	
+time to convergence: 0.28 s	
+time to convergence: 0.31 s	
+time to convergence: 0.35 s	
+time to convergence: 0.38 s	
+time to convergence: 0.56 s	
+time to convergence: 0.57 s	
+time to convergence: 0.62 s	
+time to convergence: 1.66 s	
+time to convergence: 11.97 s	
+time to convergence: 11.97 s	
+time to convergence: 13.88 s	
+time to convergence: 18.96 s	
+time to convergence: 18.96 s	
+1 generation time: 19.04 s
+[9680.00,494.00],
+[8021.00,994.00],
+*****************************t=1*****************************
+time to convergence: 28.03 s	
+time to convergence: 28.04 s	
+time to convergence: 36.01 s	
+2 generation time: 36.06 s
+[9680.00,494.00],
+[7004.00,496.00],
+*****************************t=2*****************************
+time to convergence: 42.25 s	
+time to convergence: 42.27 s	
+3 generation time: 55.85 s
+[7349.00,494.00],
+[7004.00,496.00],
+*****************************t=3*****************************
+4 generation time: 77.21 s
+[7349.00,494.00],
+[7004.00,496.00],
+*****************************t=4*****************************
+5 generation time: 97.22 s
+[7349.00,494.00],
+[7004.00,496.00],
+*****************************t=5*****************************
+time to convergence: 121.78 s	
+time to convergence: 121.78 s	
+time up
+[7339.00,494.00],
+[7004.00,496.00],
+[6707.00,1006.00],
+[7339.00,494.00],
+[7004.00,496.00],
+[6707.00,1006.00],
+tot = 3
+total time: 121.99 s

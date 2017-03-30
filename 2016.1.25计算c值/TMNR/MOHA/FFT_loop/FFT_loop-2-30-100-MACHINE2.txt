@@ -1,0 +1,154 @@
+m = 2 n = 28
+pop = 30 gen = 100
+init...begin
+greedy begin
+greedy done
+init...done
+*****************************t=0*****************************
+time to convergence: 0.02 s	
+time to convergence: 0.03 s	
+time to convergence: 0.03 s	
+time to convergence: 0.03 s	
+time to convergence: 0.04 s	
+time to convergence: 0.05 s	
+time to convergence: 0.10 s	
+time to convergence: 0.12 s	
+time to convergence: 0.13 s	
+time to convergence: 0.24 s	
+time to convergence: 0.26 s	
+time to convergence: 0.29 s	
+time to convergence: 0.33 s	
+time to convergence: 0.42 s	
+time to convergence: 0.60 s	
+time to convergence: 0.62 s	
+time to convergence: 0.80 s	
+time to convergence: 0.81 s	
+time to convergence: 0.82 s	
+time to convergence: 0.89 s	
+time to convergence: 0.95 s	
+time to convergence: 1.26 s	
+time to convergence: 1.38 s	
+time to convergence: 1.48 s	
+time to convergence: 1.51 s	
+time to convergence: 1.54 s	
+time to convergence: 1.57 s	
+time to convergence: 1.61 s	
+time to convergence: 1.93 s	
+time to convergence: 1.97 s	
+time to convergence: 1.99 s	
+time to convergence: 2.35 s	
+time to convergence: 2.40 s	
+time to convergence: 2.52 s	
+time to convergence: 3.08 s	
+time to convergence: 3.28 s	
+time to convergence: 3.29 s	
+time to convergence: 3.29 s	
+time to convergence: 3.29 s	
+time to convergence: 3.37 s	
+time to convergence: 3.37 s	
+time to convergence: 3.60 s	
+time to convergence: 4.52 s	
+time to convergence: 4.52 s	
+time to convergence: 4.56 s	
+time to convergence: 4.56 s	
+time to convergence: 4.59 s	
+time to convergence: 4.64 s	
+time to convergence: 4.70 s	
+time to convergence: 9.12 s	
+1 generation time: 9.18 s
+[7352.00,324.00],
+*****************************t=1*****************************
+time to convergence: 17.05 s	
+2 generation time: 17.09 s
+[7352.00,324.00],
+[7351.00,328.00],
+*****************************t=2*****************************
+3 generation time: 23.68 s
+[7352.00,324.00],
+[7351.00,328.00],
+*****************************t=3*****************************
+4 generation time: 31.57 s
+[7352.00,324.00],
+[7351.00,328.00],
+*****************************t=4*****************************
+time to convergence: 38.29 s	
+5 generation time: 38.35 s
+[7352.00,324.00],
+[7350.00,326.00],
+*****************************t=5*****************************
+time to convergence: 40.73 s	
+time to convergence: 40.74 s	
+time to convergence: 45.93 s	
+time to convergence: 45.93 s	
+6 generation time: 45.98 s
+[7352.00,324.00],
+[7350.00,326.00],
+[12010.00,322.00],
+[7348.00,328.00],
+*****************************t=6*****************************
+7 generation time: 51.98 s
+[7352.00,324.00],
+[7350.00,326.00],
+[12010.00,322.00],
+[7348.00,328.00],
+*****************************t=7*****************************
+8 generation time: 58.05 s
+[7352.00,324.00],
+[7350.00,326.00],
+[12010.00,322.00],
+[7348.00,328.00],
+*****************************t=8*****************************
+9 generation time: 63.64 s
+[7352.00,324.00],
+[7350.00,326.00],
+[12010.00,322.00],
+[7348.00,328.00],
+*****************************t=9*****************************
+10 generation time: 71.30 s
+[7352.00,324.00],
+[7350.00,326.00],
+[12010.00,322.00],
+[7348.00,328.00],
+*****************************t=10*****************************
+time to convergence: 76.54 s	
+11 generation time: 76.60 s
+[7352.00,324.00],
+[7350.00,326.00],
+[11344.00,322.00],
+[7348.00,328.00],
+*****************************t=11*****************************
+12 generation time: 81.70 s
+[7352.00,324.00],
+[7350.00,326.00],
+[11344.00,322.00],
+[7348.00,328.00],
+*****************************t=12*****************************
+13 generation time: 87.12 s
+[7352.00,324.00],
+[7350.00,326.00],
+[11344.00,322.00],
+[7348.00,328.00],
+*****************************t=13*****************************
+14 generation time: 92.46 s
+[7352.00,324.00],
+[7350.00,326.00],
+[11344.00,322.00],
+[7348.00,328.00],
+*****************************t=14*****************************
+15 generation time: 99.15 s
+[7352.00,324.00],
+[7350.00,326.00],
+[11344.00,322.00],
+[7348.00,328.00],
+*****************************t=15*****************************
+time up
+[7352.00,324.00],
+[7350.00,326.00],
+[11344.00,322.00],
+[7348.00,328.00],
+[7352.00,324.00],
+[7350.00,326.00],
+[11344.00,322.00],
+[7348.00,328.00],
+tot = 4
+total time: 104.44 s
