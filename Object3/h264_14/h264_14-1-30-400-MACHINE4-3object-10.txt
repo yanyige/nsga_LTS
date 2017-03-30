@@ -1,0 +1,1628 @@
+m = 4 n = 14
+pop = 30 gen = 400
+init...begin
+init...done
+*****************************t=0*****************************
+find a better solution in: 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in : 0.03 s	
+find a better solution in : 0.03 s	
+find a better solution in : 0.05 s	
+find a better solution in: 0.05 s	
+find a better solution in: 0.05 s	
+find a better solution in: 0.06 s	
+find a better solution in: 0.08 s	
+find a better solution in : 0.08 s	
+find a better solution in : 0.09 s	
+find a better solution in : 0.09 s	
+find a better solution in: 0.09 s	
+find a better solution in: 0.09 s	
+find a better solution in: 0.09 s	
+find a better solution in : 0.09 s	
+find a better solution in : 0.09 s	
+find a better solution in: 0.09 s	
+find a better solution in : 0.09 s	
+find a better solution in : 0.09 s	
+find a better solution in: 0.11 s	
+find a better solution in: 0.11 s	
+find a better solution in : 0.11 s	
+find a better solution in : 0.11 s	
+find a better solution in : 0.11 s	
+find a better solution in: 0.11 s	
+find a better solution in: 0.11 s	
+find a better solution in: 0.11 s	
+find a better solution in: 0.11 s	
+find a better solution in: 0.11 s	
+find a better solution in: 0.12 s	
+find a better solution in : 0.12 s	
+find a better solution in : 0.12 s	
+find a better solution in : 0.14 s	
+find a better solution in : 0.14 s	
+find a better solution in : 0.16 s	
+find a better solution in : 0.16 s	
+find a better solution in: 0.16 s	
+find a better solution in : 0.17 s	
+find a better solution in : 0.17 s	
+find a better solution in: 0.17 s	
+find a better solution in : 0.19 s	
+find a better solution in: 0.19 s	
+find a better solution in : 0.20 s	
+find a better solution in : 0.20 s	
+find a better solution in: 0.22 s	
+find a better solution in: 0.23 s	
+find a better solution in: 0.23 s	
+find a better solution in: 0.23 s	
+find a better solution in: 0.23 s	
+find a better solution in: 0.23 s	
+find a better solution in : 0.23 s	
+find a better solution in : 0.23 s	
+find a better solution in: 0.25 s	
+find a better solution in : 0.25 s	
+find a better solution in: 0.25 s	
+find a better solution in : 0.25 s	
+find a better solution in: 0.25 s	
+find a better solution in : 0.25 s	
+find a better solution in : 0.27 s	
+find a better solution in: 0.27 s	
+find a better solution in: 0.27 s	
+find a better solution in: 0.27 s	
+find a better solution in: 0.30 s	
+find a better solution in : 0.30 s	
+find a better solution in : 0.30 s	
+find a better solution in : 0.30 s	
+find a better solution in: 0.30 s	
+find a better solution in: 0.30 s	
+find a better solution in: 0.30 s	
+find a better solution in : 0.30 s	
+find a better solution in : 0.30 s	
+find a better solution in: 0.30 s	
+find a better solution in: 0.30 s	
+find a better solution in: 0.31 s	
+find a better solution in : 0.31 s	
+find a better solution in : 0.31 s	
+find a better solution in : 0.31 s	
+find a better solution in : 0.31 s	
+find a better solution in : 0.33 s	
+find a better solution in: 0.33 s	
+find a better solution in: 0.34 s	
+find a better solution in : 0.34 s	
+find a better solution in : 0.34 s	
+find a better solution in : 0.34 s	
+find a better solution in : 0.41 s	
+find a better solution in : 0.41 s	
+find a better solution in: 0.41 s	
+find a better solution in: 0.41 s	
+find a better solution in: 0.41 s	
+find a better solution in : 0.41 s	
+find a better solution in : 0.41 s	
+find a better solution in: 0.41 s	
+find a better solution in: 0.41 s	
+find a better solution in : 0.44 s	
+find a better solution in: 0.48 s	
+find a better solution in: 0.50 s	
+find a better solution in: 0.50 s	
+find a better solution in : 0.52 s	
+find a better solution in : 0.52 s	
+find a better solution in: 0.62 s	
+find a better solution in: 0.64 s	
+find a better solution in : 0.66 s	
+find a better solution in: 0.69 s	
+find a better solution in : 0.70 s	
+find a better solution in : 0.70 s	
+find a better solution in : 0.70 s	
+find a better solution in : 0.70 s	
+find a better solution in : 0.77 s	
+find a better solution in : 0.83 s	
+1 generation time: 0.84 s
+*****************************t=1*****************************
+find a better solution in : 0.86 s	
+find a better solution in: 0.86 s	
+find a better solution in : 0.87 s	
+find a better solution in : 0.91 s	
+find a better solution in: 0.92 s	
+find a better solution in: 0.98 s	
+find a better solution in : 0.98 s	
+find a better solution in: 0.98 s	
+find a better solution in: 0.98 s	
+find a better solution in: 0.98 s	
+find a better solution in : 0.98 s	
+find a better solution in : 1.00 s	
+find a better solution in: 1.00 s	
+find a better solution in : 1.05 s	
+find a better solution in: 1.05 s	
+find a better solution in: 1.05 s	
+find a better solution in : 1.05 s	
+find a better solution in : 1.06 s	
+find a better solution in : 1.12 s	
+find a better solution in : 1.12 s	
+find a better solution in : 1.12 s	
+find a better solution in: 1.12 s	
+find a better solution in : 1.12 s	
+find a better solution in : 1.12 s	
+find a better solution in: 1.12 s	
+find a better solution in: 1.14 s	
+find a better solution in : 1.20 s	
+find a better solution in: 1.22 s	
+find a better solution in: 1.25 s	
+find a better solution in: 1.26 s	
+find a better solution in: 1.34 s	
+find a better solution in : 1.34 s	
+find a better solution in : 1.34 s	
+find a better solution in : 1.34 s	
+find a better solution in : 1.37 s	
+updateTimes = 11
+find a better solution in : 1.58 s	
+find a better solution in : 1.72 s	
+find a better solution in: 1.72 s	
+find a better solution in: 1.73 s	
+find a better solution in : 1.78 s	
+find a better solution in: 1.80 s	
+find a better solution in: 2.26 s	
+find a better solution in : 2.32 s	
+find a better solution in: 2.32 s	
+find a better solution in: 2.32 s	
+find a better solution in: 2.46 s	
+find a better solution in: 2.48 s	
+find a better solution in : 2.52 s	
+find a better solution in : 2.52 s	
+makespan = 167199.000000 workload = 81277.000000 energy = 141725.350000
+makespan = 210258.000000 workload = 64253.500000 energy = 176342.800000
+makespan = 231503.000000 workload = 75465.500000 energy = 161045.950000
+makespan = 209528.000000 workload = 65445.000000 energy = 174619.450000
+makespan = 169062.000000 workload = 21251.500000 energy = 155498.500000
+makespan = 162340.000000 workload = 25569.000000 energy = 155926.050000
+makespan = 210410.000000 workload = 81335.000000 energy = 152945.500000
+makespan = 170206.000000 workload = 73955.000000 energy = 138961.650000
+makespan = 190099.000000 workload = 69599.500000 energy = 168508.200000
+makespan = 199561.000000 workload = 57749.000000 energy = 165844.450000
+makespan = 193292.000000 workload = 105609.500000 energy = 144549.900000
+makespan = 239152.000000 workload = 112347.500000 energy = 180762.650000
+makespan = 209754.000000 workload = 5965.000000 energy = 182353.100000
+makespan = 149140.000000 workload = 20867.000000 energy = 148406.750000
+makespan = 164110.000000 workload = 27134.500000 energy = 146869.200000
+makespan = 158427.000000 workload = 60677.000000 energy = 135397.550000
+makespan = 209258.000000 workload = 70633.500000 energy = 168672.050000
+makespan = 190762.000000 workload = 80387.000000 energy = 166129.150000
+makespan = 187659.000000 workload = 90537.000000 energy = 140635.350000
+makespan = 170206.000000 workload = 23935.000000 energy = 158407.700000
+makespan = 169802.000000 workload = 31960.500000 energy = 155513.650000
+makespan = 189250.000000 workload = 59623.000000 energy = 166821.200000
+makespan = 200852.000000 workload = 93641.000000 energy = 154291.700000
+makespan = 198418.000000 workload = 94695.000000 energy = 129653.550000
+makespan = 212441.000000 workload = 30207.500000 energy = 175370.900000
+makespan = 214874.000000 workload = 9186.500000 energy = 186108.650000
+makespan = 198801.000000 workload = 94613.000000 energy = 153582.350000
+makespan = 172788.000000 workload = 26244.500000 energy = 158468.350000
+makespan = 169164.000000 workload = 44763.000000 energy = 160765.200000
+makespan = 168658.000000 workload = 77205.500000 energy = 146322.300000
+makespan = 163324.000000 workload = 94695.000000 energy = 118291.300000
+makespan = 178973.000000 workload = 78781.000000 energy = 129978.550000
+makespan = 168262.000000 workload = 28779.000000 energy = 151914.500000
+makespan = 175452.000000 workload = 121621.000000 energy = 144967.300000
+makespan = 162340.000000 workload = 41981.000000 energy = 145925.300000
+makespan = 178851.000000 workload = 50325.000000 energy = 146719.750000
+makespan = 146673.000000 workload = 27134.500000 energy = 145818.550000
+makespan = 148722.000000 workload = 57215.000000 energy = 125155.550000
+makespan = 179058.000000 workload = 72075.000000 energy = 129772.500000
+makespan = 164569.000000 workload = 38519.000000 energy = 141441.300000
+makespan = 140040.000000 workload = 14846.500000 energy = 136679.650000
+makespan = 143238.000000 workload = 23260.500000 energy = 146289.300000
+makespan = 167118.000000 workload = 67281.000000 energy = 147935.950000
+makespan = 150171.000000 workload = 11026.500000 energy = 143519.600000
+makespan = 148142.000000 workload = 71993.000000 energy = 129145.200000
+makespan = 194568.000000 workload = 79365.000000 energy = 141599.000000
+makespan = 163739.000000 workload = 114299.000000 energy = 126859.650000
+makespan = 143522.000000 workload = 46820.500000 energy = 145360.650000
+makespan = 194248.000000 workload = 47792.500000 energy = 151258.050000
+makespan = 140364.000000 workload = 28645.000000 energy = 138267.700000
+makespan = 140282.000000 workload = 25077.000000 energy = 141431.700000
+makespan = 151191.000000 workload = 44940.500000 energy = 141422.050000
+makespan = 152399.000000 workload = 94695.000000 energy = 118859.850000
+makespan = 160050.000000 workload = 18498.500000 energy = 146384.400000
+makespan = 160590.000000 workload = 6005.000000 energy = 156068.550000
+makespan = 168546.000000 workload = 52033.000000 energy = 147210.600000
+makespan = 140056.000000 workload = 20378.500000 energy = 140952.000000
+makespan = 158342.000000 workload = 60677.000000 energy = 138245.450000
+makespan = 148666.000000 workload = 41687.500000 energy = 128022.300000
+makespan = 150531.000000 workload = 50071.000000 energy = 139540.350000
+2 generation time: 2.59 s
+*****************************t=2*****************************
+find a better solution in : 2.60 s	
+find a better solution in: 2.60 s	
+find a better solution in : 2.60 s	
+find a better solution in : 2.65 s	
+find a better solution in: 2.65 s	
+find a better solution in : 2.65 s	
+find a better solution in : 2.73 s	
+find a better solution in: 2.73 s	
+find a better solution in: 2.74 s	
+find a better solution in : 2.85 s	
+find a better solution in : 2.87 s	
+find a better solution in: 2.87 s	
+find a better solution in: 2.96 s	
+find a better solution in : 2.96 s	
+find a better solution in : 2.96 s	
+find a better solution in: 3.04 s	
+find a better solution in : 3.13 s	
+updateTimes = 11
+find a better solution in : 3.34 s	
+find a better solution in : 3.34 s	
+find a better solution in: 3.34 s	
+find a better solution in: 3.35 s	
+find a better solution in: 3.35 s	
+find a better solution in : 3.35 s	
+find a better solution in : 3.35 s	
+find a better solution in: 3.35 s	
+find a better solution in : 3.35 s	
+find a better solution in: 3.52 s	
+find a better solution in : 3.52 s	
+find a better solution in : 3.60 s	
+find a better solution in : 3.60 s	
+find a better solution in : 3.60 s	
+find a better solution in: 3.60 s	
+find a better solution in: 3.62 s	
+find a better solution in : 3.77 s	
+find a better solution in : 3.77 s	
+find a better solution in : 3.77 s	
+find a better solution in : 3.77 s	
+find a better solution in: 3.77 s	
+find a better solution in: 3.77 s	
+find a better solution in: 3.77 s	
+find a better solution in : 3.79 s	
+find a better solution in: 3.79 s	
+find a better solution in : 3.79 s	
+find a better solution in: 3.79 s	
+find a better solution in: 3.79 s	
+find a better solution in: 3.79 s	
+find a better solution in: 4.17 s	
+makespan = 220613.000000 workload = 103623.500000 energy = 152554.500000
+makespan = 139700.000000 workload = 47792.500000 energy = 125584.150000
+makespan = 182374.000000 workload = 76901.000000 energy = 152016.050000
+makespan = 163402.000000 workload = 50157.500000 energy = 150654.550000
+makespan = 172906.000000 workload = 38107.000000 energy = 157061.800000
+makespan = 149203.000000 workload = 50961.000000 energy = 139714.700000
+makespan = 192574.000000 workload = 44940.500000 energy = 171175.100000
+makespan = 200138.000000 workload = 67229.000000 energy = 168428.050000
+makespan = 212597.000000 workload = 69879.000000 energy = 172324.300000
+makespan = 167142.000000 workload = 62663.000000 energy = 139971.800000
+makespan = 204797.000000 workload = 90739.000000 energy = 149131.650000
+makespan = 169380.000000 workload = 82993.000000 energy = 124649.300000
+makespan = 176441.000000 workload = 29417.500000 energy = 162226.450000
+makespan = 189265.000000 workload = 86867.000000 energy = 154827.800000
+makespan = 153591.000000 workload = 32520.500000 energy = 147029.900000
+makespan = 188245.000000 workload = 72075.000000 energy = 149470.350000
+makespan = 163321.000000 workload = 67478.500000 energy = 132775.050000
+makespan = 223418.000000 workload = 40553.000000 energy = 184094.650000
+makespan = 182471.000000 workload = 55773.000000 energy = 165674.200000
+makespan = 187804.000000 workload = 101045.000000 energy = 155803.300000
+makespan = 163744.000000 workload = 46807.000000 energy = 150725.400000
+makespan = 149544.000000 workload = 24741.000000 energy = 149463.750000
+makespan = 170182.000000 workload = 60701.000000 energy = 129514.150000
+makespan = 186917.000000 workload = 40759.000000 energy = 169340.950000
+makespan = 188094.000000 workload = 40984.500000 energy = 171513.050000
+makespan = 225997.000000 workload = 100963.000000 energy = 174406.350000
+makespan = 168522.000000 workload = 65807.500000 energy = 146393.900000
+makespan = 185785.000000 workload = 58707.000000 energy = 168395.900000
+makespan = 182836.000000 workload = 58387.500000 energy = 165483.250000
+makespan = 178453.000000 workload = 74907.000000 energy = 148658.150000
+makespan = 148657.000000 workload = 62417.000000 energy = 122599.700000
+makespan = 177371.000000 workload = 56797.000000 energy = 144242.150000
+makespan = 149112.000000 workload = 46749.000000 energy = 146512.700000
+makespan = 168522.000000 workload = 62639.000000 energy = 136788.400000
+makespan = 140040.000000 workload = 15760.500000 energy = 140638.300000
+makespan = 160044.000000 workload = 53061.500000 energy = 132448.850000
+makespan = 148936.000000 workload = 42749.000000 energy = 134611.850000
+makespan = 145128.000000 workload = 32683.000000 energy = 131197.100000
+makespan = 150181.000000 workload = 66291.000000 energy = 131514.300000
+makespan = 149468.000000 workload = 8937.000000 energy = 149775.700000
+makespan = 140190.000000 workload = 9829.000000 energy = 136663.850000
+makespan = 149140.000000 workload = 26937.000000 energy = 146469.900000
+makespan = 190265.000000 workload = 79423.000000 energy = 127150.200000
+makespan = 144699.000000 workload = 46623.000000 energy = 137062.500000
+makespan = 149136.000000 workload = 27807.000000 energy = 146663.100000
+makespan = 143177.000000 workload = 32347.000000 energy = 126324.500000
+makespan = 149008.000000 workload = 46820.500000 energy = 146107.400000
+makespan = 150429.000000 workload = 29998.500000 energy = 144004.150000
+makespan = 197683.000000 workload = 92637.500000 energy = 138239.500000
+makespan = 148661.000000 workload = 41663.500000 energy = 134270.200000
+makespan = 150624.000000 workload = 65319.000000 energy = 138295.900000
+makespan = 170243.000000 workload = 56731.500000 energy = 139764.850000
+makespan = 163899.000000 workload = 57215.000000 energy = 128412.950000
+makespan = 150657.000000 workload = 45537.500000 energy = 136360.100000
+makespan = 190364.000000 workload = 94695.000000 energy = 127398.800000
+makespan = 150039.000000 workload = 67478.500000 energy = 128092.400000
+makespan = 149136.000000 workload = 53307.500000 energy = 146638.500000
+makespan = 151246.000000 workload = 27216.500000 energy = 137463.900000
+makespan = 160172.000000 workload = 31763.000000 energy = 147751.800000
+makespan = 153223.000000 workload = 47792.500000 energy = 132161.250000
+3 generation time: 4.20 s
+*****************************t=3*****************************
+find a better solution in : 4.24 s	
+find a better solution in: 4.24 s	
+find a better solution in : 4.31 s	
+find a better solution in: 4.40 s	
+find a better solution in : 4.40 s	
+find a better solution in : 4.60 s	
+find a better solution in: 4.60 s	
+find a better solution in : 4.60 s	
+find a better solution in : 4.62 s	
+find a better solution in: 4.62 s	
+find a better solution in: 4.62 s	
+find a better solution in: 4.62 s	
+find a better solution in : 4.63 s	
+find a better solution in : 4.63 s	
+find a better solution in : 4.70 s	
+find a better solution in : 4.70 s	
+find a better solution in: 4.81 s	
+find a better solution in : 4.82 s	
+find a better solution in : 4.82 s	
+find a better solution in : 4.84 s	
+find a better solution in: 4.85 s	
+find a better solution in : 4.85 s	
+find a better solution in: 4.87 s	
+find a better solution in: 4.87 s	
+find a better solution in: 4.87 s	
+find a better solution in: 4.87 s	
+find a better solution in : 4.87 s	
+find a better solution in : 4.87 s	
+updateTimes = 11
+find a better solution in: 4.98 s	
+find a better solution in : 5.68 s	
+find a better solution in: 5.70 s	
+find a better solution in: 5.70 s	
+find a better solution in : 5.73 s	
+makespan = 204343.000000 workload = 81277.000000 energy = 169643.850000
+makespan = 154530.000000 workload = 47543.000000 energy = 131619.200000
+makespan = 199275.000000 workload = 39074.500000 energy = 166842.800000
+makespan = 203320.000000 workload = 53839.000000 energy = 176413.900000
+makespan = 197262.000000 workload = 80363.000000 energy = 166140.350000
+makespan = 219248.000000 workload = 59095.000000 energy = 156387.150000
+makespan = 245481.000000 workload = 67478.500000 energy = 168100.550000
+makespan = 162644.000000 workload = 60701.000000 energy = 139458.650000
+makespan = 193827.000000 workload = 46820.500000 energy = 175220.850000
+makespan = 196084.000000 workload = 82349.000000 energy = 154083.950000
+makespan = 228548.000000 workload = 53841.000000 energy = 169366.550000
+makespan = 179033.000000 workload = 80997.500000 energy = 162101.400000
+makespan = 252244.000000 workload = 65115.000000 energy = 192485.150000
+makespan = 209124.000000 workload = 65445.000000 energy = 174788.150000
+makespan = 209308.000000 workload = 108463.000000 energy = 173200.800000
+makespan = 197336.000000 workload = 40817.000000 energy = 171993.550000
+makespan = 193319.000000 workload = 58683.000000 energy = 151362.950000
+makespan = 199133.000000 workload = 43918.500000 energy = 151564.150000
+makespan = 163657.000000 workload = 50937.000000 energy = 147626.950000
+makespan = 163634.000000 workload = 47471.500000 energy = 150180.650000
+makespan = 161907.000000 workload = 41956.500000 energy = 146282.250000
+makespan = 143257.000000 workload = 43918.500000 energy = 125393.450000
+makespan = 169642.000000 workload = 36139.000000 energy = 155018.400000
+makespan = 192018.000000 workload = 60901.000000 energy = 170906.200000
+makespan = 189720.000000 workload = 80387.000000 energy = 164449.800000
+makespan = 215390.000000 workload = 67229.000000 energy = 181074.050000
+makespan = 211073.000000 workload = 64297.000000 energy = 171779.100000
+makespan = 193296.000000 workload = 105609.500000 energy = 141912.800000
+makespan = 202513.000000 workload = 108515.000000 energy = 140718.050000
+makespan = 170158.000000 workload = 32544.500000 energy = 158069.850000
+makespan = 140490.000000 workload = 47792.500000 energy = 128061.200000
+makespan = 140478.000000 workload = 25172.500000 energy = 141168.500000
+makespan = 159847.000000 workload = 13985.000000 energy = 156241.300000
+makespan = 172569.000000 workload = 27787.000000 energy = 164672.900000
+makespan = 139588.000000 workload = 46820.500000 energy = 140626.400000
+makespan = 168542.000000 workload = 51951.000000 energy = 150154.550000
+makespan = 150063.000000 workload = 67478.500000 energy = 127906.050000
+makespan = 148642.000000 workload = 41663.500000 energy = 136367.700000
+makespan = 162063.000000 workload = 58205.000000 energy = 142742.400000
+makespan = 142272.000000 workload = 33287.000000 energy = 144041.550000
+makespan = 139636.000000 workload = 76431.000000 energy = 140464.800000
+makespan = 148984.000000 workload = 42005.000000 energy = 146091.600000
+makespan = 166830.000000 workload = 94613.000000 energy = 137970.250000
+makespan = 148666.000000 workload = 41687.500000 energy = 126295.600000
+makespan = 158308.000000 workload = 57133.000000 energy = 143250.050000
+makespan = 151431.000000 workload = 88859.000000 energy = 123883.150000
+makespan = 168090.000000 workload = 38107.000000 energy = 157206.450000
+makespan = 160024.000000 workload = 46902.500000 energy = 144604.650000
+makespan = 149291.000000 workload = 31405.000000 energy = 148499.950000
+makespan = 148980.000000 workload = 16504.500000 energy = 146125.200000
+makespan = 138676.000000 workload = 46820.500000 energy = 133889.700000
+makespan = 152471.000000 workload = 55221.000000 energy = 131427.700000
+makespan = 180934.000000 workload = 11873.000000 energy = 170772.850000
+makespan = 159213.000000 workload = 36139.000000 energy = 154786.750000
+makespan = 160152.000000 workload = 52421.000000 energy = 146096.000000
+makespan = 149114.000000 workload = 62417.000000 energy = 122252.850000
+makespan = 148661.000000 workload = 47792.500000 energy = 125045.250000
+makespan = 148964.000000 workload = 47309.000000 energy = 146193.700000
+makespan = 166415.000000 workload = 63209.500000 energy = 140670.600000
+makespan = 148609.000000 workload = 64297.000000 energy = 125191.750000
+updateTimes = 11
+find a better solution in: 5.84 s	
+find a better solution in: 6.23 s	
+find a better solution in : 6.23 s	
+find a better solution in : 6.51 s	
+find a better solution in: 6.51 s	
+find a better solution in : 6.51 s	
+find a better solution in : 6.59 s	
+makespan = 221350.000000 workload = 63123.000000 energy = 181178.100000
+makespan = 182820.000000 workload = 37883.000000 energy = 166745.300000
+makespan = 179871.000000 workload = 52923.000000 energy = 160472.300000
+makespan = 253638.000000 workload = 43349.500000 energy = 201551.100000
+makespan = 219533.000000 workload = 111397.000000 energy = 140496.850000
+makespan = 188249.000000 workload = 77461.000000 energy = 151590.300000
+makespan = 200945.000000 workload = 112185.000000 energy = 168038.300000
+makespan = 188746.000000 workload = 100963.000000 energy = 163769.400000
+makespan = 188204.000000 workload = 67478.500000 energy = 142407.600000
+makespan = 180332.000000 workload = 62581.000000 energy = 142753.700000
+makespan = 184354.000000 workload = 40019.000000 energy = 169844.150000
+makespan = 162620.000000 workload = 53643.500000 energy = 154995.600000
+makespan = 192058.000000 workload = 67478.500000 energy = 144558.700000
+makespan = 162057.000000 workload = 44858.500000 energy = 157042.400000
+makespan = 162744.000000 workload = 44489.000000 energy = 140104.050000
+makespan = 221326.000000 workload = 67147.000000 energy = 176186.150000
+makespan = 232304.000000 workload = 88881.000000 energy = 193262.450000
+makespan = 221204.000000 workload = 71103.000000 energy = 178472.250000
+makespan = 171431.000000 workload = 85593.500000 energy = 156218.500000
+makespan = 215786.000000 workload = 63604.500000 energy = 160702.250000
+makespan = 180349.000000 workload = 58707.000000 energy = 149280.150000
+makespan = 197142.000000 workload = 109459.500000 energy = 148836.500000
+makespan = 182000.000000 workload = 62581.000000 energy = 145766.200000
+makespan = 230122.000000 workload = 49435.000000 energy = 193947.950000
+makespan = 201784.000000 workload = 54249.000000 energy = 175901.100000
+makespan = 188596.000000 workload = 50211.000000 energy = 166924.800000
+makespan = 169700.000000 workload = 68379.000000 energy = 132077.500000
+makespan = 148613.000000 workload = 52923.000000 energy = 135780.850000
+makespan = 179135.000000 workload = 84845.500000 energy = 153615.350000
+makespan = 215324.000000 workload = 106549.500000 energy = 171900.700000
+makespan = 168302.000000 workload = 67478.500000 energy = 134740.650000
+makespan = 151340.000000 workload = 10543.000000 energy = 151735.750000
+makespan = 143196.000000 workload = 47792.500000 energy = 125387.850000
+makespan = 148433.000000 workload = 11665.000000 energy = 151562.350000
+makespan = 173208.000000 workload = 111397.000000 energy = 120155.050000
+makespan = 149843.000000 workload = 41036.500000 energy = 142145.350000
+makespan = 143196.000000 workload = 47792.500000 energy = 124350.700000
+makespan = 140130.000000 workload = 25077.000000 energy = 141323.100000
+makespan = 151717.000000 workload = 31960.500000 energy = 142988.000000
+makespan = 168086.000000 workload = 62581.000000 energy = 138071.250000
+makespan = 140490.000000 workload = 47792.500000 energy = 128271.900000
+makespan = 150681.000000 workload = 85895.000000 energy = 138093.600000
+makespan = 190265.000000 workload = 77389.500000 energy = 127608.900000
+makespan = 149008.000000 workload = 11862.500000 energy = 145999.800000
+makespan = 143245.000000 workload = 50937.000000 energy = 124709.150000
+makespan = 149469.000000 workload = 21999.000000 energy = 145321.700000
+makespan = 148964.000000 workload = 58707.000000 energy = 148838.750000
+makespan = 143313.000000 workload = 11543.000000 energy = 146637.850000
+makespan = 149119.000000 workload = 21941.000000 energy = 144707.500000
+makespan = 148681.000000 workload = 46749.000000 energy = 130278.850000
+makespan = 140404.000000 workload = 33484.500000 energy = 141043.000000
+makespan = 187342.000000 workload = 35249.000000 energy = 166368.900000
+makespan = 148988.000000 workload = 51183.000000 energy = 148433.050000
+makespan = 163823.000000 workload = 76901.000000 energy = 129279.600000
+makespan = 143196.000000 workload = 33287.000000 energy = 133344.250000
+makespan = 139231.000000 workload = 21029.500000 energy = 133773.450000
+makespan = 155048.000000 workload = 67478.500000 energy = 130183.800000
+makespan = 148666.000000 workload = 43721.000000 energy = 124957.900000
+makespan = 149008.000000 workload = 15736.500000 energy = 146225.400000
+makespan = 140916.000000 workload = 29389.000000 energy = 143920.450000
+4 generation time: 6.70 s
+*****************************t=4*****************************
+find a better solution in : 6.79 s	
+find a better solution in: 6.79 s	
+find a better solution in: 7.01 s	
+find a better solution in: 7.45 s	
+find a better solution in: 7.46 s	
+find a better solution in : 7.46 s	
+updateTimes = 11
+find a better solution in : 7.78 s	
+find a better solution in : 8.13 s	
+find a better solution in: 8.15 s	
+makespan = 149544.000000 workload = 20867.000000 energy = 148870.200000
+makespan = 148485.000000 workload = 45149.500000 energy = 145980.400000
+makespan = 155565.000000 workload = 41981.000000 energy = 148434.350000
+makespan = 184480.000000 workload = 70623.000000 energy = 164465.000000
+makespan = 168242.000000 workload = 47792.500000 energy = 138772.850000
+makespan = 190210.000000 workload = 89565.000000 energy = 169424.450000
+makespan = 188968.000000 workload = 35446.500000 energy = 170063.100000
+makespan = 170206.000000 workload = 13905.000000 energy = 158813.800000
+makespan = 188690.000000 workload = 35249.000000 energy = 169477.150000
+makespan = 190002.000000 workload = 40715.500000 energy = 165450.500000
+makespan = 247360.000000 workload = 56743.000000 energy = 203369.800000
+makespan = 175388.000000 workload = 44940.500000 energy = 148009.850000
+makespan = 209245.000000 workload = 82267.000000 energy = 174589.500000
+makespan = 178841.000000 workload = 30207.500000 energy = 165331.200000
+makespan = 195818.000000 workload = 88763.500000 energy = 131757.100000
+makespan = 224849.000000 workload = 83239.000000 energy = 155338.400000
+makespan = 225553.000000 workload = 109339.500000 energy = 168892.000000
+makespan = 204523.000000 workload = 47792.500000 energy = 153474.650000
+makespan = 212994.000000 workload = 56773.000000 energy = 181497.450000
+makespan = 150809.000000 workload = 24211.000000 energy = 142904.250000
+makespan = 193712.000000 workload = 74521.000000 energy = 164757.150000
+makespan = 177361.000000 workload = 100963.000000 energy = 157109.900000
+makespan = 179365.000000 workload = 44359.500000 energy = 166317.650000
+makespan = 248340.000000 workload = 100939.000000 energy = 199176.250000
+makespan = 179413.000000 workload = 77099.500000 energy = 144841.450000
+makespan = 169720.000000 workload = 49989.000000 energy = 159184.300000
+makespan = 193621.000000 workload = 82989.500000 energy = 146012.350000
+makespan = 190738.000000 workload = 80281.000000 energy = 171827.500000
+makespan = 200545.000000 workload = 67177.000000 energy = 158382.350000
+makespan = 181012.000000 workload = 65516.500000 energy = 153726.550000
+makespan = 138658.000000 workload = 46820.500000 energy = 137476.500000
+makespan = 144233.000000 workload = 62663.000000 energy = 128163.550000
+makespan = 156901.000000 workload = 67478.500000 energy = 131730.900000
+makespan = 163753.000000 workload = 61471.500000 energy = 159527.100000
+makespan = 182398.000000 workload = 47792.500000 energy = 145609.600000
+makespan = 148964.000000 workload = 58509.500000 energy = 146139.100000
+makespan = 168122.000000 workload = 68253.000000 energy = 132042.100000
+makespan = 163328.000000 workload = 94695.000000 energy = 119766.550000
+makespan = 148951.000000 workload = 41943.000000 energy = 132648.200000
+makespan = 140392.000000 workload = 47792.500000 energy = 125630.850000
+makespan = 169710.000000 workload = 73065.000000 energy = 133680.950000
+makespan = 182525.000000 workload = 90821.000000 energy = 118582.200000
+makespan = 146263.000000 workload = 32653.000000 energy = 138645.650000
+makespan = 167122.000000 workload = 68171.000000 energy = 139946.500000
+makespan = 143184.000000 workload = 30289.500000 energy = 135520.200000
+makespan = 149603.000000 workload = 67478.500000 energy = 126834.800000
+makespan = 161887.000000 workload = 68129.500000 energy = 127872.050000
+makespan = 168086.000000 workload = 74037.000000 energy = 140291.950000
+makespan = 150041.000000 workload = 20647.500000 energy = 140712.100000
+makespan = 171772.000000 workload = 23190.500000 energy = 144865.600000
+makespan = 149112.000000 workload = 23063.000000 energy = 146270.100000
+makespan = 143165.000000 workload = 30289.500000 energy = 128909.750000
+makespan = 168102.000000 workload = 47792.500000 energy = 136596.200000
+makespan = 168126.000000 workload = 64297.000000 energy = 136296.700000
+makespan = 149671.000000 workload = 44763.000000 energy = 141225.400000
+makespan = 153223.000000 workload = 67478.500000 energy = 128982.150000
+makespan = 177764.000000 workload = 53283.500000 energy = 157378.300000
+makespan = 142832.000000 workload = 58683.000000 energy = 141740.000000
+makespan = 178925.000000 workload = 115271.000000 energy = 116711.600000
+makespan = 144649.000000 workload = 46820.500000 energy = 139542.100000
+5 generation time: 8.40 s
+*****************************t=5*****************************
+find a better solution in: 8.67 s	
+find a better solution in: 8.67 s	
+find a better solution in : 8.84 s	
+find a better solution in: 8.84 s	
+find a better solution in : 8.88 s	
+updateTimes = 11
+makespan = 187780.000000 workload = 58765.000000 energy = 146012.500000
+makespan = 183932.000000 workload = 58387.500000 energy = 170300.050000
+makespan = 182968.000000 workload = 65516.500000 energy = 163311.800000
+makespan = 190921.000000 workload = 81277.000000 energy = 142846.050000
+makespan = 205109.000000 workload = 110915.500000 energy = 150451.950000
+makespan = 189866.000000 workload = 100963.000000 energy = 160670.500000
+makespan = 262363.000000 workload = 129997.500000 energy = 162676.450000
+makespan = 170397.000000 workload = 34645.000000 energy = 146777.500000
+makespan = 198868.000000 workload = 35101.500000 energy = 171755.100000
+makespan = 227822.000000 workload = 58205.000000 energy = 184089.900000
+makespan = 241388.000000 workload = 68989.000000 energy = 187050.100000
+makespan = 229620.000000 workload = 70185.000000 energy = 185622.550000
+makespan = 202662.000000 workload = 80387.000000 energy = 167918.550000
+makespan = 160196.000000 workload = 56803.000000 energy = 141125.750000
+makespan = 169380.000000 workload = 82993.000000 energy = 124946.350000
+makespan = 168546.000000 workload = 65807.500000 energy = 154187.500000
+makespan = 214732.000000 workload = 55759.500000 energy = 176106.850000
+makespan = 199348.000000 workload = 59633.500000 energy = 169560.800000
+makespan = 177751.000000 workload = 52899.000000 energy = 142229.800000
+makespan = 175914.000000 workload = 44940.500000 energy = 153839.950000
+makespan = 178887.000000 workload = 61585.000000 energy = 163650.800000
+makespan = 186191.000000 workload = 62581.000000 energy = 162627.000000
+makespan = 169218.000000 workload = 46725.000000 energy = 158501.400000
+makespan = 180328.000000 workload = 70869.000000 energy = 160135.000000
+makespan = 215324.000000 workload = 59647.000000 energy = 175516.200000
+makespan = 172963.000000 workload = 34339.000000 energy = 162398.850000
+makespan = 202654.000000 workload = 97839.500000 energy = 162708.800000
+makespan = 208976.000000 workload = 44869.000000 energy = 174886.350000
+makespan = 181230.000000 workload = 20215.000000 energy = 159281.500000
+makespan = 218527.000000 workload = 99885.500000 energy = 142789.200000
+makespan = 146729.000000 workload = 26815.000000 energy = 147228.500000
+makespan = 177703.000000 workload = 47792.500000 energy = 147236.550000
+makespan = 163316.000000 workload = 46820.500000 energy = 157882.600000
+makespan = 162332.000000 workload = 67478.500000 energy = 129051.000000
+makespan = 188316.000000 workload = 112419.000000 energy = 140892.400000
+makespan = 168126.000000 workload = 94695.000000 energy = 125075.900000
+makespan = 168594.000000 workload = 59177.000000 energy = 138943.050000
+makespan = 139522.000000 workload = 42946.500000 energy = 140519.900000
+makespan = 148657.000000 workload = 41663.500000 energy = 127740.000000
+makespan = 148984.000000 workload = 42005.000000 energy = 148331.450000
+makespan = 151435.000000 workload = 92733.000000 energy = 120349.200000
+makespan = 149116.000000 workload = 38035.500000 energy = 146483.900000
+makespan = 150074.000000 workload = 62383.500000 energy = 148792.500000
+makespan = 140478.000000 workload = 26244.500000 energy = 141266.200000
+makespan = 211033.000000 workload = 104035.500000 energy = 136913.350000
+makespan = 169638.000000 workload = 37091.000000 energy = 151612.950000
+makespan = 154952.000000 workload = 67478.500000 energy = 130165.900000
+makespan = 150685.000000 workload = 45561.500000 energy = 138550.650000
+makespan = 149184.000000 workload = 42005.000000 energy = 149900.600000
+makespan = 188722.000000 workload = 55883.000000 energy = 160136.700000
+makespan = 149973.000000 workload = 46902.500000 energy = 136705.700000
+makespan = 161867.000000 workload = 74037.000000 energy = 127273.350000
+makespan = 143522.000000 workload = 46820.500000 energy = 145141.550000
+makespan = 166619.000000 workload = 22411.000000 energy = 146912.100000
+makespan = 149184.000000 workload = 46820.500000 energy = 149734.000000
+makespan = 166830.000000 workload = 79143.500000 energy = 136652.500000
+makespan = 168126.000000 workload = 87939.000000 energy = 145004.300000
+makespan = 151435.000000 workload = 88859.000000 energy = 120933.800000
+makespan = 163941.000000 workload = 67478.500000 energy = 132259.500000
+makespan = 195761.000000 workload = 88763.500000 energy = 137954.200000
+6 generation time: 9.85 s
+*****************************t=6*****************************
+find a better solution in : 9.99 s	
+find a better solution in: 10.01 s	
+find a better solution in : 10.24 s	
+find a better solution in : 10.24 s	
+find a better solution in: 10.26 s	
+find a better solution in: 10.26 s	
+find a better solution in : 10.26 s	
+find a better solution in : 10.29 s	
+find a better solution in: 10.31 s	
+find a better solution in : 10.31 s	
+find a better solution in : 10.43 s	
+find a better solution in : 10.46 s	
+find a better solution in : 10.46 s	
+find a better solution in: 10.46 s	
+updateTimes = 11
+find a better solution in: 10.60 s	
+find a better solution in: 10.60 s	
+find a better solution in: 10.60 s	
+find a better solution in: 10.60 s	
+find a better solution in : 10.60 s	
+find a better solution in : 10.60 s	
+find a better solution in : 10.85 s	
+find a better solution in: 10.85 s	
+find a better solution in: 10.85 s	
+makespan = 182779.000000 workload = 45830.500000 energy = 153187.650000
+makespan = 204738.000000 workload = 65516.500000 energy = 171871.650000
+makespan = 175137.000000 workload = 65516.500000 energy = 147240.650000
+makespan = 199251.000000 workload = 47792.500000 energy = 150275.250000
+makespan = 192703.000000 workload = 84955.000000 energy = 148284.150000
+makespan = 223456.000000 workload = 44940.500000 energy = 178980.300000
+makespan = 200542.000000 workload = 71103.000000 energy = 169161.350000
+makespan = 190324.000000 workload = 52909.500000 energy = 156733.650000
+makespan = 193980.000000 workload = 51321.500000 energy = 165449.250000
+makespan = 197291.000000 workload = 35422.500000 energy = 169876.750000
+makespan = 169200.000000 workload = 80281.000000 energy = 157985.500000
+makespan = 191444.000000 workload = 74703.000000 energy = 168031.500000
+makespan = 156303.000000 workload = 62417.000000 energy = 131529.500000
+makespan = 206313.000000 workload = 56455.500000 energy = 158540.250000
+makespan = 210946.000000 workload = 8731.000000 energy = 178110.250000
+makespan = 187444.000000 workload = 91761.000000 energy = 164386.550000
+makespan = 195449.000000 workload = 101045.000000 energy = 155762.450000
+makespan = 222200.000000 workload = 80363.000000 energy = 175087.200000
+makespan = 167118.000000 workload = 79341.000000 energy = 137927.850000
+makespan = 200675.000000 workload = 79753.000000 energy = 146765.200000
+makespan = 190811.000000 workload = 109155.500000 energy = 143575.950000
+makespan = 241160.000000 workload = 74989.000000 energy = 182918.850000
+makespan = 169384.000000 workload = 71595.000000 energy = 139597.700000
+makespan = 225577.000000 workload = 109435.000000 energy = 149982.750000
+makespan = 200722.000000 workload = 47792.500000 energy = 151850.700000
+makespan = 171332.000000 workload = 37465.000000 energy = 153293.600000
+makespan = 201970.000000 workload = 99801.500000 energy = 149803.000000
+makespan = 192676.000000 workload = 63305.000000 energy = 172902.850000
+makespan = 180653.000000 workload = 21227.000000 energy = 167270.300000
+makespan = 192708.000000 workload = 55967.000000 energy = 159032.450000
+makespan = 149340.000000 workload = 42005.000000 energy = 150053.300000
+makespan = 143522.000000 workload = 46820.500000 energy = 145360.650000
+makespan = 150793.000000 workload = 1712.500000 energy = 147162.750000
+makespan = 168518.000000 workload = 47595.000000 energy = 143442.550000
+makespan = 149188.000000 workload = 27134.500000 energy = 151815.350000
+makespan = 152744.000000 workload = 8971.000000 energy = 147132.750000
+makespan = 148951.000000 workload = 44940.500000 energy = 132138.250000
+makespan = 161891.000000 workload = 68129.500000 energy = 137511.000000
+makespan = 144699.000000 workload = 46902.500000 energy = 135040.250000
+makespan = 153587.000000 workload = 6558.500000 energy = 149031.900000
+makespan = 155797.000000 workload = 58819.000000 energy = 135569.550000
+makespan = 139944.000000 workload = 40043.000000 energy = 129756.900000
+makespan = 159683.000000 workload = 1059.000000 energy = 155661.250000
+makespan = 148730.000000 workload = 53341.000000 energy = 131542.850000
+makespan = 162336.000000 workload = 46902.500000 energy = 148344.100000
+makespan = 160063.000000 workload = 55221.000000 energy = 132059.650000
+makespan = 140270.000000 workload = 37547.000000 energy = 141103.600000
+makespan = 149347.000000 workload = 41759.000000 energy = 139111.000000
+makespan = 155777.000000 workload = 62639.000000 energy = 134574.500000
+makespan = 164147.000000 workload = 47792.500000 energy = 141252.050000
+makespan = 160000.000000 workload = 46902.500000 energy = 144808.250000
+makespan = 172008.000000 workload = 59177.000000 energy = 138573.350000
+makespan = 206777.000000 workload = 79753.000000 energy = 148803.000000
+makespan = 172535.000000 workload = 50407.000000 energy = 144930.200000
+makespan = 194540.000000 workload = 134957.000000 energy = 120922.550000
+makespan = 164801.000000 workload = 56243.000000 energy = 148302.400000
+makespan = 170265.000000 workload = 47595.000000 energy = 156151.200000
+makespan = 148437.000000 workload = 9900.500000 energy = 149420.300000
+makespan = 167118.000000 workload = 58765.000000 energy = 138204.250000
+makespan = 195785.000000 workload = 92733.000000 energy = 120438.850000
+updateTimes = 11
+find a better solution in : 11.32 s	
+find a better solution in: 11.68 s	
+find a better solution in : 11.68 s	
+find a better solution in : 11.70 s	
+find a better solution in: 12.01 s	
+find a better solution in : 12.01 s	
+find a better solution in : 12.01 s	
+find a better solution in: 12.01 s	
+find a better solution in : 12.01 s	
+find a better solution in : 12.01 s	
+makespan = 150589.000000 workload = 39961.000000 energy = 144233.700000
+makespan = 221890.000000 workload = 12813.000000 energy = 183622.450000
+makespan = 153207.000000 workload = 46820.500000 energy = 150203.250000
+makespan = 172423.000000 workload = 67201.000000 energy = 145959.750000
+makespan = 190338.000000 workload = 23271.000000 energy = 166694.900000
+makespan = 154559.000000 workload = 58789.000000 energy = 147779.950000
+makespan = 190187.000000 workload = 80281.000000 energy = 164084.500000
+makespan = 173500.000000 workload = 60677.000000 energy = 129130.900000
+makespan = 201698.000000 workload = 64307.500000 energy = 160068.050000
+makespan = 219578.000000 workload = 72993.500000 energy = 177135.850000
+makespan = 220149.000000 workload = 72801.500000 energy = 160246.350000
+makespan = 149353.000000 workload = 60701.000000 energy = 138475.350000
+makespan = 181028.000000 workload = 47111.500000 energy = 162033.350000
+makespan = 181465.000000 workload = 108545.000000 energy = 146128.700000
+makespan = 189834.000000 workload = 70647.000000 energy = 143121.700000
+makespan = 189286.000000 workload = 44579.000000 energy = 168048.800000
+makespan = 181584.000000 workload = 58205.000000 energy = 156950.050000
+makespan = 219076.000000 workload = 94695.000000 energy = 133011.850000
+makespan = 195560.000000 workload = 47543.000000 energy = 167494.700000
+makespan = 179401.000000 workload = 88579.500000 energy = 145909.850000
+makespan = 211726.000000 workload = 38243.000000 energy = 155989.800000
+makespan = 214478.000000 workload = 64737.000000 energy = 179996.300000
+makespan = 208764.000000 workload = 52215.000000 energy = 176668.850000
+makespan = 170067.000000 workload = 62335.000000 energy = 149365.900000
+makespan = 180937.000000 workload = 56547.500000 energy = 166179.400000
+makespan = 199679.000000 workload = 43918.500000 energy = 150950.950000
+makespan = 150741.000000 workload = 41687.500000 energy = 141938.200000
+makespan = 209585.000000 workload = 74037.000000 energy = 171450.300000
+makespan = 189978.000000 workload = 70647.000000 energy = 166247.050000
+makespan = 212747.000000 workload = 126909.500000 energy = 156190.750000
+makespan = 150581.000000 workload = 47595.000000 energy = 128340.900000
+makespan = 153383.000000 workload = 35585.000000 energy = 151368.550000
+makespan = 140364.000000 workload = 21101.000000 energy = 135412.050000
+makespan = 162364.000000 workload = 20077.000000 energy = 151429.600000
+makespan = 150171.000000 workload = 47792.500000 energy = 130016.400000
+makespan = 140356.000000 workload = 51417.000000 energy = 143197.150000
+makespan = 188706.000000 workload = 10693.000000 energy = 169052.950000
+makespan = 140873.000000 workload = 18416.500000 energy = 143439.550000
+makespan = 139944.000000 workload = 40043.000000 energy = 129756.900000
+makespan = 148657.000000 workload = 41759.000000 energy = 124972.650000
+makespan = 159886.000000 workload = 20449.000000 energy = 150586.800000
+makespan = 145120.000000 workload = 35249.000000 energy = 137989.750000
+makespan = 146660.000000 workload = 24975.000000 energy = 145307.850000
+makespan = 146289.000000 workload = 21350.500000 energy = 140068.300000
+makespan = 139830.000000 workload = 21285.000000 energy = 137574.150000
+makespan = 149177.000000 workload = 2600.500000 energy = 142793.100000
+makespan = 160630.000000 workload = 38171.500000 energy = 145869.050000
+makespan = 182549.000000 workload = 88787.500000 energy = 128053.750000
+makespan = 140070.000000 workload = 24282.500000 energy = 138774.100000
+makespan = 148984.000000 workload = 35249.000000 energy = 148636.150000
+makespan = 149149.000000 workload = 55855.000000 energy = 138154.250000
+makespan = 140062.000000 workload = 20378.500000 energy = 140967.200000
+makespan = 189873.000000 workload = 56701.500000 energy = 146920.200000
+makespan = 152743.000000 workload = 55855.000000 energy = 142877.900000
+makespan = 150990.000000 workload = 67478.500000 energy = 127372.500000
+makespan = 150679.000000 workload = 4596.500000 energy = 147019.000000
+makespan = 149151.000000 workload = 25791.000000 energy = 143487.300000
+makespan = 146804.000000 workload = 46902.500000 energy = 139868.300000
+makespan = 150679.000000 workload = 722.500000 energy = 146502.550000
+makespan = 156390.000000 workload = 62639.000000 energy = 126580.600000
+7 generation time: 12.07 s
+*****************************t=7*****************************
+find a better solution in: 12.12 s	
+find a better solution in: 12.12 s	
+find a better solution in: 12.15 s	
+find a better solution in : 12.15 s	
+find a better solution in : 12.15 s	
+updateTimes = 11
+find a better solution in : 13.34 s	
+find a better solution in: 13.46 s	
+find a better solution in : 13.48 s	
+find a better solution in: 13.48 s	
+find a better solution in: 13.48 s	
+find a better solution in: 13.48 s	
+find a better solution in: 13.48 s	
+find a better solution in : 13.48 s	
+find a better solution in: 13.48 s	
+makespan = 182404.000000 workload = 73731.000000 energy = 161247.350000
+makespan = 150299.000000 workload = 26817.000000 energy = 140805.500000
+makespan = 182413.000000 workload = 53259.000000 energy = 157415.000000
+makespan = 228692.000000 workload = 100023.000000 energy = 159782.900000
+makespan = 169343.000000 workload = 65527.000000 energy = 141602.300000
+makespan = 260511.000000 workload = 113309.000000 energy = 167642.400000
+makespan = 216700.000000 workload = 41009.000000 energy = 183593.400000
+makespan = 168670.000000 workload = 47721.000000 energy = 153846.750000
+makespan = 216852.000000 workload = 46902.500000 energy = 174520.350000
+makespan = 178331.000000 workload = 72585.000000 energy = 155993.750000
+makespan = 165431.000000 workload = 85977.000000 energy = 139415.900000
+makespan = 181996.000000 workload = 68201.000000 energy = 160465.050000
+makespan = 210951.000000 workload = 73955.000000 energy = 159508.800000
+makespan = 199861.000000 workload = 115271.000000 energy = 123982.350000
+makespan = 199671.000000 workload = 86757.500000 energy = 150863.150000
+makespan = 212193.000000 workload = 65725.500000 energy = 180788.650000
+makespan = 148665.000000 workload = 47792.500000 energy = 126816.300000
+makespan = 180557.000000 workload = 9621.000000 energy = 161860.900000
+makespan = 192408.000000 workload = 53973.500000 energy = 170711.350000
+makespan = 209721.000000 workload = 77579.500000 energy = 154356.250000
+makespan = 197900.000000 workload = 80305.000000 energy = 170732.900000
+makespan = 170920.000000 workload = 72075.000000 energy = 142572.050000
+makespan = 194944.000000 workload = 82017.500000 energy = 172511.350000
+makespan = 210873.000000 workload = 44787.000000 energy = 173452.400000
+makespan = 188722.000000 workload = 102901.000000 energy = 142416.300000
+makespan = 180017.000000 workload = 70623.000000 energy = 156961.000000
+makespan = 154590.000000 workload = 47309.000000 energy = 143558.550000
+makespan = 150399.000000 workload = 30385.000000 energy = 139421.300000
+makespan = 157661.000000 workload = 29413.000000 energy = 150113.600000
+makespan = 188870.000000 workload = 48249.000000 energy = 167121.200000
+makespan = 170049.000000 workload = 83017.500000 energy = 135453.900000
+makespan = 169638.000000 workload = 46725.000000 energy = 151832.850000
+makespan = 140148.000000 workload = 39947.500000 energy = 141095.200000
+makespan = 160930.000000 workload = 11384.500000 energy = 151823.000000
+makespan = 139830.000000 workload = 25183.000000 energy = 137655.100000
+makespan = 168522.000000 workload = 55883.000000 energy = 147412.300000
+makespan = 144323.000000 workload = 27134.500000 energy = 145485.250000
+makespan = 140216.000000 workload = 13774.500000 energy = 140938.800000
+makespan = 168546.000000 workload = 47792.500000 energy = 137891.750000
+makespan = 148409.000000 workload = 5677.000000 energy = 151434.750000
+makespan = 149971.000000 workload = 46820.500000 energy = 140552.500000
+makespan = 150147.000000 workload = 20378.500000 energy = 144727.050000
+makespan = 148964.000000 workload = 58509.500000 energy = 148143.650000
+makespan = 140160.000000 workload = 27039.000000 energy = 141350.400000
+makespan = 154506.000000 workload = 30773.000000 energy = 133174.200000
+makespan = 190076.000000 workload = 44869.000000 energy = 168485.100000
+makespan = 150201.000000 workload = 47792.500000 energy = 131126.350000
+makespan = 161391.000000 workload = 94695.000000 energy = 121021.300000
+makespan = 140216.000000 workload = 13774.500000 energy = 140938.800000
+makespan = 150201.000000 workload = 53311.000000 energy = 129623.050000
+makespan = 141393.000000 workload = 26162.500000 energy = 138034.800000
+makespan = 139636.000000 workload = 49965.000000 energy = 142597.500000
+makespan = 150181.000000 workload = 67478.500000 energy = 127388.200000
+makespan = 168126.000000 workload = 47721.000000 energy = 151025.050000
+makespan = 188730.000000 workload = 26244.500000 energy = 170606.950000
+makespan = 151839.000000 workload = 24879.500000 energy = 145107.650000
+makespan = 132694.000000 workload = 11689.000000 energy = 130345.800000
+makespan = 148661.000000 workload = 41663.500000 energy = 137593.950000
+makespan = 182833.000000 workload = 115271.000000 energy = 125840.200000
+makespan = 168682.000000 workload = 6279.000000 energy = 157984.300000
+updateTimes = 11
+makespan = 188585.000000 workload = 58845.500000 energy = 143721.600000
+makespan = 177721.000000 workload = 62557.000000 energy = 160237.100000
+makespan = 201344.000000 workload = 44858.500000 energy = 180349.250000
+makespan = 213950.000000 workload = 126267.500000 energy = 132476.500000
+makespan = 181285.000000 workload = 47541.000000 energy = 168045.450000
+makespan = 227261.000000 workload = 77403.000000 energy = 182253.550000
+makespan = 234426.000000 workload = 76489.000000 energy = 182676.600000
+makespan = 188875.000000 workload = 66209.000000 energy = 148768.200000
+makespan = 190358.000000 workload = 23813.000000 energy = 168578.200000
+makespan = 187624.000000 workload = 80387.000000 energy = 160839.050000
+makespan = 159895.000000 workload = 41677.000000 energy = 155528.550000
+makespan = 165951.000000 workload = 93723.000000 energy = 144079.700000
+makespan = 199598.000000 workload = 92733.000000 energy = 132992.550000
+makespan = 183899.000000 workload = 82993.000000 energy = 140527.700000
+makespan = 161943.000000 workload = 68201.000000 energy = 138582.800000
+makespan = 167118.000000 workload = 50047.000000 energy = 150157.050000
+makespan = 165460.000000 workload = 90739.000000 energy = 130154.950000
+makespan = 149753.000000 workload = 45830.500000 energy = 135068.550000
+makespan = 211365.000000 workload = 92651.000000 energy = 155689.100000
+makespan = 200791.000000 workload = 71897.500000 energy = 149789.700000
+makespan = 189978.000000 workload = 50268.500000 energy = 168693.950000
+makespan = 176871.000000 workload = 38025.000000 energy = 164645.100000
+makespan = 198442.000000 workload = 73965.500000 energy = 149331.500000
+makespan = 200060.000000 workload = 80305.000000 energy = 169856.200000
+makespan = 190383.000000 workload = 94695.000000 energy = 118972.900000
+makespan = 171593.000000 workload = 77461.000000 energy = 139456.950000
+makespan = 174310.000000 workload = 58683.000000 energy = 157446.800000
+makespan = 211692.000000 workload = 90739.000000 energy = 151534.650000
+makespan = 188714.000000 workload = 44787.000000 energy = 165983.350000
+makespan = 209815.000000 workload = 111397.000000 energy = 133941.550000
+makespan = 169184.000000 workload = 35249.000000 energy = 160974.650000
+makespan = 140270.000000 workload = 18905.000000 energy = 143015.950000
+makespan = 168242.000000 workload = 47792.500000 energy = 138281.250000
+makespan = 159213.000000 workload = 82267.000000 energy = 154197.850000
+makespan = 143184.000000 workload = 33263.000000 energy = 133337.050000
+makespan = 150624.000000 workload = 45561.500000 energy = 138730.250000
+makespan = 149140.000000 workload = 27063.000000 energy = 146641.100000
+makespan = 140148.000000 workload = 27063.000000 energy = 141150.200000
+makespan = 158338.000000 workload = 67478.500000 energy = 126684.100000
+makespan = 150369.000000 workload = 11026.500000 energy = 144156.400000
+makespan = 161930.000000 workload = 88829.000000 energy = 130622.550000
+makespan = 170839.000000 workload = 52063.000000 energy = 150391.050000
+makespan = 188760.000000 workload = 12629.000000 energy = 167081.300000
+makespan = 190001.000000 workload = 83003.500000 energy = 120932.600000
+makespan = 155320.000000 workload = 71103.000000 energy = 151999.000000
+makespan = 167142.000000 workload = 79365.000000 energy = 139852.300000
+makespan = 142920.000000 workload = 47471.500000 energy = 142029.800000
+makespan = 140886.000000 workload = 35249.000000 energy = 143670.650000
+makespan = 147869.000000 workload = 40043.000000 energy = 126645.600000
+makespan = 175450.000000 workload = 41981.000000 energy = 156014.550000
+makespan = 166854.000000 workload = 83239.000000 energy = 135985.500000
+makespan = 151077.000000 workload = 46902.500000 energy = 141986.250000
+makespan = 166854.000000 workload = 79365.000000 energy = 136539.300000
+makespan = 140118.000000 workload = 42005.000000 energy = 143427.350000
+makespan = 150591.000000 workload = 21743.500000 energy = 146228.550000
+makespan = 168522.000000 workload = 37173.000000 energy = 150138.150000
+makespan = 155050.000000 workload = 59177.000000 energy = 134496.000000
+makespan = 189226.000000 workload = 26733.000000 energy = 172180.150000
+makespan = 169684.000000 workload = 80281.000000 energy = 161445.200000
+makespan = 150680.000000 workload = 67478.500000 energy = 126955.050000
+8 generation time: 14.26 s
+*****************************t=8*****************************
+updateTimes = 11
+makespan = 182876.000000 workload = 80305.000000 energy = 163189.050000
+makespan = 199883.000000 workload = 23260.500000 energy = 177692.550000
+makespan = 169666.000000 workload = 83297.000000 energy = 137219.500000
+makespan = 167607.000000 workload = 56523.500000 energy = 149185.550000
+makespan = 193631.000000 workload = 47792.500000 energy = 154292.050000
+makespan = 171873.000000 workload = 23935.000000 energy = 161459.950000
+makespan = 161768.000000 workload = 56080.500000 energy = 151562.200000
+makespan = 202463.000000 workload = 83239.000000 energy = 151751.250000
+makespan = 199635.000000 workload = 92637.500000 energy = 131552.100000
+makespan = 189880.000000 workload = 52135.000000 energy = 166388.450000
+makespan = 216420.000000 workload = 111935.500000 energy = 175662.800000
+makespan = 163842.000000 workload = 43637.000000 energy = 158557.850000
+makespan = 188676.000000 workload = 11719.000000 energy = 172368.400000
+makespan = 188730.000000 workload = 33471.000000 energy = 165901.250000
+makespan = 202977.000000 workload = 65421.000000 energy = 170625.550000
+makespan = 162826.000000 workload = 76819.000000 energy = 147899.800000
+makespan = 149965.000000 workload = 70647.000000 energy = 142967.200000
+makespan = 220686.000000 workload = 91679.000000 energy = 175020.700000
+makespan = 253758.000000 workload = 112419.000000 energy = 180418.600000
+makespan = 213023.000000 workload = 124281.500000 energy = 137713.150000
+makespan = 200260.000000 workload = 67229.000000 energy = 168066.800000
+makespan = 208336.000000 workload = 74703.000000 energy = 176559.450000
+makespan = 159895.000000 workload = 41605.500000 energy = 155065.250000
+makespan = 146237.000000 workload = 56745.000000 energy = 146892.350000
+makespan = 190230.000000 workload = 50293.000000 energy = 167723.400000
+makespan = 219040.000000 workload = 71031.500000 energy = 173783.950000
+makespan = 196901.000000 workload = 96123.500000 energy = 145702.150000
+makespan = 165947.000000 workload = 77205.500000 energy = 146664.700000
+makespan = 158473.000000 workload = 65516.500000 energy = 135012.500000
+makespan = 168658.000000 workload = 60701.000000 energy = 147024.700000
+makespan = 158415.000000 workload = 60605.500000 energy = 137825.050000
+makespan = 160063.000000 workload = 59095.000000 energy = 131861.950000
+makespan = 180702.000000 workload = 74037.000000 energy = 135153.250000
+makespan = 148726.000000 workload = 57215.000000 energy = 126219.500000
+makespan = 145744.000000 workload = 34163.500000 energy = 138496.900000
+makespan = 140062.000000 workload = 16504.500000 energy = 140756.500000
+makespan = 168262.000000 workload = 67478.500000 energy = 134616.800000
+makespan = 148437.000000 workload = 11886.500000 energy = 149423.400000
+makespan = 150596.000000 workload = 67478.500000 energy = 126796.850000
+makespan = 169982.000000 workload = 25953.500000 energy = 163835.650000
+makespan = 194988.000000 workload = 61691.000000 energy = 152264.600000
+makespan = 150381.000000 workload = 30289.500000 energy = 142013.100000
+makespan = 177049.000000 workload = 93723.000000 energy = 140441.100000
+makespan = 187346.000000 workload = 82349.000000 energy = 146373.750000
+makespan = 149140.000000 workload = 62557.000000 energy = 146426.900000
+makespan = 148681.000000 workload = 41687.500000 energy = 136380.650000
+makespan = 149468.000000 workload = 13835.000000 energy = 150149.500000
+makespan = 152867.000000 workload = 61691.000000 energy = 150622.650000
+makespan = 149451.000000 workload = 55314.500000 energy = 149674.900000
+makespan = 149008.000000 workload = 31351.000000 energy = 146342.200000
+makespan = 140062.000000 workload = 20378.500000 energy = 140967.200000
+makespan = 169324.000000 workload = 62345.500000 energy = 123634.550000
+makespan = 140264.000000 workload = 34656.500000 energy = 144267.600000
+makespan = 188920.000000 workload = 41036.500000 energy = 159942.200000
+makespan = 149697.000000 workload = 67478.500000 energy = 124762.050000
+makespan = 156138.000000 workload = 9631.500000 energy = 148290.900000
+makespan = 143673.000000 workload = 30585.000000 energy = 137428.000000
+makespan = 162780.000000 workload = 13998.500000 energy = 153674.150000
+makespan = 140040.000000 workload = 26244.500000 energy = 136769.450000
+makespan = 149843.000000 workload = 67478.500000 energy = 125094.150000
+updateTimes = 11
+makespan = 169343.000000 workload = 62417.000000 energy = 120462.600000
+makespan = 160302.000000 workload = 70729.000000 energy = 142962.800000
+makespan = 221682.000000 workload = 18945.500000 energy = 189084.850000
+makespan = 169666.000000 workload = 43625.500000 energy = 152938.000000
+makespan = 229664.000000 workload = 65527.000000 energy = 180974.150000
+makespan = 239892.000000 workload = 149581.500000 energy = 168824.750000
+makespan = 189320.000000 workload = 42957.000000 energy = 162996.250000
+makespan = 163842.000000 workload = 51019.000000 energy = 123150.050000
+makespan = 169218.000000 workload = 40787.000000 energy = 160572.000000
+makespan = 220058.000000 workload = 31269.000000 energy = 183111.100000
+makespan = 199640.000000 workload = 92661.500000 energy = 131453.550000
+makespan = 165943.000000 workload = 100963.000000 energy = 144031.100000
+makespan = 200128.000000 workload = 82103.000000 energy = 163841.600000
+makespan = 211060.000000 workload = 76127.500000 energy = 172879.550000
+makespan = 152754.000000 workload = 41956.500000 energy = 140682.750000
+makespan = 190230.000000 workload = 44763.000000 energy = 168289.600000
+makespan = 204919.000000 workload = 97089.000000 energy = 164370.700000
+makespan = 208984.000000 workload = 110507.000000 energy = 161154.750000
+makespan = 207626.000000 workload = 56857.000000 energy = 155852.350000
+makespan = 206713.000000 workload = 82243.000000 energy = 177962.300000
+makespan = 199128.000000 workload = 108463.000000 energy = 164906.900000
+makespan = 197431.000000 workload = 60421.500000 energy = 168433.600000
+makespan = 241296.000000 workload = 20326.500000 energy = 192768.200000
+makespan = 188920.000000 workload = 27216.500000 energy = 149068.700000
+makespan = 189456.000000 workload = 101045.000000 energy = 156595.400000
+makespan = 194114.000000 workload = 71031.500000 energy = 167843.850000
+makespan = 213646.000000 workload = 76489.000000 energy = 173697.500000
+makespan = 160252.000000 workload = 44869.000000 energy = 147471.200000
+makespan = 145833.000000 workload = 58683.000000 energy = 146622.850000
+makespan = 169380.000000 workload = 62321.500000 energy = 129582.500000
+makespan = 140148.000000 workload = 27063.000000 energy = 141341.400000
+makespan = 148722.000000 workload = 57215.000000 energy = 122872.150000
+makespan = 179062.000000 workload = 91761.000000 energy = 140823.950000
+makespan = 149212.000000 workload = 15539.000000 energy = 149916.000000
+makespan = 145683.000000 workload = 34163.500000 energy = 137122.550000
+makespan = 148666.000000 workload = 41687.500000 energy = 125735.300000
+makespan = 149763.000000 workload = 41663.500000 energy = 139101.050000
+makespan = 149153.000000 workload = 23817.500000 energy = 142584.550000
+makespan = 167138.000000 workload = 41036.500000 energy = 151491.150000
+makespan = 150039.000000 workload = 14788.500000 energy = 143801.950000
+makespan = 156444.000000 workload = 53379.000000 energy = 152943.900000
+makespan = 140070.000000 workload = 13785.000000 energy = 138688.400000
+makespan = 148988.000000 workload = 47309.000000 energy = 146204.500000
+makespan = 178232.000000 workload = 93641.000000 energy = 134577.650000
+makespan = 140908.000000 workload = 21029.500000 energy = 143712.950000
+makespan = 139710.000000 workload = 44858.500000 energy = 140523.000000
+makespan = 162383.000000 workload = 47792.500000 energy = 140443.200000
+makespan = 150591.000000 workload = 53379.000000 energy = 132256.300000
+makespan = 167138.000000 workload = 32347.000000 energy = 142836.000000
+makespan = 139604.000000 workload = 43918.500000 energy = 128976.250000
+makespan = 149603.000000 workload = 46503.000000 energy = 139807.350000
+makespan = 168262.000000 workload = 58683.000000 energy = 139632.600000
+makespan = 140118.000000 workload = 42005.000000 energy = 143427.350000
+makespan = 225328.000000 workload = 137641.500000 energy = 129988.200000
+makespan = 150177.000000 workload = 53311.000000 energy = 129614.050000
+makespan = 168542.000000 workload = 47595.000000 energy = 143451.550000
+makespan = 150605.000000 workload = 67478.500000 energy = 126780.350000
+makespan = 169380.000000 workload = 62335.000000 energy = 124349.550000
+makespan = 150949.000000 workload = 45537.500000 energy = 139962.300000
+makespan = 180171.000000 workload = 94695.000000 energy = 126743.500000
+9 generation time: 16.59 s
+*****************************t=9*****************************
+updateTimes = 11
+makespan = 158910.000000 workload = 53921.000000 energy = 144409.350000
+makespan = 199204.000000 workload = 67201.000000 energy = 177276.500000
+makespan = 219548.000000 workload = 55831.000000 energy = 178731.550000
+makespan = 216388.000000 workload = 61571.000000 energy = 181304.800000
+makespan = 204265.000000 workload = 83215.000000 energy = 155238.000000
+makespan = 219502.000000 workload = 78475.000000 energy = 153832.900000
+makespan = 191143.000000 workload = 90339.500000 energy = 159804.800000
+makespan = 162744.000000 workload = 20671.500000 energy = 151266.400000
+makespan = 195274.000000 workload = 65115.000000 energy = 171179.100000
+makespan = 238724.000000 workload = 100963.000000 energy = 186286.300000
+makespan = 199884.000000 workload = 59633.500000 energy = 169827.800000
+makespan = 196176.000000 workload = 41781.000000 energy = 177136.600000
+makespan = 203427.000000 workload = 35422.500000 energy = 174973.700000
+makespan = 218944.000000 workload = 79227.500000 energy = 175577.550000
+makespan = 181671.000000 workload = 111397.000000 energy = 125418.050000
+makespan = 221882.000000 workload = 40553.000000 energy = 185808.250000
+makespan = 153767.000000 workload = 47792.500000 energy = 132447.850000
+makespan = 211044.000000 workload = 80363.000000 energy = 176252.650000
+makespan = 196084.000000 workload = 79447.000000 energy = 151976.300000
+makespan = 183964.000000 workload = 43028.500000 energy = 162663.000000
+makespan = 175872.000000 workload = 73917.000000 energy = 137301.500000
+makespan = 178613.000000 workload = 109435.000000 energy = 135980.250000
+makespan = 194964.000000 workload = 92249.500000 energy = 152682.200000
+makespan = 163149.000000 workload = 44858.500000 energy = 146429.300000
+makespan = 194832.000000 workload = 76513.000000 energy = 163791.100000
+makespan = 143805.000000 workload = 33287.000000 energy = 135754.950000
+makespan = 197540.000000 workload = 94695.000000 energy = 132042.750000
+makespan = 165559.000000 workload = 44940.500000 energy = 148224.500000
+makespan = 169642.000000 workload = 43649.500000 energy = 152765.600000
+makespan = 182699.000000 workload = 19187.000000 energy = 168579.800000
+makespan = 163922.000000 workload = 94695.000000 energy = 122211.650000
+makespan = 169687.000000 workload = 56731.500000 energy = 129521.500000
+makespan = 160590.000000 workload = 3021.000000 energy = 159569.750000
+makespan = 182564.000000 workload = 92733.000000 energy = 118449.200000
+makespan = 153836.000000 workload = 53007.500000 energy = 148605.200000
+makespan = 194964.000000 workload = 67478.500000 energy = 142111.250000
+makespan = 162364.000000 workload = 8971.000000 energy = 153945.350000
+makespan = 163926.000000 workload = 94695.000000 energy = 122129.350000
+makespan = 142957.000000 workload = 71103.000000 energy = 141550.700000
+makespan = 135785.000000 workload = 25254.500000 energy = 130618.250000
+makespan = 173371.000000 workload = 46807.000000 energy = 157530.650000
+makespan = 140260.000000 workload = 15563.000000 energy = 141046.200000
+makespan = 177064.000000 workload = 79753.000000 energy = 131421.850000
+makespan = 143234.000000 workload = 36017.000000 energy = 146196.400000
+makespan = 140916.000000 workload = 33287.000000 energy = 143693.050000
+makespan = 151350.000000 workload = 13505.500000 energy = 144850.800000
+makespan = 159987.000000 workload = 67478.500000 energy = 128502.150000
+makespan = 141123.000000 workload = 25183.000000 energy = 138207.400000
+makespan = 134826.000000 workload = 27216.500000 energy = 127400.600000
+makespan = 168522.000000 workload = 52899.000000 energy = 149699.350000
+makespan = 140320.000000 workload = 35585.000000 energy = 141313.500000
+makespan = 151839.000000 workload = 17861.000000 energy = 143766.850000
+makespan = 140955.000000 workload = 24282.500000 energy = 139523.450000
+makespan = 148936.000000 workload = 46902.500000 energy = 133953.850000
+makespan = 145858.000000 workload = 58707.000000 energy = 125914.450000
+makespan = 150604.000000 workload = 67478.500000 energy = 123231.400000
+makespan = 149113.000000 workload = 67478.500000 energy = 126867.000000
+makespan = 168238.000000 workload = 67478.500000 energy = 134869.550000
+makespan = 152403.000000 workload = 90821.000000 energy = 120918.900000
+makespan = 150147.000000 workload = 31405.000000 energy = 143967.800000
+updateTimes = 11
+find a better solution in : 18.15 s	
+find a better solution in: 18.17 s	
+makespan = 173602.000000 workload = 52981.000000 energy = 143651.000000
+makespan = 163943.000000 workload = 81277.000000 energy = 144570.250000
+makespan = 219654.000000 workload = 44858.500000 energy = 181145.900000
+makespan = 178711.000000 workload = 53155.000000 energy = 164038.200000
+makespan = 216886.000000 workload = 79341.000000 energy = 176044.100000
+makespan = 228299.000000 workload = 139553.500000 energy = 144928.350000
+makespan = 209544.000000 workload = 55575.500000 energy = 175725.150000
+makespan = 205467.000000 workload = 41885.000000 energy = 171736.350000
+makespan = 174499.000000 workload = 82989.500000 energy = 155564.450000
+makespan = 149385.000000 workload = 50937.000000 energy = 140035.200000
+makespan = 164414.000000 workload = 60677.000000 energy = 128803.150000
+makespan = 203935.000000 workload = 100963.000000 energy = 146993.500000
+makespan = 215288.000000 workload = 59647.000000 energy = 177460.000000
+makespan = 175742.000000 workload = 65421.000000 energy = 151677.350000
+makespan = 202102.000000 workload = 68223.000000 energy = 172908.450000
+makespan = 168522.000000 workload = 35433.000000 energy = 154282.900000
+makespan = 172050.000000 workload = 37911.500000 energy = 158839.150000
+makespan = 190606.000000 workload = 46820.500000 energy = 162829.200000
+makespan = 229357.000000 workload = 68171.000000 energy = 160528.950000
+makespan = 151191.000000 workload = 38673.000000 energy = 146208.400000
+makespan = 218093.000000 workload = 94695.000000 energy = 139701.900000
+makespan = 179413.000000 workload = 81253.000000 energy = 157995.000000
+makespan = 190406.000000 workload = 55749.000000 energy = 169781.450000
+makespan = 231450.000000 workload = 72679.500000 energy = 178799.700000
+makespan = 188846.000000 workload = 59623.000000 energy = 166669.700000
+makespan = 169540.000000 workload = 26815.000000 energy = 161616.800000
+makespan = 163690.000000 workload = 57817.000000 energy = 159147.650000
+makespan = 149468.000000 workload = 68141.000000 energy = 149512.200000
+makespan = 223293.000000 workload = 71051.000000 energy = 182428.900000
+makespan = 171056.000000 workload = 56803.000000 energy = 151794.350000
+makespan = 150591.000000 workload = 26937.000000 energy = 141137.800000
+makespan = 159266.000000 workload = 27134.500000 energy = 151039.900000
+makespan = 169319.000000 workload = 62417.000000 energy = 126653.400000
+makespan = 140276.000000 workload = 11873.000000 energy = 144590.600000
+makespan = 149116.000000 workload = 23260.500000 energy = 146144.300000
+makespan = 178467.000000 workload = 59095.000000 energy = 145038.350000
+makespan = 169376.000000 workload = 65421.000000 energy = 130235.000000
+makespan = 150147.000000 workload = 20378.500000 energy = 142439.750000
+makespan = 135797.000000 workload = 25254.500000 energy = 130621.850000
+makespan = 182540.000000 workload = 88763.500000 energy = 131942.050000
+makespan = 145059.000000 workload = 56797.000000 energy = 137501.900000
+makespan = 146673.000000 workload = 14775.000000 energy = 144543.000000
+makespan = 140318.000000 workload = 46820.500000 energy = 140629.000000
+makespan = 150524.000000 workload = 88829.000000 energy = 126164.450000
+makespan = 134645.000000 workload = 15539.000000 energy = 134880.150000
+makespan = 168086.000000 workload = 61691.000000 energy = 146241.800000
+makespan = 159063.000000 workload = 27216.500000 energy = 134795.950000
+makespan = 147368.000000 workload = 60677.000000 energy = 129042.750000
+makespan = 150597.000000 workload = 51417.000000 energy = 132266.800000
+makespan = 140487.000000 workload = 47792.500000 energy = 127497.670000
+makespan = 151073.000000 workload = 23190.500000 energy = 148786.100000
+makespan = 179996.000000 workload = 32735.000000 energy = 158603.650000
+makespan = 168682.000000 workload = 47792.500000 energy = 137098.000000
+makespan = 150177.000000 workload = 47792.500000 energy = 129822.900000
+makespan = 143165.000000 workload = 43721.000000 energy = 127567.500000
+makespan = 139968.000000 workload = 36145.000000 energy = 129974.800000
+makespan = 168110.000000 workload = 37162.500000 energy = 152826.850000
+makespan = 143169.000000 workload = 32323.000000 energy = 135629.550000
+makespan = 154380.000000 workload = 24975.000000 energy = 154918.350000
+makespan = 193942.000000 workload = 100161.500000 energy = 128214.150000
+10 generation time: 18.86 s
+*****************************t=10*****************************
+updateTimes = 11
+makespan = 169404.000000 workload = 81277.000000 energy = 128009.400000
+makespan = 166195.000000 workload = 36087.000000 energy = 145941.200000
+makespan = 189807.000000 workload = 60595.000000 energy = 163533.400000
+makespan = 200791.000000 workload = 79365.000000 energy = 153992.500000
+makespan = 195273.000000 workload = 59249.000000 energy = 168426.800000
+makespan = 185933.000000 workload = 68119.000000 energy = 162522.700000
+makespan = 139636.000000 workload = 76431.000000 energy = 140464.800000
+makespan = 256084.000000 workload = 129131.500000 energy = 178856.850000
+makespan = 189856.000000 workload = 44457.000000 energy = 170387.600000
+makespan = 179879.000000 workload = 88799.000000 energy = 165789.050000
+makespan = 175450.000000 workload = 63604.500000 energy = 149333.100000
+makespan = 214730.000000 workload = 34421.000000 energy = 182567.650000
+makespan = 188178.000000 workload = 65247.500000 energy = 162488.150000
+makespan = 168583.000000 workload = 71595.000000 energy = 147442.350000
+makespan = 247588.000000 workload = 57999.000000 energy = 197873.950000
+makespan = 180197.000000 workload = 83215.000000 energy = 164134.750000
+makespan = 199251.000000 workload = 47792.500000 energy = 151263.850000
+makespan = 232543.000000 workload = 101935.000000 energy = 163299.350000
+makespan = 219581.000000 workload = 116781.500000 energy = 157925.600000
+makespan = 180373.000000 workload = 79597.000000 energy = 166512.950000
+makespan = 199659.000000 workload = 92733.000000 energy = 120612.200000
+makespan = 168098.000000 workload = 43625.500000 energy = 142330.500000
+makespan = 159266.000000 workload = 42749.000000 energy = 151025.500000
+makespan = 177357.000000 workload = 97781.500000 energy = 140329.150000
+makespan = 174091.000000 workload = 56745.000000 energy = 158281.150000
+makespan = 154510.000000 workload = 47543.000000 energy = 143653.650000
+makespan = 151077.000000 workload = 62557.000000 energy = 147167.600000
+makespan = 193467.000000 workload = 65516.500000 energy = 165567.350000
+makespan = 198959.000000 workload = 82897.500000 energy = 148226.000000
+makespan = 189826.000000 workload = 37162.500000 energy = 165964.850000
+makespan = 168507.000000 workload = 102135.000000 energy = 141623.000000
+makespan = 143729.000000 workload = 30289.500000 energy = 135659.550000
+makespan = 139766.000000 workload = 21123.000000 energy = 144083.400000
+makespan = 143805.000000 workload = 30289.500000 energy = 135764.550000
+makespan = 148669.000000 workload = 30289.500000 energy = 129065.550000
+makespan = 168522.000000 workload = 47792.500000 energy = 136913.400000
+makespan = 189866.000000 workload = 55811.500000 energy = 163712.750000
+makespan = 141086.000000 workload = 15899.000000 energy = 145210.900000
+makespan = 154665.000000 workload = 47513.000000 energy = 154887.850000
+makespan = 142950.000000 workload = 70079.000000 energy = 145853.000000
+makespan = 149162.000000 workload = 29499.500000 energy = 135951.700000
+makespan = 146617.000000 workload = 38437.000000 energy = 143942.100000
+makespan = 150205.000000 workload = 21279.000000 energy = 143003.350000
+makespan = 149603.000000 workload = 67478.500000 energy = 126517.450000
+makespan = 148240.000000 workload = 22911.000000 energy = 151766.050000
+makespan = 140878.000000 workload = 21029.500000 energy = 143987.600000
+makespan = 182584.000000 workload = 77593.500000 energy = 131767.650000
+makespan = 143105.000000 workload = 26244.500000 energy = 145125.800000
+makespan = 141038.000000 workload = 33263.000000 energy = 143998.550000
+makespan = 149106.000000 workload = 67478.500000 energy = 120625.800000
+makespan = 149671.000000 workload = 20367.000000 energy = 146205.700000
+makespan = 155048.000000 workload = 45633.000000 energy = 142378.250000
+makespan = 149116.000000 workload = 46820.500000 energy = 146369.900000
+makespan = 140070.000000 workload = 13785.000000 energy = 138892.600000
+makespan = 149811.000000 workload = 40175.000000 energy = 146649.550000
+makespan = 168126.000000 workload = 68171.000000 energy = 136507.400000
+makespan = 203310.000000 workload = 98251.500000 energy = 126901.550000
+makespan = 140128.000000 workload = 46820.500000 energy = 140783.100000
+makespan = 149149.000000 workload = 35309.000000 energy = 145219.850000
+makespan = 150385.000000 workload = 67478.500000 energy = 127807.250000
+updateTimes = 11
+find a better solution in : 20.50 s	
+find a better solution in : 20.50 s	
+find a better solution in: 20.50 s	
+find a better solution in: 20.64 s	
+find a better solution in : 20.65 s	
+makespan = 169380.000000 workload = 62321.500000 energy = 130805.800000
+makespan = 209937.000000 workload = 88777.000000 energy = 170365.850000
+makespan = 189344.000000 workload = 46902.500000 energy = 158061.450000
+makespan = 151919.000000 workload = 19385.000000 energy = 145061.100000
+makespan = 178301.000000 workload = 65421.000000 energy = 157774.800000
+makespan = 195765.000000 workload = 88763.500000 energy = 135472.000000
+makespan = 193684.000000 workload = 72471.500000 energy = 166504.600000
+makespan = 169720.000000 workload = 68907.000000 energy = 158350.500000
+makespan = 198559.000000 workload = 82993.000000 energy = 160961.350000
+makespan = 164414.000000 workload = 65527.000000 energy = 137827.800000
+makespan = 210410.000000 workload = 56981.000000 energy = 171266.300000
+makespan = 169672.000000 workload = 44858.500000 energy = 161455.400000
+makespan = 164827.000000 workload = 47792.500000 energy = 136979.200000
+makespan = 195288.000000 workload = 39961.000000 energy = 168149.300000
+makespan = 206093.000000 workload = 32776.500000 energy = 180682.300000
+makespan = 242982.000000 workload = 48331.000000 energy = 191068.500000
+makespan = 195952.000000 workload = 94211.500000 energy = 146223.700000
+makespan = 180356.000000 workload = 51183.000000 energy = 160063.300000
+makespan = 159359.000000 workload = 60595.000000 energy = 151961.800000
+makespan = 201658.000000 workload = 72747.500000 energy = 170192.200000
+makespan = 184022.000000 workload = 46902.500000 energy = 151196.750000
+makespan = 162022.000000 workload = 62639.000000 energy = 146372.750000
+makespan = 201907.000000 workload = 44763.000000 energy = 171794.750000
+makespan = 187804.000000 workload = 83239.000000 energy = 145117.400000
+makespan = 157026.000000 workload = 66005.000000 energy = 131260.200000
+makespan = 214650.000000 workload = 83239.000000 energy = 153666.250000
+makespan = 213636.000000 workload = 61691.000000 energy = 176858.700000
+makespan = 215844.000000 workload = 82349.000000 energy = 176358.750000
+makespan = 207840.000000 workload = 117525.500000 energy = 163851.450000
+makespan = 190645.000000 workload = 47792.500000 energy = 151615.000000
+makespan = 143805.000000 workload = 30289.500000 energy = 134425.200000
+makespan = 205950.000000 workload = 81465.500000 energy = 147982.950000
+makespan = 147069.000000 workload = 36557.000000 energy = 133855.400000
+makespan = 166854.000000 workload = 79167.500000 energy = 133314.400000
+makespan = 183137.000000 workload = 33305.500000 energy = 149085.650000
+makespan = 140466.000000 workload = 47792.500000 energy = 128261.100000
+makespan = 140476.000000 workload = 47792.500000 energy = 129197.850000
+makespan = 180000.000000 workload = 23883.000000 energy = 161101.150000
+makespan = 140430.000000 workload = 6558.500000 energy = 144561.100000
+makespan = 163306.000000 workload = 19187.000000 energy = 158030.800000
+makespan = 150105.000000 workload = 68253.000000 energy = 127170.450000
+makespan = 169696.000000 workload = 26173.000000 energy = 161980.000000
+makespan = 178589.000000 workload = 27134.500000 energy = 163234.900000
+makespan = 172985.000000 workload = 19757.500000 energy = 163199.400000
+makespan = 145129.000000 workload = 35446.500000 energy = 130144.550000
+makespan = 139148.000000 workload = 43918.500000 energy = 125304.550000
+makespan = 168238.000000 workload = 55221.000000 energy = 138943.650000
+makespan = 144070.000000 workload = 40043.000000 energy = 131731.350000
+makespan = 159246.000000 workload = 73065.000000 energy = 150645.600000
+makespan = 160606.000000 workload = 27216.500000 energy = 136321.200000
+makespan = 171278.000000 workload = 62345.500000 energy = 126950.550000
+makespan = 168438.000000 workload = 23342.500000 energy = 149043.850000
+makespan = 162220.000000 workload = 34645.000000 energy = 152210.450000
+makespan = 146497.000000 workload = 14807.000000 energy = 144080.950000
+makespan = 150599.000000 workload = 11302.500000 energy = 146175.200000
+makespan = 140032.000000 workload = 46820.500000 energy = 142939.650000
+makespan = 140588.000000 workload = 21227.000000 energy = 136328.600000
+makespan = 139270.000000 workload = 36197.000000 energy = 138742.900000
+makespan = 145120.000000 workload = 35249.000000 energy = 137989.750000
+makespan = 168258.000000 workload = 29553.000000 energy = 153627.550000
+11 generation time: 21.00 s
+*****************************t=11*****************************
+find a better solution in : 21.09 s	
+find a better solution in : 21.11 s	
+find a better solution in : 21.11 s	
+find a better solution in: 21.11 s	
+find a better solution in: 21.11 s	
+find a better solution in: 21.11 s	
+find a better solution in: 21.11 s	
+find a better solution in : 21.11 s	
+find a better solution in : 21.32 s	
+find a better solution in: 21.32 s	
+find a better solution in : 21.56 s	
+updateTimes = 11
+find a better solution in : 22.06 s	
+makespan = 209188.000000 workload = 70757.500000 energy = 176418.400000
+makespan = 168522.000000 workload = 79341.000000 energy = 137301.100000
+makespan = 169340.000000 workload = 70869.000000 energy = 158138.800000
+makespan = 167254.000000 workload = 39047.000000 energy = 151621.100000
+makespan = 195142.000000 workload = 48233.500000 energy = 176351.850000
+makespan = 203222.000000 workload = 58509.500000 energy = 152324.250000
+makespan = 150327.000000 workload = 15514.500000 energy = 140712.700000
+makespan = 192412.000000 workload = 56243.000000 energy = 170449.000000
+makespan = 203782.000000 workload = 15541.000000 energy = 174453.050000
+makespan = 187166.000000 workload = 31351.000000 energy = 166263.100000
+makespan = 211032.000000 workload = 89565.000000 energy = 175558.050000
+makespan = 223412.000000 workload = 48331.000000 energy = 186896.250000
+makespan = 180129.000000 workload = 30303.000000 energy = 160125.750000
+makespan = 212801.000000 workload = 60503.000000 energy = 182779.400000
+makespan = 169062.000000 workload = 77205.500000 energy = 147940.800000
+makespan = 215598.000000 workload = 83297.000000 energy = 154880.300000
+makespan = 188200.000000 workload = 47263.500000 energy = 157371.950000
+makespan = 188174.000000 workload = 65445.000000 energy = 162770.750000
+makespan = 200556.000000 workload = 68201.000000 energy = 156239.450000
+makespan = 188882.000000 workload = 26244.500000 energy = 170071.600000
+makespan = 148661.000000 workload = 47792.500000 energy = 125045.250000
+makespan = 199590.000000 workload = 55483.500000 energy = 169787.250000
+makespan = 187722.000000 workload = 52009.000000 energy = 163309.250000
+makespan = 180911.000000 workload = 66393.000000 energy = 140073.150000
+makespan = 171735.000000 workload = 87887.000000 energy = 149658.400000
+makespan = 173557.000000 workload = 60677.000000 energy = 129165.750000
+makespan = 213471.000000 workload = 79269.500000 energy = 175032.250000
+makespan = 219014.000000 workload = 44763.000000 energy = 179244.250000
+makespan = 174813.000000 workload = 40971.000000 energy = 159955.300000
+makespan = 179993.000000 workload = 89565.000000 energy = 158283.300000
+makespan = 140412.000000 workload = 14870.500000 energy = 141159.700000
+makespan = 163282.000000 workload = 82267.000000 energy = 157724.200000
+makespan = 139774.000000 workload = 47595.000000 energy = 131866.200000
+makespan = 161583.000000 workload = 67478.500000 energy = 131443.000000
+makespan = 168530.000000 workload = 43918.500000 energy = 142649.150000
+makespan = 154104.000000 workload = 26244.500000 energy = 151344.350000
+makespan = 169208.000000 workload = 35225.000000 energy = 160192.950000
+makespan = 159725.000000 workload = 27134.500000 energy = 155755.900000
+makespan = 159725.000000 workload = 27063.000000 energy = 156134.900000
+makespan = 155430.000000 workload = 37547.000000 energy = 152473.600000
+makespan = 148681.000000 workload = 62417.000000 energy = 122599.700000
+makespan = 143181.000000 workload = 58789.000000 energy = 127700.900000
+makespan = 183967.000000 workload = 12927.000000 energy = 166284.500000
+makespan = 150447.000000 workload = 30691.000000 energy = 143096.400000
+makespan = 143180.000000 workload = 31477.000000 energy = 130597.400000
+makespan = 150745.000000 workload = 4245.000000 energy = 148086.000000
+makespan = 159996.000000 workload = 9340.500000 energy = 150601.400000
+makespan = 159847.000000 workload = 46820.500000 energy = 155842.100000
+makespan = 153223.000000 workload = 67478.500000 energy = 128982.150000
+makespan = 144329.000000 workload = 27134.500000 energy = 145495.250000
+makespan = 140686.000000 workload = 45633.000000 energy = 139265.350000
+makespan = 148722.000000 workload = 41663.500000 energy = 134358.050000
+makespan = 158380.000000 workload = 51321.500000 energy = 132581.250000
+makespan = 160196.000000 workload = 60833.000000 energy = 154260.000000
+makespan = 169772.000000 workload = 62417.000000 energy = 128184.150000
+makespan = 152337.000000 workload = 16889.000000 energy = 148401.050000
+makespan = 150624.000000 workload = 47792.500000 energy = 128299.500000
+makespan = 169184.000000 workload = 57817.000000 energy = 160409.750000
+makespan = 169696.000000 workload = 26149.000000 energy = 161981.800000
+makespan = 149140.000000 workload = 24741.000000 energy = 148551.550000
+12 generation time: 22.50 s
+*****************************t=12*****************************
+updateTimes = 11
+find a better solution in : 23.50 s	
+find a better solution in: 23.51 s	
+find a better solution in : 23.53 s	
+makespan = 196740.000000 workload = 60421.000000 energy = 176887.350000
+makespan = 190382.000000 workload = 21889.000000 energy = 168366.800000
+makespan = 209002.000000 workload = 44869.000000 energy = 176791.400000
+makespan = 199655.000000 workload = 47792.500000 energy = 150396.450000
+makespan = 190334.000000 workload = 91305.000000 energy = 166671.300000
+makespan = 176819.000000 workload = 41885.000000 energy = 154883.600000
+makespan = 161999.000000 workload = 47543.000000 energy = 137350.650000
+makespan = 269428.000000 workload = 52135.000000 energy = 200796.450000
+makespan = 262459.000000 workload = 47792.500000 energy = 173412.150000
+makespan = 199255.000000 workload = 45735.000000 energy = 169093.850000
+makespan = 200116.000000 workload = 112337.000000 energy = 166145.550000
+makespan = 182536.000000 workload = 30782.500000 energy = 168933.450000
+makespan = 189226.000000 workload = 70647.000000 energy = 167340.000000
+makespan = 228331.000000 workload = 148755.500000 energy = 147092.800000
+makespan = 161785.000000 workload = 46820.500000 energy = 150549.150000
+makespan = 252642.000000 workload = 86079.000000 energy = 187574.450000
+makespan = 182564.000000 workload = 26910.500000 energy = 168689.000000
+makespan = 172423.000000 workload = 62581.000000 energy = 160523.000000
+makespan = 210243.000000 workload = 92733.000000 energy = 131776.800000
+makespan = 209414.000000 workload = 58683.000000 energy = 159013.000000
+makespan = 191247.000000 workload = 63604.500000 energy = 159739.400000
+makespan = 227093.000000 workload = 144881.500000 energy = 154244.500000
+makespan = 189978.000000 workload = 82349.000000 energy = 162106.750000
+makespan = 211905.000000 workload = 51183.000000 energy = 153701.050000
+makespan = 210785.000000 workload = 115271.000000 energy = 129375.250000
+makespan = 178325.000000 workload = 62263.500000 energy = 155989.750000
+makespan = 177361.000000 workload = 97781.500000 energy = 155152.450000
+makespan = 180129.000000 workload = 67407.000000 energy = 161245.350000
+makespan = 190260.000000 workload = 35422.500000 energy = 167919.200000
+makespan = 236826.000000 workload = 97065.000000 energy = 179796.400000
+makespan = 168126.000000 workload = 87939.000000 energy = 145004.300000
+makespan = 146319.000000 workload = 21350.500000 energy = 140235.900000
+makespan = 156180.000000 workload = 13505.500000 energy = 148537.600000
+makespan = 150669.000000 workload = 51349.000000 energy = 130458.450000
+makespan = 201299.000000 workload = 94377.500000 energy = 122616.750000
+makespan = 177764.000000 workload = 73065.000000 energy = 157000.900000
+makespan = 160152.000000 workload = 31763.000000 energy = 148049.400000
+makespan = 178933.000000 workload = 1345.000000 energy = 161759.450000
+makespan = 149603.000000 workload = 50377.000000 energy = 139261.500000
+makespan = 150620.000000 workload = 67478.500000 energy = 124766.600000
+makespan = 139700.000000 workload = 19757.500000 energy = 143868.800000
+makespan = 148741.000000 workload = 42875.000000 energy = 132317.150000
+makespan = 150577.000000 workload = 23190.500000 energy = 147541.300000
+makespan = 143184.000000 workload = 47792.500000 energy = 125380.650000
+makespan = 140348.000000 workload = 51417.000000 energy = 143295.000000
+makespan = 169267.000000 workload = 62345.500000 energy = 123331.950000
+makespan = 143257.000000 workload = 30289.500000 energy = 135606.850000
+makespan = 149116.000000 workload = 24741.000000 energy = 148540.750000
+makespan = 207250.000000 workload = 112419.000000 energy = 147393.300000
+makespan = 140288.000000 workload = 40123.000000 energy = 144850.900000
+makespan = 168102.000000 workload = 88829.000000 energy = 134789.100000
+makespan = 152993.000000 workload = 74037.000000 energy = 132812.750000
+makespan = 160160.000000 workload = 26149.000000 energy = 148742.650000
+makespan = 149813.000000 workload = 39003.000000 energy = 140907.000000
+makespan = 134826.000000 workload = 27216.500000 energy = 127400.600000
+makespan = 168546.000000 workload = 56797.000000 energy = 138826.250000
+makespan = 143744.000000 workload = 30289.500000 energy = 136838.200000
+makespan = 169208.000000 workload = 31548.500000 energy = 160916.250000
+makespan = 133739.000000 workload = 26162.500000 energy = 135088.350000
+makespan = 140448.000000 workload = 34656.500000 energy = 144312.600000
+updateTimes = 11
+find a better solution in : 24.09 s	
+makespan = 181865.000000 workload = 94695.000000 energy = 127297.750000
+makespan = 240444.000000 workload = 112419.000000 energy = 178803.800000
+makespan = 193602.000000 workload = 46831.000000 energy = 167729.100000
+makespan = 216558.000000 workload = 115809.500000 energy = 180740.900000
+makespan = 189520.000000 workload = 43599.000000 energy = 166168.800000
+makespan = 190746.000000 workload = 57775.500000 energy = 169341.900000
+makespan = 201043.000000 workload = 82205.000000 energy = 147447.450000
+makespan = 168715.000000 workload = 95179.000000 energy = 149394.850000
+makespan = 159957.000000 workload = 48233.500000 energy = 149891.550000
+makespan = 211019.000000 workload = 111397.000000 energy = 137957.850000
+makespan = 162616.000000 workload = 40759.000000 energy = 155161.600000
+makespan = 223978.000000 workload = 112419.000000 energy = 172754.900000
+makespan = 169086.000000 workload = 58683.000000 energy = 158019.950000
+makespan = 196072.000000 workload = 47391.000000 energy = 150716.750000
+makespan = 202632.000000 workload = 70671.500000 energy = 173262.000000
+makespan = 208110.000000 workload = 102901.000000 energy = 150903.400000
+makespan = 214370.000000 workload = 100963.000000 energy = 172379.300000
+makespan = 188564.000000 workload = 52369.000000 energy = 166056.000000
+makespan = 242948.000000 workload = 54047.000000 energy = 190381.250000
+makespan = 215312.000000 workload = 61595.500000 energy = 174542.150000
+makespan = 169343.000000 workload = 85977.000000 energy = 136249.300000
+makespan = 179377.000000 workload = 65017.500000 energy = 148586.450000
+makespan = 179989.000000 workload = 65807.500000 energy = 137933.450000
+makespan = 160252.000000 workload = 44940.500000 energy = 146615.500000
+makespan = 160198.000000 workload = 29998.500000 energy = 148735.750000
+makespan = 227810.000000 workload = 80209.500000 energy = 182318.750000
+makespan = 167023.000000 workload = 45830.500000 energy = 150926.450000
+makespan = 144455.000000 workload = 29595.000000 energy = 135993.250000
+makespan = 262530.000000 workload = 97075.500000 energy = 191476.200000
+makespan = 169662.000000 workload = 56080.500000 energy = 150622.950000
+makespan = 168258.000000 workload = 52339.000000 energy = 152314.550000
+makespan = 148585.000000 workload = 52899.000000 energy = 125977.550000
+makespan = 167122.000000 workload = 47792.500000 energy = 138077.050000
+makespan = 143684.000000 workload = 27787.000000 energy = 134322.000000
+makespan = 178524.000000 workload = 90821.000000 energy = 127104.350000
+makespan = 169324.000000 workload = 94695.000000 energy = 118949.400000
+makespan = 148802.000000 workload = 41687.500000 energy = 127816.350000
+makespan = 143245.000000 workload = 30289.500000 energy = 134124.350000
+makespan = 148202.000000 workload = 47792.500000 energy = 131556.550000
+makespan = 168522.000000 workload = 52981.000000 energy = 137029.700000
+makespan = 168658.000000 workload = 11469.500000 energy = 156251.050000
+makespan = 151118.000000 workload = 44940.500000 energy = 143091.400000
+makespan = 148681.000000 workload = 62417.000000 energy = 122599.700000
+makespan = 135672.000000 workload = 27216.500000 energy = 127550.750000
+makespan = 143261.000000 workload = 26244.500000 energy = 146376.350000
+makespan = 150521.000000 workload = 47792.500000 energy = 131616.950000
+makespan = 140364.000000 workload = 21101.000000 energy = 136343.900000
+makespan = 168114.000000 workload = 84065.000000 energy = 131964.050000
+makespan = 150078.000000 workload = 43721.000000 energy = 132973.700000
+makespan = 167146.000000 workload = 70163.000000 energy = 140589.800000
+makespan = 159569.000000 workload = 3225.000000 energy = 156036.900000
+makespan = 149811.000000 workload = 40175.000000 energy = 146874.050000
+makespan = 151687.000000 workload = 14927.000000 energy = 145186.800000
+makespan = 172715.000000 workload = 9657.000000 energy = 165339.150000
+makespan = 153415.000000 workload = 26244.500000 energy = 150529.750000
+makespan = 146699.000000 workload = 28777.000000 energy = 147199.600000
+makespan = 160634.000000 workload = 43918.500000 energy = 133530.300000
+makespan = 178847.000000 workload = 13763.000000 energy = 165595.000000
+makespan = 140282.000000 workload = 24771.000000 energy = 143210.650000
+makespan = 188462.000000 workload = 61595.500000 energy = 165050.250000
+13 generation time: 24.76 s
+*****************************t=13*****************************
+updateTimes = 11
+makespan = 189866.000000 workload = 67489.000000 energy = 163401.700000
+makespan = 187196.000000 workload = 53921.000000 energy = 162955.400000
+makespan = 201698.000000 workload = 90725.500000 energy = 144791.700000
+makespan = 218002.000000 workload = 79423.000000 energy = 163013.600000
+makespan = 162671.000000 workload = 43918.500000 energy = 135302.450000
+makespan = 189842.000000 workload = 50071.000000 energy = 162812.550000
+makespan = 208948.000000 workload = 65421.000000 energy = 173382.600000
+makespan = 210123.000000 workload = 58707.000000 energy = 171225.900000
+makespan = 168666.000000 workload = 63533.000000 energy = 153071.100000
+makespan = 182560.000000 workload = 38705.000000 energy = 164786.300000
+makespan = 172520.000000 workload = 65503.000000 energy = 148744.500000
+makespan = 226336.000000 workload = 76209.500000 energy = 188048.900000
+makespan = 166073.000000 workload = 36169.000000 energy = 151144.350000
+makespan = 180557.000000 workload = 89565.000000 energy = 160573.650000
+makespan = 182459.000000 workload = 68253.000000 energy = 144721.350000
+makespan = 209533.000000 workload = 109435.000000 energy = 149165.750000
+makespan = 196243.000000 workload = 107497.500000 energy = 144982.250000
+makespan = 190455.000000 workload = 101713.500000 energy = 153002.000000
+makespan = 245014.000000 workload = 156337.500000 energy = 116711.300000
+makespan = 179993.000000 workload = 101935.000000 energy = 141384.950000
+makespan = 169842.000000 workload = 37162.500000 energy = 155811.500000
+makespan = 210309.000000 workload = 100963.000000 energy = 165796.700000
+makespan = 218504.000000 workload = 60677.000000 energy = 157183.600000
+makespan = 216175.000000 workload = 102041.500000 energy = 152985.850000
+makespan = 172841.000000 workload = 60445.000000 energy = 162306.600000
+makespan = 222678.000000 workload = 65516.500000 energy = 180288.350000
+makespan = 154510.000000 workload = 47447.500000 energy = 138664.550000
+makespan = 180332.000000 workload = 29635.000000 energy = 159842.300000
+makespan = 189440.000000 workload = 53575.500000 energy = 157897.700000
+makespan = 192377.000000 workload = 82349.000000 energy = 158982.600000
+makespan = 168242.000000 workload = 41909.500000 energy = 152558.000000
+makespan = 149077.000000 workload = 46451.000000 energy = 131610.850000
+makespan = 140122.000000 workload = 29719.000000 energy = 141444.900000
+makespan = 160386.000000 workload = 11791.000000 energy = 151921.300000
+makespan = 177760.000000 workload = 62417.000000 energy = 134201.750000
+makespan = 168086.000000 workload = 115271.000000 energy = 120275.900000
+makespan = 146717.000000 workload = 10543.000000 energy = 147916.150000
+makespan = 160054.000000 workload = 24282.500000 energy = 150601.950000
+makespan = 141082.000000 workload = 11543.000000 energy = 145574.050000
+makespan = 159055.000000 workload = 47792.500000 energy = 131136.750000
+makespan = 168522.000000 workload = 67478.500000 energy = 133837.000000
+makespan = 166037.000000 workload = 47513.000000 energy = 160000.550000
+makespan = 190303.000000 workload = 83377.500000 energy = 135565.200000
+makespan = 139244.000000 workload = 38243.000000 energy = 129475.100000
+makespan = 149008.000000 workload = 35225.000000 energy = 148340.250000
+makespan = 159262.000000 workload = 26937.000000 energy = 151165.700000
+makespan = 168769.000000 workload = 83215.000000 energy = 137045.650000
+makespan = 160063.000000 workload = 67478.500000 energy = 128901.950000
+makespan = 143729.000000 workload = 32347.000000 energy = 135888.150000
+makespan = 165417.000000 workload = 66699.000000 energy = 152194.600000
+makespan = 173371.000000 workload = 78863.000000 energy = 136997.450000
+makespan = 148437.000000 workload = 27134.500000 energy = 151643.850000
+makespan = 178958.000000 workload = 74037.000000 energy = 129647.900000
+makespan = 167146.000000 workload = 70163.000000 energy = 140589.800000
+makespan = 148433.000000 workload = 9551.000000 energy = 151656.250000
+makespan = 155020.000000 workload = 67478.500000 energy = 130664.850000
+makespan = 168110.000000 workload = 58683.000000 energy = 138454.050000
+makespan = 149641.000000 workload = 43823.000000 energy = 139710.950000
+makespan = 165214.000000 workload = 61791.000000 energy = 139685.150000
+makespan = 143184.000000 workload = 30289.500000 energy = 133649.000000
+updateTimes = 11
+makespan = 190374.000000 workload = 65033.000000 energy = 170401.750000
+makespan = 156404.000000 workload = 68907.000000 energy = 152621.500000
+makespan = 203214.000000 workload = 65516.500000 energy = 173398.050000
+makespan = 188866.000000 workload = 82021.000000 energy = 163636.100000
+makespan = 172182.000000 workload = 81253.000000 energy = 130136.400000
+makespan = 201784.000000 workload = 40553.000000 energy = 176647.650000
+makespan = 148376.000000 workload = 36169.000000 energy = 149727.550000
+makespan = 171599.000000 workload = 62639.000000 energy = 141556.850000
+makespan = 178869.000000 workload = 40889.000000 energy = 160523.950000
+makespan = 209982.000000 workload = 56981.000000 energy = 153873.550000
+makespan = 186605.000000 workload = 109435.000000 energy = 135358.200000
+makespan = 196064.000000 workload = 55831.000000 energy = 168833.900000
+makespan = 209924.000000 workload = 71021.000000 energy = 171964.300000
+makespan = 160450.000000 workload = 24211.000000 energy = 150073.100000
+makespan = 200647.000000 workload = 86465.500000 energy = 141093.650000
+makespan = 180017.000000 workload = 81253.000000 energy = 143893.650000
+makespan = 231563.000000 workload = 97477.000000 energy = 156916.650000
+makespan = 158963.000000 workload = 60701.000000 energy = 138325.300000
+makespan = 182812.000000 workload = 68201.000000 energy = 153834.100000
+makespan = 159359.000000 workload = 49965.000000 energy = 154403.200000
+makespan = 188320.000000 workload = 91689.500000 energy = 159318.750000
+makespan = 215024.000000 workload = 97065.000000 energy = 174015.050000
+makespan = 189262.000000 workload = 29317.500000 energy = 168544.600000
+makespan = 198155.000000 workload = 113309.000000 energy = 144493.300000
+makespan = 238742.000000 workload = 24998.500000 e

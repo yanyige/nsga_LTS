@@ -1,0 +1,39 @@
+m = 2 n = 14
+pop = 30 gen = 400
+init...begin
+init...done
+*****************************t=0*****************************
+find a better solution in: 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in : 0.02 s	
+find a better solution in : 0.03 s	
+find a better solution in: 0.03 s	
+find a better solution in: 0.03 s	
+find a better solution in : 0.03 s	
+find a better solution in: 0.04 s	
+find a better solution in: 0.04 s	
+find a better solution in : 0.04 s	
+find a better solution in: 0.06 s	
+find a better solution in: 0.10 s	
+find a better solution in : 0.10 s	
+find a better solution in : 0.11 s	
+find a better solution in: 0.11 s	
+find a better solution in: 0.11 s	
+find a better solution in: 0.11 s	
+find a better solution in : 0.16 s	
+find a better solution in: 0.16 s	
+find a better solution in: 0.16 s	
+find a better solution in: 0.16 s	
+find a better solution in: 0.17 s	
+find a better solution in : 0.33 s	
+find a better solution in: 0.33 s	
+find a better solution in: 0.33 s	
+find a better solution in: 0.41 s	
+find a better solution in: 0.41 s	
+find a better solution in: 0.44 s	
+find a better solution in: 0.44 s	
+1 generation time: 0.90 s
+*****************************t=1*****************************

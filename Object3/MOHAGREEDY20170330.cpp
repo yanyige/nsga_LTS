@@ -17,14 +17,14 @@ int m;
 int n;
 const int inf = 0x3f3f3f3f;
 const int cycle=3;//周期数
-const double Rdk=0.1;//处理器工作消耗
-const double Rsk=0.1;//处理器睡眠消耗
-const double Rik=0.1;//处理器空闲消耗
-const double Rb=0.1;//总线消耗
+const double Rdk=0.4;//处理器工作消耗
+const double Rsk=0.15;//处理器睡眠消耗
+const double Rik=0.16;//处理器空闲消耗
+const double Rb=0.2;//总线消耗
 const double cominitcost=2;
-const double t0=100.0;//时间阈值
-const double t_penalty=2;//时间惩罚
-const double extra_E=10.0;//能耗惩罚
+const double t0=50.0;//时间阈值
+const double t_penalty=25;//时间惩罚
+const double extra_E=1;//能耗惩罚
 int mycycle;
 clock_t start, finish;
 //in linux it's tms start finish
@@ -39,7 +39,6 @@ int isdep[cycle][MAXN];//被i依赖的个数
 int todep[cycle][MAXN];//i依赖的任务数
 int taskIndex[MAXN];// 记录每个机器所匹配到的位置
 bool taskUsed[MAXN];
-
 int nonUpdateTimes = 0; //没有更新的代数
 int resetTimes; //最大迭代次数
 set<int> doneSet;
@@ -47,6 +46,7 @@ set<int> doneSet;
 /****************************************
 目标函数   Minimize communication cost
 目标函数   Minimize the balance of processor workload
+目标函数   Minimize the Energy
 t(m,n)     Execution time of a task on a processor
 c(m,n)     Communication cost between two tasks
 ****************************************/
@@ -86,6 +86,10 @@ int cmp(const void *a, const void *b)
 int cmp1(const void *a, const void *b)
 {
     return (*(Individual *)a).makespan > (*(Individual *)b).makespan ? 1:-1;
+}
+int cmp0(const void *a, const void *b)
+{
+    return (*(Individual *)a).energy > (*(Individual *)b).energy ? 1:-1;
 }
 //降序
 int cmp2(const void *a, const void *b)
@@ -271,29 +275,29 @@ void non_domination_sort(Individual individuals[], int length, bool last)
         {
             if(i!=j)
             {
-                if(!last) {//last作为不同支配关系的判定
+                if(!last) {//last作为不同支配关系的判定，规定只执行else部分
                     // if individual[i] dominate individual[j]
-                    if(individuals[i].makespan < individuals[j].makespan && individuals[i].workload < individuals[j].workload)
+                    if(individuals[i].makespan < individuals[j].makespan && individuals[i].workload < individuals[j].workload && individuals[i].energy < individuals[j].energy)
                     {
                         // let individual[j] added to the S of the individual[i]
                         individuals[i].S.push_back(j);
                     }
-                    else if(individuals[j].makespan < individuals[i].makespan && individuals[j].workload < individuals[i].workload)
+                    else if(individuals[j].makespan < individuals[i].makespan && individuals[j].workload < individuals[i].workload && individuals[j].energy < individuals[i].energy)
                     {
                         individuals[i].n = individuals[i].n + 1;
                     }
                 }
                 else {
                     // if individual[i] dominate individual[j]
-                    if(individuals[i].makespan <= individuals[j].makespan && individuals[i].workload <= individuals[j].workload){
+                    if(individuals[i].makespan <= individuals[j].makespan && individuals[i].workload <= individuals[j].workload&&individuals[i].energy <= individuals[j].energy){
                         // let individual[j] added to the S of the individual[i]
-                        if(individuals[i].makespan == individuals[j].makespan && individuals[i].workload == individuals[j].workload){
+                        if(individuals[i].makespan == individuals[j].makespan && individuals[i].workload == individuals[j].workload && individuals[i].energy == individuals[j].energy){
                             continue;
                         }
                         individuals[i].S.push_back(j);
 
-                    }else if(individuals[j].makespan <= individuals[i].makespan && individuals[j].workload <= individuals[i].workload){
-                        if(individuals[i].makespan == individuals[j].makespan && individuals[i].workload == individuals[j].workload){
+                    }else if(individuals[j].makespan <= individuals[i].makespan && individuals[j].workload <= individuals[i].workload&& individuals[j].energy <= individuals[i].energy){
+                        if(individuals[i].makespan == individuals[j].makespan && individuals[i].workload == individuals[j].workload&& individuals[i].energy == individuals[j].energy){
                             continue;
                         }
                         individuals[i].n = individuals[i].n + 1;
@@ -555,7 +559,36 @@ void gamutation(Individual *individual)
     }
 
 }
-
+double get_max_energy(int now_rank)
+{
+    vector<Individual>::iterator iter;
+    double max_energy = -inf;
+    double this_energy;
+    for(iter = Front[now_rank].begin(); iter != Front[now_rank].end(); ++iter)
+    {
+        this_energy = (*iter).energy;
+        if(max_energy < this_energy)
+        {
+            max_energy = this_energy;
+        }
+    }
+    return max_energy;
+}
+double get_min_energy(int now_rank)
+{
+    vector<Individual>::iterator iter;
+    double min_energy = inf;
+    double this_energy;
+    for(iter = Front[now_rank].begin(); iter != Front[now_rank].end(); ++iter)
+    {
+        this_energy = (*iter).energy;
+        if(min_energy > this_energy)
+        {
+            min_energy = this_energy;
+        }
+    }
+    return min_energy;
+}
 double get_max_communication(int now_rank)
 {
     vector<Individual>::iterator iter;
@@ -630,6 +663,8 @@ void crowdDistance(int now_rank)
     double min_communication = get_min_communication(now_rank);
     double max_maxspan = get_max_maxspan(now_rank);
     double min_maxspan = get_min_maxspan(now_rank);
+    double max_energy = get_max_energy(now_rank);
+    double min_energy = get_min_energy(now_rank);
     for(iter = Front[now_rank].begin(); iter != Front[now_rank].end(); ++ iter)
     {
         front_individuals[length] = (*iter);
@@ -648,6 +683,13 @@ void crowdDistance(int now_rank)
     for(int i = 1 ; i < length - 1 ; i ++)
     {
         front_individuals[i].crowd_distance = front_individuals[i].crowd_distance + (front_individuals[i+1].makespan - front_individuals[i-1].makespan) / (max_maxspan - min_maxspan);
+    }
+    qsort(front_individuals, length, sizeof(front_individuals[0]), cmp0);
+    front_individuals[0].crowd_distance = inf;
+    front_individuals[length - 1].crowd_distance = inf;
+    for(int i = 1 ; i < length - 1 ; i ++)
+    {
+        front_individuals[i].crowd_distance = front_individuals[i].crowd_distance + (front_individuals[i+1].energy - front_individuals[i-1].energy) / (max_energy - min_energy);
     }
 
     qsort(front_individuals, length, sizeof(front_individuals[0]), cmp2);
@@ -859,16 +901,19 @@ bool check_machine(Individual *individual) {
 }
 //定义非支配关系
 int compareIndividual(Individual *a, Individual *b) {
-    if(a->makespan == b->makespan && a->workload == b->workload) return 0;
-    if((a->makespan < b->makespan && a->workload <= b->workload) || (a->workload < b->workload && a->makespan <= b->makespan)) return 1;
-    if((a->makespan > b->makespan && a->workload >= b->workload) || (a->workload > b->workload && a->makespan >= b->makespan)) return 2;
-    return 3;
+    if(a->makespan == b->makespan && a->workload == b->workload && a->energy==b->energy) return 0;//a=b
+//    if((a->makespan < b->makespan && a->workload <= b->workload) || (a->workload < b->workload && a->makespan <= b->makespan)) return 1;//a dominates b
+//    if((a->makespan >= b->makespan && a->workload >= b->workload) || (a->workload > b->workload && a->makespan >= b->makespan)) return 2;//b dominates a
+    if(a->makespan <= b->makespan && a->workload <= b->workload && a->energy<=b->energy) return 1;//a dominates b
+	if(a->makespan >= b->makespan && a->workload >= b->workload && a->energy>=b->energy) return 2;//a dominates b
+
+	return 3;
 }
 
 void relaxElistCollection(Individual *i) {
     vector<Individual>::iterator iter;
     for(iter = ElistCollection.begin(); iter != ElistCollection.end(); iter ++) {
-        if(i->makespan == (*iter).makespan && (i->workload == (*iter).workload)) {
+        if(i->makespan == (*iter).makespan && (i->workload == (*iter).workload)&& (i->energy == (*iter).energy)) {
             continue;
         }else {
             int ret = compareIndividual(i, &(*iter));
@@ -912,8 +957,8 @@ bool updateElistCollection(Individual *i) {
             }
         }
         if(!flag) {
-            changed = true;
             ElistCollection.push_back(*i);
+            changed = true;
             finish = clock();
             real_time=(double)(finish - start) / CLOCKS_PER_SEC;
             printf("find a better solution in : %.2f s	\n", real_time);
@@ -1402,7 +1447,7 @@ void solve(){
         {
             evaluate_objective(&Collection[i]);
         }
-
+        non_domination_sort(Collection, pop * 2, true);//用正常的非支配关系
         for(vector<Individual>::iterator iter = Front[1].begin(); iter != Front[1].end(); ++ iter) {
             bool _changed = updateElistCollection(&(*iter)); // 更新精英种群
             if(!_changed) nonUpdateTimes ++;
@@ -1421,7 +1466,7 @@ void solve(){
                 nonUpdateTimes = 0;
             }
         }
-        non_domination_sort(Collection, pop * 2, false);
+
         while(1)
         {
             if(P_size + Front[now_rank].size() > pop)
@@ -1482,6 +1527,45 @@ void solve(){
             tot ++;
 //        }
     }
+ printf("x=[");
+for(int i = 0 ; i < ElistCollection.size() ; i ++)
+    {
+//        if(Collection[i].front == 1)
+//        {
+
+            printf("%.2lf ", ElistCollection[i].makespan);
+
+            tot ++;
+//        }
+    }
+     printf("];");
+            printf("\n");
+             printf("y=[");
+    for(int i = 0 ; i < ElistCollection.size() ; i ++)
+    {
+//        if(Collection[i].front == 1)
+//        {
+
+            printf("%.2lf ", ElistCollection[i].workload);
+
+
+//        }
+    }
+      printf("];");
+            printf("\n");
+            printf("z=[");
+    for(int i = 0 ; i < ElistCollection.size() ; i ++)
+    {
+//        if(Collection[i].front == 1)
+//        {
+
+            printf("%.2lf ", ElistCollection[i].energy);
+
+
+//        }
+    }
+     printf("];");
+            printf("\n");
     printf("tot = %d\n", tot);
 }
 
@@ -1491,7 +1575,6 @@ int main(int argc, char **argv){
     char testcase[100];
     char *fileName;
     int myRand;
-
     strcpy(testcase, argv[1]);
     strtok(strtok(argv[1], "."), "/");
     strcpy(outPutFile, fileName = strtok(NULL, "/"));
@@ -1505,13 +1588,13 @@ int main(int argc, char **argv){
     pop = atoi(argv[3]);
     strcat(outPutFile, "-");
     strcat(outPutFile, argv[4]);
-    strcat(outPutFile, "-MACHINE4NEW-local-");
+    strcat(outPutFile, "-MACHINE4-3object-");
 
     gen = atoi(argv[4]);
     resetTimes = atoi(argv[5]);
     strcat(outPutFile, argv[5]);
-    strcat(outPutFile, ".txt");
     srand(myRand);
+    strcat(outPutFile, ".txt");
     freopen(testcase, "r", stdin);
     freopen(outPutFile, "w", stdout);
 //    printf("%s\n", outPutFile);

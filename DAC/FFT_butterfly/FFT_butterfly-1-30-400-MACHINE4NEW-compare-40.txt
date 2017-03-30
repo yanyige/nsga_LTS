@@ -1,0 +1,1096 @@
+m = 2 n = 32
+pop = 30 gen = 400
+init...begin
+init...done
+*****************************t=0*****************************
+1 generation time: 8.45 s
+*****************************t=1*****************************
+find a better solution in: 15.42 s	
+find a better solution in: 15.42 s	
+find a better solution in: 15.42 s	
+2 generation time: 15.50 s
+*****************************t=2*****************************
+3 generation time: 23.66 s
+*****************************t=3*****************************
+4 generation time: 31.08 s
+*****************************t=4*****************************
+updateTimes = 41
+makespan = 10024.000000 workload = 4342.000000
+makespan = 11060.000000 workload = 0.000000
+makespan = 19068.000000 workload = 668.000000
+makespan = 15388.000000 workload = 1002.000000
+makespan = 18728.000000 workload = 334.000000
+makespan = 14555.000000 workload = 0.000000
+makespan = 10036.000000 workload = 334.000000
+makespan = 11380.000000 workload = 668.000000
+makespan = 11364.000000 workload = 668.000000
+makespan = 14720.000000 workload = 334.000000
+makespan = 9022.000000 workload = 1670.000000
+makespan = 12720.000000 workload = 2672.000000
+makespan = 15070.000000 workload = 668.000000
+makespan = 10867.000000 workload = 1336.000000
+makespan = 11553.000000 workload = 1002.000000
+makespan = 11356.000000 workload = 5010.000000
+makespan = 10360.000000 workload = 668.000000
+makespan = 19724.000000 workload = 1336.000000
+makespan = 11706.000000 workload = 1670.000000
+makespan = 10875.000000 workload = 1336.000000
+makespan = 10700.000000 workload = 1002.000000
+makespan = 12219.000000 workload = 0.000000
+makespan = 14897.000000 workload = 334.000000
+makespan = 10364.000000 workload = 1670.000000
+makespan = 8362.000000 workload = 1670.000000
+makespan = 13718.000000 workload = 334.000000
+makespan = 14716.000000 workload = 1336.000000
+makespan = 12366.000000 workload = 1002.000000
+makespan = 10034.000000 workload = 1002.000000
+makespan = 11543.000000 workload = 668.000000
+makespan = 6680.000000 workload = 1002.000000
+makespan = 6857.000000 workload = 334.000000
+makespan = 7036.000000 workload = 1336.000000
+makespan = 8362.000000 workload = 334.000000
+makespan = 7046.000000 workload = 0.000000
+makespan = 7020.000000 workload = 668.000000
+makespan = 7863.000000 workload = 1336.000000
+makespan = 8032.000000 workload = 2004.000000
+makespan = 7863.000000 workload = 1670.000000
+makespan = 6364.000000 workload = 334.000000
+makespan = 7360.000000 workload = 668.000000
+makespan = 8024.000000 workload = 1336.000000
+makespan = 8360.000000 workload = 1002.000000
+makespan = 10032.000000 workload = 334.000000
+makespan = 7698.000000 workload = 2338.000000
+makespan = 7686.000000 workload = 668.000000
+makespan = 7026.000000 workload = 668.000000
+makespan = 9531.000000 workload = 3340.000000
+makespan = 6350.000000 workload = 668.000000
+makespan = 7859.000000 workload = 1002.000000
+makespan = 9026.000000 workload = 334.000000
+makespan = 7372.000000 workload = 334.000000
+makespan = 6861.000000 workload = 334.000000
+makespan = 6704.000000 workload = 1336.000000
+makespan = 8358.000000 workload = 2004.000000
+makespan = 6690.000000 workload = 0.000000
+makespan = 7710.000000 workload = 2338.000000
+makespan = 7193.000000 workload = 334.000000
+makespan = 7694.000000 workload = 668.000000
+makespan = 7374.000000 workload = 1670.000000
+5 generation time: 47.63 s
+*****************************t=5*****************************
+6 generation time: 55.88 s
+*****************************t=6*****************************
+7 generation time: 64.50 s
+*****************************t=7*****************************
+8 generation time: 72.20 s
+*****************************t=8*****************************
+updateTimes = 41
+makespan = 12696.000000 workload = 1002.000000
+makespan = 12207.000000 workload = 1670.000000
+makespan = 14724.000000 workload = 668.000000
+makespan = 13722.000000 workload = 334.000000
+makespan = 9364.000000 workload = 2338.000000
+makespan = 16074.000000 workload = 1002.000000
+makespan = 13718.000000 workload = 334.000000
+makespan = 11555.000000 workload = 1002.000000
+makespan = 10708.000000 workload = 1336.000000
+makespan = 12696.000000 workload = 1002.000000
+makespan = 14724.000000 workload = 668.000000
+makespan = 7857.000000 workload = 1002.000000
+makespan = 12708.000000 workload = 334.000000
+makespan = 13718.000000 workload = 1002.000000
+makespan = 9694.000000 workload = 2338.000000
+makespan = 10356.000000 workload = 4008.000000
+makespan = 14044.000000 workload = 3006.000000
+makespan = 12358.000000 workload = 3340.000000
+makespan = 15050.000000 workload = 1002.000000
+makespan = 14205.000000 workload = 1670.000000
+makespan = 10708.000000 workload = 668.000000
+makespan = 7861.000000 workload = 2338.000000
+makespan = 10024.000000 workload = 4342.000000
+makespan = 11539.000000 workload = 1336.000000
+makespan = 9686.000000 workload = 4342.000000
+makespan = 12378.000000 workload = 2004.000000
+makespan = 9863.000000 workload = 0.000000
+makespan = 10044.000000 workload = 668.000000
+makespan = 14386.000000 workload = 668.000000
+makespan = 10044.000000 workload = 1002.000000
+makespan = 7187.000000 workload = 334.000000
+makespan = 7201.000000 workload = 334.000000
+makespan = 7358.000000 workload = 1002.000000
+makespan = 6523.000000 workload = 1002.000000
+makespan = 7014.000000 workload = 1002.000000
+makespan = 8360.000000 workload = 2004.000000
+makespan = 6360.000000 workload = 668.000000
+makespan = 6688.000000 workload = 334.000000
+makespan = 11376.000000 workload = 334.000000
+makespan = 7360.000000 workload = 1670.000000
+makespan = 8354.000000 workload = 668.000000
+makespan = 6521.000000 workload = 334.000000
+makespan = 9030.000000 workload = 1002.000000
+makespan = 7688.000000 workload = 1002.000000
+makespan = 7356.000000 workload = 1002.000000
+makespan = 8360.000000 workload = 2004.000000
+makespan = 6696.000000 workload = 0.000000
+makespan = 7360.000000 workload = 334.000000
+makespan = 10370.000000 workload = 1670.000000
+makespan = 6690.000000 workload = 1002.000000
+makespan = 7364.000000 workload = 334.000000
+makespan = 6545.000000 workload = 0.000000
+makespan = 7694.000000 workload = 0.000000
+makespan = 7859.000000 workload = 2004.000000
+makespan = 7042.000000 workload = 1670.000000
+makespan = 7698.000000 workload = 334.000000
+makespan = 6684.000000 workload = 1002.000000
+makespan = 6684.000000 workload = 1336.000000
+makespan = 6680.000000 workload = 334.000000
+makespan = 8358.000000 workload = 668.000000
+9 generation time: 88.89 s
+*****************************t=9*****************************
+10 generation time: 97.02 s
+*****************************t=10*****************************
+updateTimes = 41
+makespan = 13372.000000 workload = 0.000000
+makespan = 9368.000000 workload = 1002.000000
+makespan = 11219.000000 workload = 668.000000
+makespan = 10209.000000 workload = 334.000000
+makespan = 11211.000000 workload = 668.000000
+makespan = 14718.000000 workload = 0.000000
+makespan = 16064.000000 workload = 1336.000000
+makespan = 15553.000000 workload = 1670.000000
+makespan = 8688.000000 workload = 3006.000000
+makespan = 9364.000000 workload = 2338.000000
+makespan = 9223.000000 workload = 334.000000
+makespan = 13042.000000 workload = 668.000000
+makespan = 14718.000000 workload = 2004.000000
+makespan = 12374.000000 workload = 2004.000000
+makespan = 9372.000000 workload = 1670.000000
+makespan = 18724.000000 workload = 334.000000
+makespan = 12217.000000 workload = 1002.000000
+makespan = 8704.000000 workload = 668.000000
+makespan = 15052.000000 workload = 334.000000
+makespan = 14708.000000 workload = 1002.000000
+makespan = 13724.000000 workload = 668.000000
+makespan = 15215.000000 workload = 1336.000000
+makespan = 12052.000000 workload = 2004.000000
+makespan = 16716.000000 workload = 2004.000000
+makespan = 10688.000000 workload = 5010.000000
+makespan = 10716.000000 workload = 1002.000000
+makespan = 10700.000000 workload = 1336.000000
+makespan = 14054.000000 workload = 668.000000
+makespan = 11360.000000 workload = 4342.000000
+makespan = 17392.000000 workload = 0.000000
+makespan = 8354.000000 workload = 3006.000000
+makespan = 6861.000000 workload = 1002.000000
+makespan = 8028.000000 workload = 1002.000000
+makespan = 7535.000000 workload = 1336.000000
+makespan = 7026.000000 workload = 334.000000
+makespan = 6690.000000 workload = 1002.000000
+makespan = 7525.000000 workload = 668.000000
+makespan = 6354.000000 workload = 668.000000
+makespan = 7553.000000 workload = 1336.000000
+makespan = 7356.000000 workload = 1670.000000
+makespan = 7193.000000 workload = 0.000000
+makespan = 8203.000000 workload = 1670.000000
+makespan = 8692.000000 workload = 334.000000
+makespan = 7026.000000 workload = 0.000000
+makespan = 6855.000000 workload = 668.000000
+makespan = 8362.000000 workload = 1336.000000
+makespan = 7696.000000 workload = 1670.000000
+makespan = 6024.000000 workload = 334.000000
+makespan = 7859.000000 workload = 668.000000
+makespan = 7861.000000 workload = 1336.000000
+makespan = 8857.000000 workload = 3006.000000
+makespan = 7360.000000 workload = 668.000000
+makespan = 7531.000000 workload = 668.000000
+makespan = 8028.000000 workload = 1670.000000
+makespan = 6684.000000 workload = 0.000000
+makespan = 7020.000000 workload = 1336.000000
+makespan = 8028.000000 workload = 668.000000
+makespan = 7525.000000 workload = 1002.000000
+makespan = 6690.000000 workload = 334.000000
+makespan = 9364.000000 workload = 334.000000
+11 generation time: 113.52 s
+*****************************t=11*****************************
+12 generation time: 122.22 s
+*****************************t=12*****************************
+13 generation time: 130.51 s
+*****************************t=13*****************************
+14 generation time: 138.26 s
+*****************************t=14*****************************
+updateTimes = 41
+makespan = 13718.000000 workload = 334.000000
+makespan = 10372.000000 workload = 0.000000
+makespan = 13706.000000 workload = 668.000000
+makespan = 14052.000000 workload = 1670.000000
+makespan = 11215.000000 workload = 0.000000
+makespan = 15706.000000 workload = 668.000000
+makespan = 18386.000000 workload = 334.000000
+makespan = 10358.000000 workload = 2672.000000
+makespan = 9541.000000 workload = 1002.000000
+makespan = 15396.000000 workload = 1670.000000
+makespan = 12376.000000 workload = 1336.000000
+makespan = 11718.000000 workload = 2338.000000
+makespan = 10382.000000 workload = 1670.000000
+makespan = 10374.000000 workload = 2004.000000
+makespan = 9859.000000 workload = 2338.000000
+makespan = 13724.000000 workload = 1002.000000
+makespan = 14386.000000 workload = 0.000000
+makespan = 13026.000000 workload = 4676.000000
+makespan = 10551.000000 workload = 334.000000
+makespan = 9376.000000 workload = 668.000000
+makespan = 14064.000000 workload = 0.000000
+makespan = 10885.000000 workload = 0.000000
+makespan = 10042.000000 workload = 0.000000
+makespan = 10360.000000 workload = 3006.000000
+makespan = 13722.000000 workload = 668.000000
+makespan = 13040.000000 workload = 1336.000000
+makespan = 11698.000000 workload = 2338.000000
+makespan = 11042.000000 workload = 2004.000000
+makespan = 10358.000000 workload = 4008.000000
+makespan = 16205.000000 workload = 1670.000000
+makespan = 9370.000000 workload = 1670.000000
+makespan = 6696.000000 workload = 1336.000000
+makespan = 7183.000000 workload = 334.000000
+makespan = 9024.000000 workload = 2338.000000
+makespan = 8354.000000 workload = 1336.000000
+makespan = 7698.000000 workload = 1670.000000
+makespan = 7360.000000 workload = 1002.000000
+makespan = 7523.000000 workload = 1336.000000
+makespan = 6688.000000 workload = 1336.000000
+makespan = 8881.000000 workload = 334.000000
+makespan = 8704.000000 workload = 334.000000
+makespan = 8028.000000 workload = 334.000000
+makespan = 8022.000000 workload = 1002.000000
+makespan = 7211.000000 workload = 0.000000
+makespan = 9022.000000 workload = 0.000000
+makespan = 6857.000000 workload = 1002.000000
+makespan = 6686.000000 workload = 334.000000
+makespan = 6865.000000 workload = 334.000000
+makespan = 7187.000000 workload = 668.000000
+makespan = 6859.000000 workload = 668.000000
+makespan = 7682.000000 workload = 2338.000000
+makespan = 9352.000000 workload = 3006.000000
+makespan = 9702.000000 workload = 0.000000
+makespan = 7358.000000 workload = 334.000000
+makespan = 6519.000000 workload = 668.000000
+makespan = 8040.000000 workload = 0.000000
+makespan = 6853.000000 workload = 668.000000
+makespan = 7694.000000 workload = 2338.000000
+makespan = 7698.000000 workload = 668.000000
+makespan = 6189.000000 workload = 334.000000
+15 generation time: 154.97 s
+*****************************t=15*****************************
+16 generation time: 163.15 s
+*****************************t=16*****************************
+updateTimes = 41
+makespan = 13720.000000 workload = 334.000000
+makespan = 7690.000000 workload = 1002.000000
+makespan = 16386.000000 workload = 1670.000000
+makespan = 10871.000000 workload = 334.000000
+makespan = 9702.000000 workload = 2004.000000
+makespan = 13038.000000 workload = 334.000000
+makespan = 11714.000000 workload = 3006.000000
+makespan = 14060.000000 workload = 1002.000000
+makespan = 15380.000000 workload = 2338.000000
+makespan = 9352.000000 workload = 4008.000000
+makespan = 14386.000000 workload = 1670.000000
+makespan = 12042.000000 workload = 0.000000
+makespan = 11364.000000 workload = 2338.000000
+makespan = 18897.000000 workload = 1336.000000
+makespan = 11694.000000 workload = 2004.000000
+makespan = 14382.000000 workload = 0.000000
+makespan = 10048.000000 workload = 0.000000
+makespan = 14402.000000 workload = 1670.000000
+makespan = 11030.000000 workload = 3006.000000
+makespan = 13046.000000 workload = 1002.000000
+makespan = 11706.000000 workload = 3674.000000
+makespan = 8358.000000 workload = 2004.000000
+makespan = 10048.000000 workload = 1002.000000
+makespan = 13050.000000 workload = 668.000000
+makespan = 14058.000000 workload = 1002.000000
+makespan = 12545.000000 workload = 1670.000000
+makespan = 12358.000000 workload = 668.000000
+makespan = 12869.000000 workload = 0.000000
+makespan = 10875.000000 workload = 1002.000000
+makespan = 9698.000000 workload = 1002.000000
+makespan = 8024.000000 workload = 668.000000
+makespan = 7358.000000 workload = 1336.000000
+makespan = 8024.000000 workload = 0.000000
+makespan = 9706.000000 workload = 0.000000
+makespan = 8690.000000 workload = 3006.000000
+makespan = 10024.000000 workload = 0.000000
+makespan = 8191.000000 workload = 1670.000000
+makespan = 7692.000000 workload = 334.000000
+makespan = 7185.000000 workload = 668.000000
+makespan = 7690.000000 workload = 668.000000
+makespan = 7187.000000 workload = 1002.000000
+makespan = 7362.000000 workload = 668.000000
+makespan = 7686.000000 workload = 668.000000
+makespan = 8193.000000 workload = 1336.000000
+makespan = 7195.000000 workload = 668.000000
+makespan = 6358.000000 workload = 668.000000
+makespan = 7539.000000 workload = 0.000000
+makespan = 7191.000000 workload = 1336.000000
+makespan = 12038.000000 workload = 1670.000000
+makespan = 6350.000000 workload = 1002.000000
+makespan = 7358.000000 workload = 0.000000
+makespan = 7865.000000 workload = 1002.000000
+makespan = 7034.000000 workload = 668.000000
+makespan = 8193.000000 workload = 334.000000
+makespan = 7521.000000 workload = 1002.000000
+makespan = 10370.000000 workload = 668.000000
+makespan = 8529.000000 workload = 2338.000000
+makespan = 7690.000000 workload = 334.000000
+makespan = 6869.000000 workload = 0.000000
+makespan = 8366.000000 workload = 334.000000
+17 generation time: 179.24 s
+*****************************t=17*****************************
+18 generation time: 187.54 s
+*****************************t=18*****************************
+19 generation time: 196.09 s
+*****************************t=19*****************************
+updateTimes = 41
+makespan = 12374.000000 workload = 668.000000
+makespan = 12563.000000 workload = 1002.000000
+makespan = 10370.000000 workload = 1670.000000
+makespan = 14543.000000 workload = 2004.000000
+makespan = 11211.000000 workload = 668.000000
+makespan = 11378.000000 workload = 1336.000000
+makespan = 11553.000000 workload = 0.000000
+makespan = 12382.000000 workload = 668.000000
+makespan = 13714.000000 workload = 668.000000
+makespan = 10366.000000 workload = 1002.000000
+makespan = 9370.000000 workload = 2004.000000
+makespan = 10191.000000 workload = 3674.000000
+makespan = 10547.000000 workload = 668.000000
+makespan = 11205.000000 workload = 1336.000000
+makespan = 15372.000000 workload = 668.000000
+makespan = 12370.000000 workload = 1670.000000
+makespan = 11895.000000 workload = 668.000000
+makespan = 14891.000000 workload = 668.000000
+makespan = 11211.000000 workload = 1336.000000
+makespan = 15042.000000 workload = 2004.000000
+makespan = 11706.000000 workload = 3006.000000
+makespan = 14394.000000 workload = 668.000000
+makespan = 10378.000000 workload = 668.000000
+makespan = 9364.000000 workload = 334.000000
+makespan = 18730.000000 workload = 334.000000
+makespan = 11384.000000 workload = 1670.000000
+makespan = 18722.000000 workload = 334.000000
+makespan = 8704.000000 workload = 334.000000
+makespan = 12708.000000 workload = 668.000000
+makespan = 12217.000000 workload = 1002.000000
+makespan = 8020.000000 workload = 1002.000000
+makespan = 10700.000000 workload = 3006.000000
+makespan = 6191.000000 workload = 668.000000
+makespan = 8696.000000 workload = 668.000000
+makespan = 7360.000000 workload = 0.000000
+makespan = 8370.000000 workload = 1336.000000
+makespan = 9380.000000 workload = 668.000000
+makespan = 7362.000000 workload = 668.000000
+makespan = 7352.000000 workload = 1002.000000
+makespan = 7352.000000 workload = 668.000000
+makespan = 7694.000000 workload = 334.000000
+makespan = 7372.000000 workload = 2004.000000
+makespan = 7692.000000 workload = 1002.000000
+makespan = 6024.000000 workload = 668.000000
+makespan = 9364.000000 workload = 334.000000
+makespan = 7356.000000 workload = 1002.000000
+makespan = 8195.000000 workload = 2004.000000
+makespan = 8032.000000 workload = 2672.000000
+makespan = 8020.000000 workload = 668.000000
+makespan = 7352.000000 workload = 668.000000
+makespan = 7694.000000 workload = 668.000000
+makespan = 6187.000000 workload = 0.000000
+makespan = 6358.000000 workload = 0.000000
+makespan = 7531.000000 workload = 334.000000
+makespan = 7191.000000 workload = 0.000000
+makespan = 8362.000000 workload = 0.000000
+makespan = 7362.000000 workload = 1670.000000
+makespan = 8024.000000 workload = 2672.000000
+makespan = 7034.000000 workload = 334.000000
+makespan = 8696.000000 workload = 0.000000
+20 generation time: 211.99 s
+*****************************t=20*****************************
+21 generation time: 220.91 s
+*****************************t=21*****************************
+22 generation time: 229.56 s
+*****************************t=22*****************************
+updateTimes = 41
+makespan = 10364.000000 workload = 668.000000
+makespan = 14561.000000 workload = 334.000000
+makespan = 10024.000000 workload = 3674.000000
+makespan = 13207.000000 workload = 2338.000000
+makespan = 15040.000000 workload = 0.000000
+makespan = 18060.000000 workload = 334.000000
+makespan = 10710.000000 workload = 1002.000000
+makespan = 9026.000000 workload = 1670.000000
+makespan = 13869.000000 workload = 3340.000000
+makespan = 11702.000000 workload = 334.000000
+makespan = 15374.000000 workload = 1670.000000
+makespan = 13710.000000 workload = 334.000000
+makespan = 12696.000000 workload = 334.000000
+makespan = 11710.000000 workload = 2004.000000
+makespan = 10372.000000 workload = 1002.000000
+makespan = 12034.000000 workload = 0.000000
+makespan = 10704.000000 workload = 1002.000000
+makespan = 13376.000000 workload = 1670.000000
+makespan = 10366.000000 workload = 1002.000000
+makespan = 20249.000000 workload = 668.000000
+makespan = 10726.000000 workload = 334.000000
+makespan = 9195.000000 workload = 1336.000000
+makespan = 10698.000000 workload = 1336.000000
+makespan = 15044.000000 workload = 1002.000000
+makespan = 11869.000000 workload = 1670.000000
+makespan = 11225.000000 workload = 1670.000000
+makespan = 11225.000000 workload = 334.000000
+makespan = 12374.000000 workload = 1336.000000
+makespan = 10028.000000 workload = 3674.000000
+makespan = 13718.000000 workload = 668.000000
+makespan = 7694.000000 workload = 1002.000000
+makespan = 7022.000000 workload = 334.000000
+makespan = 10038.000000 workload = 1002.000000
+makespan = 10044.000000 workload = 1336.000000
+makespan = 8523.000000 workload = 2672.000000
+makespan = 7014.000000 workload = 0.000000
+makespan = 7358.000000 workload = 0.000000
+makespan = 7022.000000 workload = 0.000000
+makespan = 8193.000000 workload = 1002.000000
+makespan = 9026.000000 workload = 668.000000
+makespan = 7020.000000 workload = 0.000000
+makespan = 7358.000000 workload = 1336.000000
+makespan = 8032.000000 workload = 0.000000
+makespan = 8692.000000 workload = 668.000000
+makespan = 7362.000000 workload = 668.000000
+makespan = 7026.000000 workload = 334.000000
+makespan = 7688.000000 workload = 668.000000
+makespan = 7187.000000 workload = 1670.000000
+makespan = 7360.000000 workload = 1002.000000
+makespan = 10052.000000 workload = 1002.000000
+makespan = 8016.000000 workload = 1336.000000
+makespan = 7684.000000 workload = 1002.000000
+makespan = 7193.000000 workload = 668.000000
+makespan = 7356.000000 workload = 0.000000
+makespan = 6527.000000 workload = 668.000000
+makespan = 6684.000000 workload = 334.000000
+makespan = 6362.000000 workload = 1002.000000
+makespan = 9376.000000 workload = 0.000000
+makespan = 7205.000000 workload = 668.000000
+makespan = 6859.000000 workload = 1002.000000
+23 generation time: 245.80 s
+*****************************t=23*****************************
+24 generation time: 253.41 s
+*****************************t=24*****************************
+25 generation time: 261.03 s
+*****************************t=25*****************************
+updateTimes = 41
+makespan = 14040.000000 workload = 3340.000000
+makespan = 14056.000000 workload = 0.000000
+makespan = 10356.000000 workload = 4342.000000
+makespan = 11356.000000 workload = 5010.000000
+makespan = 12374.000000 workload = 2004.000000
+makespan = 9356.000000 workload = 2004.000000
+makespan = 9193.000000 workload = 3340.000000
+makespan = 10364.000000 workload = 0.000000
+makespan = 9352.000000 workload = 4008.000000
+makespan = 12052.000000 workload = 2338.000000
+makespan = 11370.000000 workload = 334.000000
+makespan = 11718.000000 workload = 1670.000000
+makespan = 14720.000000 workload = 668.000000
+makespan = 10716.000000 workload = 1670.000000
+makespan = 9032.000000 workload = 2338.000000
+makespan = 13056.000000 workload = 2004.000000
+makespan = 10690.000000 workload = 4676.000000
+makespan = 9525.000000 workload = 1336.000000
+makespan = 11539.000000 workload = 1002.000000
+makespan = 14032.000000 workload = 334.000000
+makespan = 9704.000000 workload = 668.000000
+makespan = 14044.000000 workload = 1336.000000
+makespan = 12374.000000 workload = 3674.000000
+makespan = 11720.000000 workload = 668.000000
+makespan = 14885.000000 workload = 668.000000
+makespan = 10704.000000 workload = 1336.000000
+makespan = 11694.000000 workload = 2004.000000
+makespan = 13718.000000 workload = 1002.000000
+makespan = 10539.000000 workload = 1002.000000
+makespan = 14060.000000 workload = 334.000000
+makespan = 7356.000000 workload = 1002.000000
+makespan = 6684.000000 workload = 334.000000
+makespan = 7881.000000 workload = 1002.000000
+makespan = 9531.000000 workload = 1670.000000
+makespan = 11034.000000 workload = 1336.000000
+makespan = 8525.000000 workload = 1670.000000
+makespan = 7368.000000 workload = 2004.000000
+makespan = 7024.000000 workload = 668.000000
+makespan = 7692.000000 workload = 668.000000
+makespan = 7698.000000 workload = 2338.000000
+makespan = 7704.000000 workload = 2004.000000
+makespan = 6358.000000 workload = 1002.000000
+makespan = 6865.000000 workload = 1336.000000
+makespan = 7690.000000 workload = 2004.000000
+makespan = 7688.000000 workload = 1002.000000
+makespan = 6875.000000 workload = 668.000000
+makespan = 5688.000000 workload = 0.000000
+makespan = 6028.000000 workload = 668.000000
+makespan = 7024.000000 workload = 1336.000000
+makespan = 7696.000000 workload = 1002.000000
+makespan = 7682.000000 workload = 2004.000000
+makespan = 8696.000000 workload = 0.000000
+makespan = 7028.000000 workload = 1670.000000
+makespan = 7024.000000 workload = 668.000000
+makespan = 7702.000000 workload = 2338.000000
+makespan = 11376.000000 workload = 2338.000000
+makespan = 7348.000000 workload = 0.000000
+makespan = 7024.000000 workload = 334.000000
+makespan = 6519.000000 workload = 668.000000
+makespan = 7022.000000 workload = 334.000000
+26 generation time: 276.30 s
+*****************************t=26*****************************
+27 generation time: 284.14 s
+*****************************t=27*****************************
+28 generation time: 291.86 s
+*****************************t=28*****************************
+updateTimes = 41
+makespan = 11022.000000 workload = 3006.000000
+makespan = 9360.000000 workload = 1670.000000
+makespan = 9042.000000 workload = 0.000000
+makespan = 12539.000000 workload = 0.000000
+makespan = 11547.000000 workload = 668.000000
+makespan = 12034.000000 workload = 668.000000
+makespan = 9686.000000 workload = 4342.000000
+makespan = 12370.000000 workload = 1002.000000
+makespan = 13042.000000 workload = 0.000000
+makespan = 9380.000000 workload = 0.000000
+makespan = 9879.000000 workload = 668.000000
+makespan = 14052.000000 workload = 1002.000000
+makespan = 8191.000000 workload = 2004.000000
+makespan = 8869.000000 workload = 334.000000
+makespan = 12720.000000 workload = 1336.000000
+makespan = 8521.000000 workload = 1670.000000
+makespan = 18724.000000 workload = 1336.000000
+makespan = 18889.000000 workload = 334.000000
+makespan = 15718.000000 workload = 1002.000000
+makespan = 15738.000000 workload = 1002.000000
+makespan = 11710.000000 workload = 2004.000000
+makespan = 10867.000000 workload = 668.000000
+makespan = 11698.000000 workload = 2338.000000
+makespan = 14048.000000 workload = 1670.000000
+makespan = 15877.000000 workload = 1336.000000
+makespan = 15054.000000 workload = 0.000000
+makespan = 13879.000000 workload = 334.000000
+makespan = 9708.000000 workload = 1670.000000
+makespan = 9018.000000 workload = 3674.000000
+makespan = 13384.000000 workload = 334.000000
+makespan = 8704.000000 workload = 334.000000
+makespan = 8032.000000 workload = 1336.000000
+makespan = 8036.000000 workload = 668.000000
+makespan = 8026.000000 workload = 1002.000000
+makespan = 7859.000000 workload = 668.000000
+makespan = 8024.000000 workload = 668.000000
+makespan = 8028.000000 workload = 1002.000000
+makespan = 6857.000000 workload = 334.000000
+makespan = 7356.000000 workload = 334.000000
+makespan = 7028.000000 workload = 668.000000
+makespan = 9527.000000 workload = 3006.000000
+makespan = 7366.000000 workload = 334.000000
+makespan = 7014.000000 workload = 668.000000
+makespan = 12044.000000 workload = 334.000000
+makespan = 6688.000000 workload = 1002.000000
+makespan = 8380.000000 workload = 1002.000000
+makespan = 8195.000000 workload = 2338.000000
+makespan = 6696.000000 workload = 1336.000000
+makespan = 6539.000000 workload = 1002.000000
+makespan = 8688.000000 workload = 2338.000000
+makespan = 8857.000000 workload = 2338.000000
+makespan = 8022.000000 workload = 1336.000000
+makespan = 6024.000000 workload = 668.000000
+makespan = 7545.000000 workload = 334.000000
+makespan = 7026.000000 workload = 0.000000
+makespan = 8692.000000 workload = 1002.000000
+makespan = 7356.000000 workload = 334.000000
+makespan = 8030.000000 workload = 2004.000000
+makespan = 7014.000000 workload = 1002.000000
+makespan = 6853.000000 workload = 1002.000000
+29 generation time: 306.87 s
+*****************************t=29*****************************
+30 generation time: 315.20 s
+*****************************t=30*****************************
+31 generation time: 322.25 s
+*****************************t=31*****************************
+32 generation time: 330.75 s
+*****************************t=32*****************************
+updateTimes = 41
+makespan = 11724.000000 workload = 1002.000000
+makespan = 8869.000000 workload = 668.000000
+makespan = 8024.000000 workload = 1002.000000
+makespan = 13046.000000 workload = 0.000000
+makespan = 17046.000000 workload = 2004.000000
+makespan = 11376.000000 workload = 668.000000
+makespan = 15577.000000 workload = 1002.000000
+makespan = 9384.000000 workload = 1002.000000
+makespan = 11376.000000 workload = 2338.000000
+makespan = 14716.000000 workload = 1336.000000
+makespan = 11881.000000 workload = 1002.000000
+makespan = 15384.000000 workload = 334.000000
+makespan = 15394.000000 workload = 0.000000
+makespan = 17058.000000 workload = 668.000000
+makespan = 9692.000000 workload = 3006.000000
+makespan = 13376.000000 workload = 2004.000000
+makespan = 11380.000000 workload = 334.000000
+makespan = 10366.000000 workload = 3340.000000
+makespan = 7694.000000 workload = 668.000000
+makespan = 18072.000000 workload = 1336.000000
+makespan = 15058.000000 workload = 668.000000
+makespan = 14378.000000 workload = 1002.000000
+makespan = 13710.000000 workload = 1670.000000
+makespan = 10040.000000 workload = 1002.000000
+makespan = 17722.000000 workload = 334.000000
+makespan = 12704.000000 workload = 334.000000
+makespan = 13710.000000 workload = 1336.000000
+makespan = 13368.000000 workload = 1002.000000
+makespan = 13714.000000 workload = 668.000000
+makespan = 14724.000000 workload = 1336.000000
+makespan = 6696.000000 workload = 1336.000000
+makespan = 6380.000000 workload = 0.000000
+makespan = 7360.000000 workload = 1670.000000
+makespan = 7191.000000 workload = 1002.000000
+makespan = 7688.000000 workload = 1002.000000
+makespan = 6523.000000 workload = 334.000000
+makespan = 9026.000000 workload = 1002.000000
+makespan = 7024.000000 workload = 1336.000000
+makespan = 12044.000000 workload = 1002.000000
+makespan = 6692.000000 workload = 1336.000000
+makespan = 8044.000000 workload = 1336.000000
+makespan = 7527.000000 workload = 1670.000000
+makespan = 6865.000000 workload = 668.000000
+makespan = 7016.000000 workload = 334.000000
+makespan = 10702.000000 workload = 1336.000000
+makespan = 8199.000000 workload = 2338.000000
+makespan = 7018.000000 workload = 668.000000
+makespan = 7706.000000 workload = 2338.000000
+makespan = 7527.000000 workload = 1002.000000
+makespan = 9036.000000 workload = 668.000000
+makespan = 7356.000000 workload = 334.000000
+makespan = 7690.000000 workload = 2338.000000
+makespan = 8020.000000 workload = 0.000000
+makespan = 6702.000000 workload = 668.000000
+makespan = 6527.000000 workload = 668.000000
+makespan = 9030.000000 workload = 1002.000000
+makespan = 7191.000000 workload = 1670.000000
+makespan = 7026.000000 workload = 1670.000000
+makespan = 6696.000000 workload = 1002.000000
+makespan = 6863.000000 workload = 1002.000000
+33 generation time: 348.06 s
+*****************************t=33*****************************
+34 generation time: 358.81 s
+*****************************t=34*****************************
+35 generation time: 369.19 s
+*****************************t=35*****************************
+updateTimes = 41
+makespan = 11042.000000 workload = 1002.000000
+makespan = 16704.000000 workload = 668.000000
+makespan = 12225.000000 workload = 334.000000
+makespan = 11028.000000 workload = 1670.000000
+makespan = 9694.000000 workload = 1336.000000
+makespan = 10688.000000 workload = 3006.000000
+makespan = 10716.000000 workload = 1336.000000
+makespan = 8531.000000 workload = 2338.000000
+makespan = 9690.000000 workload = 3674.000000
+makespan = 13052.000000 workload = 2672.000000
+makespan = 14064.000000 workload = 1002.000000
+makespan = 9038.000000 workload = 334.000000
+makespan = 14209.000000 workload = 2004.000000
+makespan = 11710.000000 workload = 2004.000000
+makespan = 9022.000000 workload = 334.000000
+makespan = 13376.000000 workload = 2338.000000
+makespan = 12704.000000 workload = 334.000000
+makespan = 11356.000000 workload = 3006.000000
+makespan = 10374.000000 workload = 1002.000000
+makespan = 7863.000000 workload = 1336.000000
+makespan = 12030.000000 workload = 1336.000000
+makespan = 10197.000000 workload = 1336.000000
+makespan = 18724.000000 workload = 1336.000000
+makespan = 14720.000000 workload = 1002.000000
+makespan = 12708.000000 workload = 334.000000
+makespan = 10881.000000 workload = 1336.000000
+makespan = 14048.000000 workload = 334.000000
+makespan = 9686.000000 workload = 4342.000000
+makespan = 16060.000000 workload = 2338.000000
+makespan = 15726.000000 workload = 668.000000
+makespan = 9364.000000 workload = 1336.000000
+makespan = 12378.000000 workload = 1336.000000
+makespan = 7195.000000 workload = 1670.000000
+makespan = 7370.000000 workload = 1002.000000
+makespan = 6684.000000 workload = 1002.000000
+makespan = 6020.000000 workload = 0.000000
+makespan = 6853.000000 workload = 334.000000
+makespan = 9050.000000 workload = 668.000000
+makespan = 9694.000000 workload = 0.000000
+makespan = 8358.000000 workload = 334.000000
+makespan = 9706.000000 workload = 0.000000
+makespan = 8692.000000 workload = 1002.000000
+makespan = 6525.000000 workload = 334.000000
+makespan = 6692.000000 workload = 1336.000000
+makespan = 10199.000000 workload = 334.000000
+makespan = 7362.000000 workload = 1002.000000
+makespan = 6690.000000 workload = 334.000000
+makespan = 7535.000000 workload = 334.000000
+makespan = 6523.000000 workload = 668.000000
+makespan = 7022.000000 workload = 668.000000
+makespan = 8688.000000 workload = 334.000000
+makespan = 9197.000000 workload = 3340.000000
+makespan = 8700.000000 workload = 334.000000
+makespan = 8028.000000 workload = 668.000000
+makespan = 6366.000000 workload = 1002.000000
+makespan = 8863.000000 workload = 1336.000000
+makespan = 9038.000000 workload = 668.000000
+makespan = 7694.000000 workload = 2338.000000
+makespan = 7016.000000 workload = 668.000000
+makespan = 8358.000000 workload = 668.000000
+36 generation time: 399.21 s
+*****************************t=36*****************************
+37 generation time: 414.27 s
+*****************************t=37*****************************
+38 generation time: 430.78 s
+*****************************t=38*****************************
+39 generation time: 440.35 s
+*****************************t=39*****************************
+updateTimes = 41
+makespan = 9879.000000 workload = 334.000000
+makespan = 9356.000000 workload = 4008.000000
+makespan = 13042.000000 workload = 3674.000000
+makespan = 14382.000000 workload = 1670.000000
+makespan = 18394.000000 workload = 1002.000000
+makespan = 15388.000000 workload = 1336.000000
+makespan = 9364.000000 workload = 0.000000
+makespan = 16400.000000 workload = 668.000000
+makespan = 15223.000000 workload = 1002.000000
+makespan = 14720.000000 workload = 334.000000
+makespan = 12716.000000 workload = 0.000000
+makespan = 12702.000000 workload = 2004.000000
+makespan = 13722.000000 workload = 334.000000
+makespan = 9694.000000 workload = 2004.000000
+makespan = 10861.000000 workload = 4008.000000
+makespan = 12704.000000 workload = 0.000000
+makespan = 15211.000000 workload = 668.000000
+makespan = 13388.000000 workload = 1336.000000
+makespan = 15060.000000 workload = 334.000000
+makespan = 12704.000000 workload = 334.000000
+makespan = 12700.000000 workload = 1002.000000
+makespan = 8853.000000 workload = 2004.000000
+makespan = 9038.000000 workload = 2672.000000
+makespan = 15052.000000 workload = 334.000000
+makespan = 12551.000000 workload = 0.000000
+makespan = 11545.000000 workload = 334.000000
+makespan = 12366.000000 workload = 334.000000
+makespan = 11022.000000 workload = 5010.000000
+makespan = 18732.000000 workload = 334.000000
+makespan = 17058.000000 workload = 0.000000
+makespan = 8189.000000 workload = 2004.000000
+makespan = 7352.000000 workload = 334.000000
+makespan = 9368.000000 workload = 334.000000
+makespan = 8358.000000 workload = 3006.000000
+makespan = 7348.000000 workload = 1002.000000
+makespan = 7694.000000 workload = 668.000000
+makespan = 11372.000000 workload = 1336.000000
+makespan = 7352.000000 workload = 1336.000000
+makespan = 9853.000000 workload = 4008.000000
+makespan = 6853.000000 workload = 334.000000
+makespan = 6688.000000 workload = 334.000000
+makespan = 6692.000000 workload = 334.000000
+makespan = 10704.000000 workload = 1670.000000
+makespan = 7352.000000 workload = 1002.000000
+makespan = 7529.000000 workload = 1002.000000
+makespan = 6857.000000 workload = 1002.000000
+makespan = 7521.000000 workload = 1002.000000
+makespan = 6865.000000 workload = 0.000000
+makespan = 8692.000000 workload = 334.000000
+makespan = 8195.000000 workload = 0.000000
+makespan = 7024.000000 workload = 334.000000
+makespan = 10040.000000 workload = 0.000000
+makespan = 6859.000000 workload = 0.000000
+makespan = 9042.000000 workload = 668.000000
+makespan = 7014.000000 workload = 668.000000
+makespan = 6857.000000 workload = 1336.000000
+makespan = 9364.000000 workload = 1670.000000
+makespan = 8704.000000 workload = 334.000000
+makespan = 7030.000000 workload = 1670.000000
+makespan = 7024.000000 workload = 334.000000
+40 generation time: 461.47 s
+*****************************t=40*****************************
+41 generation time: 474.70 s
+*****************************t=41*****************************
+42 generation time: 485.81 s
+*****************************t=42*****************************
+updateTimes = 41
+makespan = 13368.000000 workload = 3340.000000
+makespan = 20237.000000 workload = 0.000000
+makespan = 10692.000000 workload = 2672.000000
+makespan = 11547.000000 workload = 334.000000
+makespan = 11368.000000 workload = 1670.000000
+makespan = 14042.000000 workload = 0.000000
+makespan = 12708.000000 workload = 1670.000000
+makespan = 19398.000000 workload = 1002.000000
+makespan = 12056.000000 workload = 334.000000
+makespan = 9044.000000 workload = 1002.000000
+makespan = 9388.000000 workload = 334.000000
+makespan = 11217.000000 workload = 2004.000000
+makespan = 11380.000000 workload = 1336.000000
+makespan = 10046.000000 workload = 0.000000
+makespan = 15903.000000 workload = 668.000000
+makespan = 14221.000000 workload = 668.000000
+makespan = 11372.000000 workload = 668.000000
+makespan = 11042.000000 workload = 2672.000000
+makespan = 10354.000000 workload = 5010.000000
+makespan = 15042.000000 workload = 1670.000000
+makespan = 17384.000000 workload = 668.000000
+makespan = 13032.000000 workload = 334.000000
+makespan = 14060.000000 workload = 1002.000000
+makespan = 9022.000000 workload = 2004.000000
+makespan = 17376.000000 workload = 334.000000
+makespan = 11394.000000 workload = 668.000000
+makespan = 10541.000000 workload = 668.000000
+makespan = 13042.000000 workload = 2338.000000
+makespan = 9362.000000 workload = 2672.000000
+makespan = 18394.000000 workload = 1336.000000
+makespan = 8187.000000 workload = 2672.000000
+makespan = 9694.000000 workload = 1336.000000
+makespan = 8032.000000 workload = 334.000000
+makespan = 7857.000000 workload = 334.000000
+makespan = 7189.000000 workload = 1670.000000
+makespan = 7048.000000 workload = 334.000000
+makespan = 8354.000000 workload = 1670.000000
+makespan = 7028.000000 workload = 668.000000
+makespan = 8032.000000 workload = 1002.000000
+makespan = 7692.000000 workload = 1336.000000
+makespan = 6684.000000 workload = 1002.000000
+makespan = 7366.000000 workload = 1336.000000
+makespan = 6358.000000 workload = 334.000000
+makespan = 10374.000000 workload = 334.000000
+makespan = 7038.000000 workload = 1670.000000
+makespan = 8020.000000 workload = 668.000000
+makespan = 7189.000000 workload = 1002.000000
+makespan = 10042.000000 workload = 2004.000000
+makespan = 8690.000000 workload = 1002.000000
+makespan = 9368.000000 workload = 0.000000
+makespan = 9694.000000 workload = 2338.000000
+makespan = 7020.000000 workload = 668.000000
+makespan = 7028.000000 workload = 1336.000000
+makespan = 8368.000000 workload = 668.000000
+makespan = 8197.000000 workload = 0.000000
+makespan = 7688.000000 workload = 2004.000000
+makespan = 7555.000000 workload = 1002.000000
+makespan = 6185.000000 workload = 334.000000
+makespan = 9698.000000 workload = 1670.000000
+makespan = 7702.000000 workload = 334.000000
+find a better solution in: 504.83 s	
+43 generation time: 504.94 s
+*****************************t=43*****************************
+44 generation time: 514.58 s
+*****************************t=44*****************************
+45 generation time: 525.82 s
+*****************************t=45*****************************
+46 generation time: 537.23 s
+*****************************t=46*****************************
+updateTimes = 41
+makespan = 9527.000000 workload = 2338.000000
+makespan = 10710.000000 workload = 668.000000
+makespan = 11030.000000 workload = 2004.000000
+makespan = 10382.000000 workload = 334.000000
+makespan = 10048.000000 workload = 1336.000000
+makespan = 9706.000000 workload = 668.000000
+makespan = 10374.000000 workload = 1002.000000
+makespan = 11046.000000 workload = 668.000000
+makespan = 12883.000000 workload = 1336.000000
+makespan = 15062.000000 workload = 1002.000000
+makespan = 9529.000000 workload = 0.000000
+makespan = 9722.000000 workload = 668.000000
+makespan = 10881.000000 workload = 668.000000
+makespan = 11392.000000 workload = 0.000000
+makespan = 9702.000000 workload = 1002.000000
+makespan = 10712.000000 workload = 1670.000000
+makespan = 15887.000000 workload = 334.000000
+makespan = 10022.000000 workload = 4342.000000
+makespan = 10547.000000 workload = 334.000000
+makespan = 12704.000000 workload = 334.000000
+makespan = 15710.000000 workload = 1670.000000
+makespan = 13702.000000 workload = 2672.000000
+makespan = 8694.000000 workload = 2672.000000
+makespan = 12040.000000 workload = 2338.000000
+makespan = 16060.000000 workload = 2338.000000
+makespan = 12384.000000 workload = 668.000000
+makespan = 11732.000000 workload = 1002.000000
+makespan = 10032.000000 workload = 2338.000000
+makespan = 9360.000000 workload = 2004.000000
+makespan = 18728.000000 workload = 334.000000
+makespan = 6706.000000 workload = 1002.000000
+makespan = 7354.000000 workload = 334.000000
+makespan = 8688.000000 workload = 3340.000000
+makespan = 6692.000000 workload = 668.000000
+makespan = 6523.000000 workload = 1002.000000
+makespan = 7690.000000 workload = 2338.000000
+makespan = 6354.000000 workload = 668.000000
+makespan = 8032.000000 workload = 1002.000000
+makespan = 7352.000000 workload = 2004.000000
+makespan = 7356.000000 workload = 2004.000000
+makespan = 6525.000000 workload = 1002.000000
+makespan = 10040.000000 workload = 334.000000
+makespan = 7694.000000 workload = 2338.000000
+makespan = 7020.000000 workload = 334.000000
+makespan = 6350.000000 workload = 334.000000
+makespan = 7855.000000 workload = 1002.000000
+makespan = 9527.000000 workload = 3006.000000
+makespan = 6692.000000 workload = 0.000000
+makespan = 8354.000000 workload = 334.000000
+makespan = 8024.000000 workload = 2672.000000
+makespan = 8028.000000 workload = 2672.000000
+makespan = 7360.000000 workload = 668.000000
+makespan = 7187.000000 workload = 0.000000
+makespan = 7694.000000 workload = 334.000000
+makespan = 7189.000000 workload = 668.000000
+makespan = 8352.000000 workload = 1336.000000
+makespan = 7018.000000 workload = 1002.000000
+makespan = 8356.000000 workload = 334.000000
+makespan = 6028.000000 workload = 668.000000
+makespan = 7022.000000 workload = 1670.000000
+47 generation time: 558.64 s
+*****************************t=47*****************************
+48 generation time: 567.84 s
+*****************************t=48*****************************
+49 generation time: 577.54 s
+*****************************t=49*****************************
+updateTimes = 41
+makespan = 14052.000000 workload = 1002.000000
+makespan = 13714.000000 workload = 1002.000000
+makespan = 12386.000000 workload = 1336.000000
+makespan = 9871.000000 workload = 334.000000
+makespan = 9859.000000 workload = 1002.000000
+makespan = 13368.000000 workload = 1670.000000
+makespan = 12040.000000 workload = 0.000000
+makespan = 15060.000000 workload = 334.000000
+makespan = 7857.000000 workload = 1336.000000
+makespan = 13722.000000 workload = 334.000000
+makespan = 9191.000000 workload = 3006.000000
+makespan = 14545.000000 workload = 668.000000
+makespan = 12712.000000 workload = 2338.000000
+makespan = 10036.000000 workload = 1670.000000
+makespan = 10722.000000 workload = 0.000000
+makespan = 14042.000000 workload = 1002.000000
+makespan = 11384.000000 workload = 2004.000000
+makespan = 10887.000000 workload = 1336.000000
+makespan = 11384.000000 workload = 0.000000
+makespan = 12392.000000 workload = 668.000000
+makespan = 19062.000000 workload = 2338.000000
+makespan = 12543.000000 workload = 1336.000000
+makespan = 16720.000000 workload = 2338.000000
+makespan = 15392.000000 workload = 334.000000
+makespan = 11068.000000 workload = 334.000000
+makespan = 13879.000000 workload = 2338.000000
+makespan = 14720.000000 workload = 668.000000
+makespan = 9871.000000 workload = 1670.000000
+makespan = 12366.000000 workload = 3006.000000
+makespan = 12374.000000 workload = 1336.000000
+makespan = 7191.000000 workload = 1336.000000
+makespan = 8376.000000 workload = 668.000000
+makespan = 9026.000000 workload = 334.000000
+makespan = 6879.000000 workload = 668.000000
+makespan = 8018.000000 workload = 2338.000000
+makespan = 9030.000000 workload = 0.000000
+makespan = 7366.000000 workload = 334.000000
+makespan = 10052.000000 workload = 668.000000
+makespan = 7690.000000 workload = 668.000000
+makespan = 7364.000000 workload = 334.000000
+makespan = 8032.000000 workload = 334.000000
+makespan = 7712.000000 workload = 0.000000
+makespan = 10704.000000 workload = 1336.000000
+makespan = 8696.000000 workload = 334.000000
+makespan = 7195.000000 workload = 1336.000000
+makespan = 9205.000000 workload = 334.000000
+makespan = 7018.000000 workload = 668.000000
+makespan = 6183.000000 workload = 0.000000
+makespan = 8189.000000 workload = 0.000000
+makespan = 7688.000000 workload = 1002.000000
+makespan = 6018.000000 workload = 0.000000
+makespan = 6354.000000 workload = 1002.000000
+makespan = 6523.000000 workload = 668.000000
+makespan = 7018.000000 workload = 668.000000
+makespan = 6690.000000 workload = 668.000000
+makespan = 7539.000000 workload = 334.000000
+makespan = 7022.000000 workload = 1336.000000
+makespan = 6855.000000 workload = 1002.000000
+makespan = 7193.000000 workload = 1670.000000
+makespan = 7024.000000 workload = 1002.000000
+50 generation time: 597.75 s
+*****************************t=50*****************************
+51 generation time: 607.85 s
+*****************************t=51*****************************
+52 generation time: 619.01 s
+*****************************t=52*****************************
+updateTimes = 41
+makespan = 10028.000000 workload = 2004.000000
+makespan = 11728.000000 workload = 2338.000000
+makespan = 13714.000000 workload = 0.000000
+makespan = 10358.000000 workload = 4008.000000
+makespan = 12708.000000 workload = 3006.000000
+makespan = 12706.000000 workload = 668.000000
+makespan = 12205.000000 workload = 1670.000000
+makespan = 10708.000000 workload = 668.000000
+makespan = 10374.000000 workload = 334.000000
+makespan = 8523.000000 workload = 2338.000000
+makespan = 10022.000000 workload = 3340.000000
+makespan = 11734.000000 workload = 668.000000
+makespan = 9710.000000 workload = 334.000000
+makespan = 9706.000000 workload = 668.000000
+makespan = 11569.000000 workload = 1670.000000
+makespan = 10044.000000 workload = 0.000000
+makespan = 10537.000000 workload = 668.000000
+makespan = 12720.000000 workload = 2338.000000
+makespan = 14871.000000 workload = 334.000000
+makespan = 15062.000000 workload = 1670.000000
+makespan = 11710.000000 workload = 2004.000000
+makespan = 10024.000000 workload = 4676.000000
+makespan = 11722.000000 workload = 1670.000000
+makespan = 15400.000000 workload = 2004.000000
+makespan = 14543.000000 workload = 1670.000000
+makespan = 10378.000000 workload = 334.000000
+makespan = 12362.000000 workload = 3006.000000
+makespan = 13388.000000 workload = 334.000000
+makespan = 10042.000000 workload = 334.000000
+makespan = 12048.000000 workload = 334.000000
+makespan = 10032.000000 workload = 334.000000
+makespan = 10692.000000 workload = 1002.000000
+makespan = 7521.000000 workload = 1670.000000
+makespan = 6185.000000 workload = 668.000000
+makespan = 7028.000000 workload = 334.000000
+makespan = 8030.000000 workload = 334.000000
+makespan = 8362.000000 workload = 2338.000000
+makespan = 8686.000000 workload = 3006.000000
+makespan = 6694.000000 workload = 0.000000
+makespan = 7036.000000 workload = 1336.000000
+makespan = 7686.000000 workload = 1002.000000
+makespan = 7370.000000 workload = 1670.000000
+makespan = 6354.000000 workload = 668.000000
+makespan = 6863.000000 workload = 1336.000000
+makespan = 6692.000000 workload = 1002.000000
+makespan = 8523.000000 workload = 2004.000000
+makespan = 7690.000000 workload = 334.000000
+makespan = 6684.000000 workload = 0.000000
+makespan = 6193.000000 workload = 668.000000
+makespan = 7018.000000 workload = 334.000000
+makespan = 9702.000000 workload = 0.000000
+makespan = 7360.000000 workload = 2004.000000
+makespan = 6376.000000 workload = 0.000000
+makespan = 7537.000000 workload = 1670.000000
+makespan = 7535.000000 workload = 1670.000000
+makespan = 8195.000000 workload = 2672.000000
+makespan = 7698.000000 workload = 2338.000000
+makespan = 6865.000000 workload = 1336.000000
+makespan = 6024.000000 workload = 668.000000
+makespan = 7358.000000 workload = 334.000000
+53 generation time: 645.02 s
+*****************************t=53*****************************
+54 generation time: 659.09 s
+*****************************t=54*****************************
+55 generation time: 673.09 s
+*****************************t=55*****************************
+updateTimes = 41
