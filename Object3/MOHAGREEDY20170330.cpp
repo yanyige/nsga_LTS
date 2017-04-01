@@ -1588,7 +1588,7 @@ int main(int argc, char **argv){
     pop = atoi(argv[3]);
     strcat(outPutFile, "-");
     strcat(outPutFile, argv[4]);
-    strcat(outPutFile, "-MACHINE4-3object-");
+    strcat(outPutFile, "-MACHINE4-k/2-3object-");
 
     gen = atoi(argv[4]);
     resetTimes = atoi(argv[5]);
