@@ -8,10 +8,10 @@ double ans1[10000][10];
 double t1, t2,t3;
 bool flag;
 int main(){
-    freopen("h264-machine4.txt", "w", stdout);
+    freopen("h264-10-40.txt", "w", stdout);
     FILE *fp;
     int k = 0;
-    if( (fp=fopen("h264_14-1-30-400-MACHINE4-k2-3object-10.txt","rt"))!=NULL) {
+    if( (fp=fopen("h264_14-1-30-400-MACHINE4-3object-10.txt","rt"))!=NULL) {
         while( !feof(fp)) {
             fscanf(fp,"%s",str);
             flag = true;
@@ -35,7 +35,7 @@ int main(){
         fclose(fp);
     }
     int k1 = 0;
-    if( (fp=fopen("h264_14-1-30-400-MACHINE4-k2-3object-40.txt","rt"))!=NULL) {
+    if( (fp=fopen("h264_14-1-30-400-MACHINE4-3object-40.txt","rt"))!=NULL) {
         while( !feof(fp)) {
             fscanf(fp,"%s",str);
             flag = true;

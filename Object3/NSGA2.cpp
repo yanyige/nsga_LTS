@@ -1578,7 +1578,7 @@ int main(int argc, char **argv){
     srand(myRand);
     strcat(outPutFile, ".txt");
     freopen(testcase, "r", stdin);
-    freopen(outPutFile, "w", stdout);
+//    freopen(outPutFile, "w", stdout);
 //    printf("%s\n", outPutFile);
     start = clock();
 //    start_time = start.tms_utime + start.tms_stime;

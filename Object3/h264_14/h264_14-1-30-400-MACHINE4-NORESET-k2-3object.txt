@@ -1,0 +1,1362 @@
+m = 4 n = 14
+pop = 30 gen = 400
+init...begin
+init...done
+*****************************t=0*****************************
+find a better solution in: 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in : 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in: 0.01 s	
+find a better solution in: 0.03 s	
+find a better solution in: 0.03 s	
+find a better solution in: 0.03 s	
+find a better solution in : 0.03 s	
+find a better solution in : 0.03 s	
+find a better solution in : 0.03 s	
+find a better solution in: 0.03 s	
+find a better solution in: 0.03 s	
+find a better solution in : 0.03 s	
+find a better solution in : 0.03 s	
+find a better solution in : 0.06 s	
+find a better solution in: 0.06 s	
+find a better solution in: 0.06 s	
+find a better solution in: 0.08 s	
+find a better solution in: 0.09 s	
+find a better solution in : 0.09 s	
+find a better solution in : 0.09 s	
+find a better solution in : 0.11 s	
+find a better solution in: 0.11 s	
+find a better solution in: 0.11 s	
+find a better solution in: 0.11 s	
+find a better solution in : 0.11 s	
+find a better solution in : 0.11 s	
+find a better solution in: 0.11 s	
+find a better solution in : 0.11 s	
+find a better solution in : 0.11 s	
+find a better solution in: 0.13 s	
+find a better solution in: 0.13 s	
+find a better solution in : 0.13 s	
+find a better solution in : 0.13 s	
+find a better solution in : 0.13 s	
+find a better solution in: 0.13 s	
+find a better solution in: 0.13 s	
+find a better solution in: 0.13 s	
+find a better solution in: 0.14 s	
+find a better solution in: 0.14 s	
+find a better solution in: 0.14 s	
+find a better solution in : 0.16 s	
+find a better solution in : 0.16 s	
+find a better solution in : 0.16 s	
+find a better solution in : 0.16 s	
+find a better solution in : 0.19 s	
+find a better solution in : 0.19 s	
+find a better solution in: 0.19 s	
+find a better solution in : 0.20 s	
+find a better solution in : 0.20 s	
+find a better solution in: 0.22 s	
+find a better solution in : 0.23 s	
+find a better solution in: 0.23 s	
+find a better solution in : 0.25 s	
+find a better solution in : 0.25 s	
+find a better solution in: 0.25 s	
+find a better solution in: 0.27 s	
+find a better solution in: 0.28 s	
+find a better solution in: 0.28 s	
+find a better solution in: 0.28 s	
+find a better solution in: 0.28 s	
+find a better solution in : 0.28 s	
+find a better solution in : 0.28 s	
+find a better solution in: 0.28 s	
+find a better solution in : 0.28 s	
+find a better solution in: 0.30 s	
+find a better solution in : 0.30 s	
+find a better solution in: 0.30 s	
+find a better solution in : 0.30 s	
+find a better solution in : 0.31 s	
+find a better solution in: 0.31 s	
+find a better solution in: 0.31 s	
+find a better solution in: 0.31 s	
+find a better solution in: 0.33 s	
+find a better solution in : 0.33 s	
+find a better solution in : 0.34 s	
+find a better solution in : 0.34 s	
+find a better solution in: 0.34 s	
+find a better solution in: 0.34 s	
+find a better solution in: 0.34 s	
+find a better solution in : 0.34 s	
+find a better solution in : 0.34 s	
+find a better solution in: 0.34 s	
+find a better solution in: 0.34 s	
+find a better solution in: 0.34 s	
+find a better solution in : 0.36 s	
+find a better solution in : 0.36 s	
+find a better solution in : 0.36 s	
+find a better solution in : 0.36 s	
+find a better solution in : 0.38 s	
+find a better solution in: 0.38 s	
+find a better solution in: 0.38 s	
+find a better solution in : 0.39 s	
+find a better solution in : 0.39 s	
+find a better solution in : 0.39 s	
+find a better solution in : 0.44 s	
+find a better solution in : 0.44 s	
+find a better solution in: 0.45 s	
+find a better solution in: 0.45 s	
+find a better solution in: 0.45 s	
+find a better solution in : 0.45 s	
+find a better solution in : 0.45 s	
+find a better solution in: 0.45 s	
+find a better solution in: 0.45 s	
+find a better solution in : 0.48 s	
+find a better solution in: 0.53 s	
+find a better solution in: 0.53 s	
+find a better solution in: 0.55 s	
+find a better solution in : 0.56 s	
+find a better solution in : 0.56 s	
+find a better solution in: 0.64 s	
+find a better solution in: 0.66 s	
+find a better solution in : 0.67 s	
+find a better solution in: 0.70 s	
+find a better solution in : 0.72 s	
+find a better solution in : 0.72 s	
+find a better solution in : 0.72 s	
+find a better solution in : 0.72 s	
+find a better solution in : 0.78 s	
+find a better solution in : 0.83 s	
+1 generation time: 0.86 s
+*****************************t=1*****************************
+find a better solution in : 0.88 s	
+find a better solution in: 0.88 s	
+find a better solution in : 0.89 s	
+find a better solution in : 0.92 s	
+find a better solution in: 0.92 s	
+find a better solution in: 0.98 s	
+find a better solution in : 0.98 s	
+find a better solution in: 0.98 s	
+find a better solution in: 1.00 s	
+find a better solution in: 1.00 s	
+find a better solution in : 1.00 s	
+find a better solution in : 1.00 s	
+find a better solution in: 1.00 s	
+find a better solution in : 1.05 s	
+find a better solution in: 1.05 s	
+find a better solution in: 1.05 s	
+find a better solution in : 1.05 s	
+find a better solution in : 1.06 s	
+find a better solution in : 1.13 s	
+find a better solution in : 1.13 s	
+find a better solution in : 1.13 s	
+find a better solution in: 1.13 s	
+find a better solution in : 1.13 s	
+find a better solution in : 1.13 s	
+find a better solution in: 1.14 s	
+find a better solution in: 1.14 s	
+find a better solution in : 1.20 s	
+find a better solution in: 1.22 s	
+find a better solution in: 1.25 s	
+find a better solution in: 1.25 s	
+find a better solution in: 1.33 s	
+find a better solution in : 1.34 s	
+find a better solution in : 1.34 s	
+find a better solution in : 1.34 s	
+find a better solution in : 1.36 s	
+2 generation time: 1.59 s
+*****************************t=2*****************************
+find a better solution in : 1.66 s	
+find a better solution in : 1.70 s	
+find a better solution in: 1.72 s	
+find a better solution in : 1.78 s	
+find a better solution in: 1.78 s	
+find a better solution in: 1.78 s	
+find a better solution in : 1.97 s	
+find a better solution in: 1.97 s	
+find a better solution in : 1.98 s	
+find a better solution in: 1.98 s	
+find a better solution in: 1.98 s	
+find a better solution in: 1.98 s	
+find a better solution in : 1.98 s	
+find a better solution in: 1.98 s	
+find a better solution in: 1.98 s	
+find a better solution in: 2.00 s	
+find a better solution in: 2.22 s	
+find a better solution in : 2.23 s	
+find a better solution in: 2.27 s	
+find a better solution in: 2.27 s	
+find a better solution in : 2.28 s	
+find a better solution in : 2.28 s	
+3 generation time: 2.39 s
+*****************************t=3*****************************
+find a better solution in : 2.59 s	
+find a better solution in : 2.59 s	
+find a better solution in : 2.77 s	
+find a better solution in : 2.78 s	
+find a better solution in: 2.78 s	
+find a better solution in : 2.88 s	
+find a better solution in : 2.98 s	
+find a better solution in: 3.02 s	
+4 generation time: 3.28 s
+*****************************t=4*****************************
+find a better solution in : 3.31 s	
+find a better solution in: 3.31 s	
+find a better solution in: 3.33 s	
+find a better solution in: 3.33 s	
+find a better solution in: 3.33 s	
+find a better solution in: 3.33 s	
+find a better solution in: 3.34 s	
+find a better solution in : 3.44 s	
+find a better solution in : 3.44 s	
+find a better solution in : 3.44 s	
+find a better solution in: 3.45 s	
+find a better solution in : 3.47 s	
+find a better solution in : 3.50 s	
+find a better solution in : 3.53 s	
+find a better solution in : 3.55 s	
+find a better solution in: 3.67 s	
+find a better solution in : 3.67 s	
+find a better solution in : 3.67 s	
+find a better solution in: 3.67 s	
+find a better solution in: 3.67 s	
+find a better solution in: 3.67 s	
+find a better solution in : 3.67 s	
+find a better solution in: 3.67 s	
+find a better solution in: 3.69 s	
+find a better solution in: 3.69 s	
+find a better solution in: 3.69 s	
+find a better solution in: 3.69 s	
+find a better solution in: 3.69 s	
+find a better solution in: 3.69 s	
+find a better solution in: 3.69 s	
+find a better solution in: 3.73 s	
+find a better solution in: 3.73 s	
+find a better solution in : 3.73 s	
+find a better solution in: 3.75 s	
+find a better solution in: 3.75 s	
+find a better solution in: 3.75 s	
+find a better solution in: 3.75 s	
+find a better solution in : 3.75 s	
+find a better solution in: 3.77 s	
+find a better solution in: 3.77 s	
+find a better solution in : 4.06 s	
+5 generation time: 4.09 s
+*****************************t=5*****************************
+find a better solution in: 4.20 s	
+find a better solution in : 4.20 s	
+find a better solution in: 4.22 s	
+find a better solution in : 4.30 s	
+find a better solution in : 4.48 s	
+find a better solution in : 4.63 s	
+find a better solution in : 4.75 s	
+find a better solution in : 4.75 s	
+find a better solution in: 4.75 s	
+find a better solution in: 4.84 s	
+find a better solution in: 4.84 s	
+find a better solution in: 4.84 s	
+find a better solution in : 4.84 s	
+6 generation time: 4.98 s
+*****************************t=6*****************************
+find a better solution in: 5.01 s	
+find a better solution in: 5.01 s	
+find a better solution in : 5.09 s	
+find a better solution in: 5.09 s	
+find a better solution in : 5.09 s	
+find a better solution in: 5.11 s	
+find a better solution in : 5.41 s	
+find a better solution in: 5.41 s	
+find a better solution in: 5.42 s	
+find a better solution in : 5.42 s	
+find a better solution in : 5.42 s	
+7 generation time: 5.81 s
+*****************************t=7*****************************
+find a better solution in : 5.84 s	
+find a better solution in : 5.84 s	
+find a better solution in: 5.86 s	
+find a better solution in : 5.86 s	
+find a better solution in : 5.91 s	
+find a better solution in: 5.91 s	
+find a better solution in: 5.92 s	
+find a better solution in: 5.92 s	
+find a better solution in: 5.92 s	
+find a better solution in : 5.98 s	
+find a better solution in : 6.44 s	
+find a better solution in: 6.45 s	
+find a better solution in : 6.47 s	
+find a better solution in: 6.48 s	
+8 generation time: 6.59 s
+*****************************t=8*****************************
+find a better solution in : 6.61 s	
+find a better solution in : 6.80 s	
+find a better solution in : 6.80 s	
+find a better solution in : 6.81 s	
+find a better solution in : 6.81 s	
+find a better solution in: 6.91 s	
+find a better solution in: 7.01 s	
+find a better solution in: 7.01 s	
+find a better solution in: 7.01 s	
+find a better solution in : 7.01 s	
+find a better solution in : 7.01 s	
+find a better solution in: 7.01 s	
+find a better solution in: 7.03 s	
+find a better solution in: 7.03 s	
+find a better solution in: 7.03 s	
+find a better solution in: 7.11 s	
+find a better solution in: 7.11 s	
+find a better solution in : 7.16 s	
+find a better solution in: 7.17 s	
+find a better solution in : 7.22 s	
+find a better solution in: 7.22 s	
+9 generation time: 7.36 s
+*****************************t=9*****************************
+find a better solution in : 7.41 s	
+10 generation time: 8.09 s
+*****************************t=10*****************************
+find a better solution in : 8.23 s	
+find a better solution in: 8.23 s	
+find a better solution in: 8.23 s	
+11 generation time: 8.88 s
+*****************************t=11*****************************
+find a better solution in : 9.00 s	
+12 generation time: 9.58 s
+*****************************t=12*****************************
+find a better solution in : 9.81 s	
+find a better solution in : 10.11 s	
+find a better solution in: 10.17 s	
+find a better solution in: 10.17 s	
+find a better solution in: 10.19 s	
+13 generation time: 10.28 s
+*****************************t=13*****************************
+find a better solution in : 10.31 s	
+find a better solution in: 10.34 s	
+find a better solution in: 10.34 s	
+find a better solution in : 10.53 s	
+find a better solution in: 10.55 s	
+find a better solution in: 10.55 s	
+find a better solution in: 10.55 s	
+find a better solution in : 10.58 s	
+find a better solution in: 10.58 s	
+find a better solution in: 10.58 s	
+find a better solution in: 10.69 s	
+find a better solution in: 10.70 s	
+find a better solution in: 10.70 s	
+find a better solution in: 10.70 s	
+14 generation time: 11.05 s
+*****************************t=14*****************************
+find a better solution in : 11.45 s	
+15 generation time: 11.78 s
+*****************************t=15*****************************
+find a better solution in: 12.11 s	
+find a better solution in : 12.38 s	
+find a better solution in: 12.38 s	
+find a better solution in: 12.38 s	
+find a better solution in: 12.38 s	
+find a better solution in : 12.38 s	
+16 generation time: 12.50 s
+*****************************t=16*****************************
+find a better solution in: 12.70 s	
+find a better solution in: 13.02 s	
+17 generation time: 13.23 s
+*****************************t=17*****************************
+find a better solution in: 13.88 s	
+18 generation time: 13.98 s
+*****************************t=18*****************************
+find a better solution in : 14.27 s	
+19 generation time: 14.73 s
+*****************************t=19*****************************
+find a better solution in: 14.75 s	
+find a better solution in: 14.77 s	
+find a better solution in : 15.14 s	
+find a better solution in : 15.14 s	
+find a better solution in : 15.28 s	
+20 generation time: 15.44 s
+*****************************t=20*****************************
+find a better solution in : 15.83 s	
+find a better solution in: 15.83 s	
+21 generation time: 16.16 s
+*****************************t=21*****************************
+find a better solution in : 16.19 s	
+find a better solution in: 16.39 s	
+find a better solution in : 16.45 s	
+find a better solution in: 16.69 s	
+22 generation time: 16.98 s
+*****************************t=22*****************************
+find a better solution in: 17.25 s	
+find a better solution in : 17.52 s	
+23 generation time: 17.70 s
+*****************************t=23*****************************
+find a better solution in: 17.70 s	
+find a better solution in: 17.70 s	
+find a better solution in: 17.70 s	
+find a better solution in : 17.84 s	
+find a better solution in : 17.84 s	
+find a better solution in: 17.84 s	
+find a better solution in : 17.84 s	
+find a better solution in: 17.84 s	
+24 generation time: 18.44 s
+*****************************t=24*****************************
+find a better solution in : 18.75 s	
+find a better solution in : 18.97 s	
+25 generation time: 19.27 s
+*****************************t=25*****************************
+find a better solution in : 19.63 s	
+find a better solution in: 19.63 s	
+find a better solution in: 19.63 s	
+26 generation time: 19.94 s
+*****************************t=26*****************************
+27 generation time: 20.66 s
+*****************************t=27*****************************
+28 generation time: 21.38 s
+*****************************t=28*****************************
+find a better solution in: 21.52 s	
+29 generation time: 22.16 s
+*****************************t=29*****************************
+find a better solution in : 22.34 s	
+find a better solution in: 22.34 s	
+find a better solution in: 22.34 s	
+find a better solution in: 22.36 s	
+find a better solution in : 22.36 s	
+30 generation time: 22.88 s
+*****************************t=30*****************************
+find a better solution in: 23.41 s	
+31 generation time: 23.63 s
+*****************************t=31*****************************
+find a better solution in : 23.91 s	
+find a better solution in : 23.95 s	
+find a better solution in: 23.95 s	
+32 generation time: 24.39 s
+*****************************t=32*****************************
+33 generation time: 25.11 s
+*****************************t=33*****************************
+34 generation time: 25.81 s
+*****************************t=34*****************************
+find a better solution in : 26.33 s	
+find a better solution in: 26.33 s	
+35 generation time: 26.52 s
+*****************************t=35*****************************
+36 generation time: 27.25 s
+*****************************t=36*****************************
+find a better solution in : 27.30 s	
+37 generation time: 27.95 s
+*****************************t=37*****************************
+38 generation time: 28.72 s
+*****************************t=38*****************************
+find a better solution in : 28.86 s	
+39 generation time: 29.45 s
+*****************************t=39*****************************
+find a better solution in: 29.89 s	
+40 generation time: 30.13 s
+*****************************t=40*****************************
+find a better solution in : 30.38 s	
+find a better solution in: 30.38 s	
+find a better solution in: 30.39 s	
+41 generation time: 30.91 s
+*****************************t=41*****************************
+42 generation time: 31.67 s
+*****************************t=42*****************************
+find a better solution in : 31.88 s	
+find a better solution in: 31.88 s	
+find a better solution in : 32.34 s	
+43 generation time: 32.38 s
+*****************************t=43*****************************
+44 generation time: 33.16 s
+*****************************t=44*****************************
+45 generation time: 33.92 s
+*****************************t=45*****************************
+46 generation time: 34.67 s
+*****************************t=46*****************************
+find a better solution in : 35.00 s	
+47 generation time: 35.41 s
+*****************************t=47*****************************
+find a better solution in: 35.55 s	
+find a better solution in : 35.66 s	
+48 generation time: 36.05 s
+*****************************t=48*****************************
+find a better solution in : 36.38 s	
+49 generation time: 36.75 s
+*****************************t=49*****************************
+find a better solution in : 36.97 s	
+find a better solution in : 36.97 s	
+find a better solution in: 37.27 s	
+find a better solution in: 37.27 s	
+50 generation time: 37.42 s
+*****************************t=50*****************************
+find a better solution in: 37.63 s	
+51 generation time: 38.11 s
+*****************************t=51*****************************
+find a better solution in : 38.14 s	
+find a better solution in : 38.14 s	
+52 generation time: 38.84 s
+*****************************t=52*****************************
+find a better solution in: 39.38 s	
+find a better solution in: 39.38 s	
+find a better solution in : 39.38 s	
+53 generation time: 39.55 s
+*****************************t=53*****************************
+find a better solution in : 39.56 s	
+find a better solution in: 39.56 s	
+54 generation time: 40.27 s
+*****************************t=54*****************************
+find a better solution in : 40.70 s	
+find a better solution in: 40.70 s	
+find a better solution in : 40.81 s	
+55 generation time: 40.95 s
+*****************************t=55*****************************
+find a better solution in : 41.39 s	
+find a better solution in: 41.39 s	
+56 generation time: 41.63 s
+*****************************t=56*****************************
+find a better solution in : 41.73 s	
+find a better solution in: 41.73 s	
+find a better solution in : 42.22 s	
+57 generation time: 42.36 s
+*****************************t=57*****************************
+58 generation time: 43.09 s
+*****************************t=58*****************************
+59 generation time: 43.81 s
+*****************************t=59*****************************
+60 generation time: 44.56 s
+*****************************t=60*****************************
+find a better solution in : 44.77 s	
+find a better solution in: 45.09 s	
+61 generation time: 45.27 s
+*****************************t=61*****************************
+62 generation time: 46.00 s
+*****************************t=62*****************************
+63 generation time: 46.91 s
+*****************************t=63*****************************
+64 generation time: 47.62 s
+*****************************t=64*****************************
+find a better solution in : 48.06 s	
+65 generation time: 48.37 s
+*****************************t=65*****************************
+66 generation time: 49.12 s
+*****************************t=66*****************************
+67 generation time: 49.81 s
+*****************************t=67*****************************
+68 generation time: 50.54 s
+*****************************t=68*****************************
+find a better solution in: 50.73 s	
+69 generation time: 51.23 s
+*****************************t=69*****************************
+70 generation time: 51.90 s
+*****************************t=70*****************************
+71 generation time: 52.65 s
+*****************************t=71*****************************
+72 generation time: 53.29 s
+*****************************t=72*****************************
+find a better solution in : 53.99 s	
+73 generation time: 54.02 s
+*****************************t=73*****************************
+74 generation time: 54.77 s
+*****************************t=74*****************************
+75 generation time: 55.48 s
+*****************************t=75*****************************
+76 generation time: 56.20 s
+*****************************t=76*****************************
+77 generation time: 56.84 s
+*****************************t=77*****************************
+find a better solution in : 57.20 s	
+find a better solution in: 57.21 s	
+find a better solution in: 57.21 s	
+find a better solution in: 57.21 s	
+78 generation time: 57.59 s
+*****************************t=78*****************************
+find a better solution in : 57.60 s	
+find a better solution in: 57.63 s	
+find a better solution in: 57.63 s	
+find a better solution in: 58.26 s	
+79 generation time: 58.29 s
+*****************************t=79*****************************
+find a better solution in : 58.95 s	
+80 generation time: 58.98 s
+*****************************t=80*****************************
+find a better solution in: 59.34 s	
+81 generation time: 59.68 s
+*****************************t=81*****************************
+82 generation time: 60.38 s
+*****************************t=82*****************************
+find a better solution in: 60.56 s	
+find a better solution in: 60.57 s	
+83 generation time: 61.09 s
+*****************************t=83*****************************
+84 generation time: 61.84 s
+*****************************t=84*****************************
+85 generation time: 62.60 s
+*****************************t=85*****************************
+86 generation time: 63.40 s
+*****************************t=86*****************************
+87 generation time: 64.12 s
+*****************************t=87*****************************
+88 generation time: 64.81 s
+*****************************t=88*****************************
+89 generation time: 65.52 s
+*****************************t=89*****************************
+find a better solution in: 65.76 s	
+90 generation time: 66.20 s
+*****************************t=90*****************************
+91 generation time: 66.88 s
+*****************************t=91*****************************
+find a better solution in: 67.37 s	
+92 generation time: 67.59 s
+*****************************t=92*****************************
+93 generation time: 68.23 s
+*****************************t=93*****************************
+94 generation time: 68.92 s
+*****************************t=94*****************************
+find a better solution in : 68.99 s	
+find a better solution in: 69.01 s	
+find a better solution in: 69.04 s	
+find a better solution in : 69.04 s	
+find a better solution in: 69.04 s	
+find a better solution in: 69.13 s	
+95 generation time: 69.60 s
+*****************************t=95*****************************
+96 generation time: 70.31 s
+*****************************t=96*****************************
+97 generation time: 71.09 s
+*****************************t=97*****************************
+98 generation time: 71.84 s
+*****************************t=98*****************************
+99 generation time: 72.65 s
+*****************************t=99*****************************
+find a better solution in : 73.21 s	
+100 generation time: 73.34 s
+*****************************t=100*****************************
+101 generation time: 74.01 s
+*****************************t=101*****************************
+102 generation time: 74.68 s
+*****************************t=102*****************************
+find a better solution in : 74.90 s	
+103 generation time: 75.34 s
+*****************************t=103*****************************
+104 generation time: 76.17 s
+*****************************t=104*****************************
+105 generation time: 76.90 s
+*****************************t=105*****************************
+106 generation time: 77.62 s
+*****************************t=106*****************************
+find a better solution in : 78.04 s	
+107 generation time: 78.37 s
+*****************************t=107*****************************
+find a better solution in: 78.84 s	
+find a better solution in: 78.84 s	
+find a better solution in : 78.95 s	
+find a better solution in: 78.95 s	
+find a better solution in : 78.95 s	
+108 generation time: 79.18 s
+*****************************t=108*****************************
+109 generation time: 79.90 s
+*****************************t=109*****************************
+110 generation time: 80.59 s
+*****************************t=110*****************************
+111 generation time: 81.34 s
+*****************************t=111*****************************
+112 generation time: 82.07 s
+*****************************t=112*****************************
+113 generation time: 82.81 s
+*****************************t=113*****************************
+114 generation time: 83.45 s
+*****************************t=114*****************************
+115 generation time: 84.09 s
+*****************************t=115*****************************
+116 generation time: 84.78 s
+*****************************t=116*****************************
+find a better solution in: 84.87 s	
+117 generation time: 85.45 s
+*****************************t=117*****************************
+118 generation time: 86.18 s
+*****************************t=118*****************************
+119 generation time: 86.87 s
+*****************************t=119*****************************
+120 generation time: 87.59 s
+*****************************t=120*****************************
+121 generation time: 88.29 s
+*****************************t=121*****************************
+122 generation time: 89.06 s
+*****************************t=122*****************************
+123 generation time: 89.71 s
+*****************************t=123*****************************
+124 generation time: 90.45 s
+*****************************t=124*****************************
+125 generation time: 91.15 s
+*****************************t=125*****************************
+126 generation time: 91.81 s
+*****************************t=126*****************************
+127 generation time: 92.53 s
+*****************************t=127*****************************
+128 generation time: 93.20 s
+*****************************t=128*****************************
+find a better solution in : 93.57 s	
+129 generation time: 93.92 s
+*****************************t=129*****************************
+130 generation time: 94.60 s
+*****************************t=130*****************************
+find a better solution in: 95.03 s	
+131 generation time: 95.29 s
+*****************************t=131*****************************
+find a better solution in : 95.56 s	
+132 generation time: 95.92 s
+*****************************t=132*****************************
+133 generation time: 96.60 s
+*****************************t=133*****************************
+134 generation time: 97.29 s
+*****************************t=134*****************************
+find a better solution in : 97.48 s	
+135 generation time: 97.98 s
+*****************************t=135*****************************
+136 generation time: 98.68 s
+*****************************t=136*****************************
+137 generation time: 99.37 s
+*****************************t=137*****************************
+138 generation time: 99.99 s
+*****************************t=138*****************************
+139 generation time: 100.76 s
+*****************************t=139*****************************
+140 generation time: 101.46 s
+*****************************t=140*****************************
+find a better solution in: 102.10 s	
+141 generation time: 102.13 s
+*****************************t=141*****************************
+142 generation time: 102.79 s
+*****************************t=142*****************************
+find a better solution in: 103.18 s	
+find a better solution in: 103.26 s	
+143 generation time: 103.46 s
+*****************************t=143*****************************
+find a better solution in : 103.51 s	
+find a better solution in: 104.13 s	
+144 generation time: 104.17 s
+*****************************t=144*****************************
+145 generation time: 104.93 s
+*****************************t=145*****************************
+146 generation time: 105.68 s
+*****************************t=146*****************************
+find a better solution in: 106.06 s	
+147 generation time: 106.41 s
+*****************************t=147*****************************
+148 generation time: 107.11 s
+*****************************t=148*****************************
+149 generation time: 107.80 s
+*****************************t=149*****************************
+150 generation time: 108.47 s
+*****************************t=150*****************************
+151 generation time: 109.22 s
+*****************************t=151*****************************
+152 generation time: 109.91 s
+*****************************t=152*****************************
+153 generation time: 110.64 s
+*****************************t=153*****************************
+find a better solution in : 111.17 s	
+154 generation time: 111.38 s
+*****************************t=154*****************************
+155 generation time: 112.03 s
+*****************************t=155*****************************
+156 generation time: 112.72 s
+*****************************t=156*****************************
+157 generation time: 113.42 s
+*****************************t=157*****************************
+158 generation time: 114.11 s
+*****************************t=158*****************************
+find a better solution in : 114.56 s	
+159 generation time: 114.91 s
+*****************************t=159*****************************
+160 generation time: 115.66 s
+*****************************t=160*****************************
+161 generation time: 116.41 s
+*****************************t=161*****************************
+162 generation time: 117.08 s
+*****************************t=162*****************************
+find a better solution in: 117.36 s	
+find a better solution in: 117.38 s	
+163 generation time: 117.78 s
+*****************************t=163*****************************
+164 generation time: 118.53 s
+*****************************t=164*****************************
+165 generation time: 119.22 s
+*****************************t=165*****************************
+166 generation time: 119.97 s
+*****************************t=166*****************************
+167 generation time: 120.71 s
+*****************************t=167*****************************
+168 generation time: 121.46 s
+*****************************t=168*****************************
+find a better solution in : 121.67 s	
+169 generation time: 122.13 s
+*****************************t=169*****************************
+170 generation time: 122.80 s
+*****************************t=170*****************************
+171 generation time: 123.55 s
+*****************************t=171*****************************
+172 generation time: 124.33 s
+*****************************t=172*****************************
+173 generation time: 125.03 s
+*****************************t=173*****************************
+174 generation time: 125.71 s
+*****************************t=174*****************************
+175 generation time: 126.42 s
+*****************************t=175*****************************
+176 generation time: 127.11 s
+*****************************t=176*****************************
+177 generation time: 127.86 s
+*****************************t=177*****************************
+178 generation time: 128.64 s
+*****************************t=178*****************************
+179 generation time: 129.91 s
+*****************************t=179*****************************
+180 generation time: 131.49 s
+*****************************t=180*****************************
+181 generation time: 132.94 s
+*****************************t=181*****************************
+182 generation time: 134.01 s
+*****************************t=182*****************************
+find a better solution in : 134.11 s	
+183 generation time: 135.00 s
+*****************************t=183*****************************
+find a better solution in: 135.38 s	
+184 generation time: 135.80 s
+*****************************t=184*****************************
+185 generation time: 136.59 s
+*****************************t=185*****************************
+186 generation time: 137.45 s
+*****************************t=186*****************************
+find a better solution in : 138.57 s	
+187 generation time: 138.76 s
+*****************************t=187*****************************
+188 generation time: 140.38 s
+*****************************t=188*****************************
+189 generation time: 141.74 s
+*****************************t=189*****************************
+190 generation time: 142.97 s
+*****************************t=190*****************************
+191 generation time: 144.18 s
+*****************************t=191*****************************
+192 generation time: 145.37 s
+*****************************t=192*****************************
+193 generation time: 146.69 s
+*****************************t=193*****************************
+194 generation time: 148.01 s
+*****************************t=194*****************************
+195 generation time: 149.27 s
+*****************************t=195*****************************
+find a better solution in: 150.12 s	
+196 generation time: 150.56 s
+*****************************t=196*****************************
+find a better solution in: 151.65 s	
+197 generation time: 151.94 s
+*****************************t=197*****************************
+find a better solution in : 152.67 s	
+find a better solution in : 152.94 s	
+198 generation time: 153.01 s
+*****************************t=198*****************************
+199 generation time: 154.18 s
+*****************************t=199*****************************
+find a better solution in: 154.33 s	
+200 generation time: 155.12 s
+*****************************t=200*****************************
+201 generation time: 156.28 s
+*****************************t=201*****************************
+202 generation time: 157.33 s
+*****************************t=202*****************************
+find a better solution in : 157.66 s	
+203 generation time: 158.50 s
+*****************************t=203*****************************
+204 generation time: 159.54 s
+*****************************t=204*****************************
+205 generation time: 160.60 s
+*****************************t=205*****************************
+206 generation time: 161.68 s
+*****************************t=206*****************************
+207 generation time: 162.72 s
+*****************************t=207*****************************
+208 generation time: 163.72 s
+*****************************t=208*****************************
+209 generation time: 164.66 s
+*****************************t=209*****************************
+210 generation time: 165.71 s
+*****************************t=210*****************************
+211 generation time: 166.63 s
+*****************************t=211*****************************
+212 generation time: 167.43 s
+*****************************t=212*****************************
+find a better solution in : 168.33 s	
+213 generation time: 168.37 s
+*****************************t=213*****************************
+214 generation time: 169.16 s
+*****************************t=214*****************************
+215 generation time: 170.02 s
+*****************************t=215*****************************
+216 generation time: 170.86 s
+*****************************t=216*****************************
+217 generation time: 171.73 s
+*****************************t=217*****************************
+218 generation time: 172.59 s
+*****************************t=218*****************************
+219 generation time: 173.35 s
+*****************************t=219*****************************
+220 generation time: 174.18 s
+*****************************t=220*****************************
+221 generation time: 175.01 s
+*****************************t=221*****************************
+222 generation time: 175.94 s
+*****************************t=222*****************************
+223 generation time: 176.61 s
+*****************************t=223*****************************
+224 generation time: 177.33 s
+*****************************t=224*****************************
+225 generation time: 178.10 s
+*****************************t=225*****************************
+226 generation time: 178.85 s
+*****************************t=226*****************************
+227 generation time: 179.58 s
+*****************************t=227*****************************
+228 generation time: 180.26 s
+*****************************t=228*****************************
+229 generation time: 180.94 s
+*****************************t=229*****************************
+230 generation time: 181.74 s
+*****************************t=230*****************************
+231 generation time: 182.45 s
+*****************************t=231*****************************
+find a better solution in : 182.59 s	
+232 generation time: 183.12 s
+*****************************t=232*****************************
+233 generation time: 183.82 s
+*****************************t=233*****************************
+find a better solution in: 184.25 s	
+find a better solution in: 184.27 s	
+234 generation time: 184.52 s
+*****************************t=234*****************************
+235 generation time: 185.32 s
+*****************************t=235*****************************
+236 generation time: 186.04 s
+*****************************t=236*****************************
+237 generation time: 186.73 s
+*****************************t=237*****************************
+238 generation time: 187.40 s
+*****************************t=238*****************************
+find a better solution in : 187.78 s	
+239 generation time: 188.10 s
+*****************************t=239*****************************
+240 generation time: 188.92 s
+*****************************t=240*****************************
+241 generation time: 189.62 s
+*****************************t=241*****************************
+242 generation time: 190.33 s
+*****************************t=242*****************************
+243 generation time: 191.20 s
+*****************************t=243*****************************
+244 generation time: 191.98 s
+*****************************t=244*****************************
+245 generation time: 192.72 s
+*****************************t=245*****************************
+246 generation time: 193.52 s
+*****************************t=246*****************************
+247 generation time: 194.17 s
+*****************************t=247*****************************
+248 generation time: 194.91 s
+*****************************t=248*****************************
+249 generation time: 195.60 s
+*****************************t=249*****************************
+250 generation time: 196.33 s
+*****************************t=250*****************************
+251 generation time: 197.06 s
+*****************************t=251*****************************
+252 generation time: 197.84 s
+*****************************t=252*****************************
+253 generation time: 198.58 s
+*****************************t=253*****************************
+254 generation time: 199.31 s
+*****************************t=254*****************************
+255 generation time: 200.07 s
+*****************************t=255*****************************
+256 generation time: 200.77 s
+*****************************t=256*****************************
+find a better solution in: 201.45 s	
+257 generation time: 201.48 s
+*****************************t=257*****************************
+258 generation time: 202.27 s
+*****************************t=258*****************************
+259 generation time: 202.95 s
+*****************************t=259*****************************
+260 generation time: 203.69 s
+*****************************t=260*****************************
+261 generation time: 204.30 s
+*****************************t=261*****************************
+262 generation time: 205.12 s
+*****************************t=262*****************************
+263 generation time: 205.79 s
+*****************************t=263*****************************
+264 generation time: 206.51 s
+*****************************t=264*****************************
+265 generation time: 207.14 s
+*****************************t=265*****************************
+266 generation time: 207.83 s
+*****************************t=266*****************************
+267 generation time: 208.57 s
+*****************************t=267*****************************
+268 generation time: 209.37 s
+*****************************t=268*****************************
+269 generation time: 210.05 s
+*****************************t=269*****************************
+270 generation time: 210.83 s
+*****************************t=270*****************************
+find a better solution in : 211.06 s	
+271 generation time: 211.48 s
+*****************************t=271*****************************
+272 generation time: 212.26 s
+*****************************t=272*****************************
+273 generation time: 213.00 s
+*****************************t=273*****************************
+274 generation time: 213.70 s
+*****************************t=274*****************************
+275 generation time: 214.41 s
+*****************************t=275*****************************
+276 generation time: 215.14 s
+*****************************t=276*****************************
+277 generation time: 215.98 s
+*****************************t=277*****************************
+278 generation time: 216.62 s
+*****************************t=278*****************************
+279 generation time: 217.32 s
+*****************************t=279*****************************
+280 generation time: 218.01 s
+*****************************t=280*****************************
+281 generation time: 218.77 s
+*****************************t=281*****************************
+282 generation time: 219.42 s
+*****************************t=282*****************************
+283 generation time: 220.19 s
+*****************************t=283*****************************
+284 generation time: 220.93 s
+*****************************t=284*****************************
+285 generation time: 221.57 s
+*****************************t=285*****************************
+286 generation time: 222.31 s
+*****************************t=286*****************************
+287 generation time: 223.01 s
+*****************************t=287*****************************
+288 generation time: 223.72 s
+*****************************t=288*****************************
+289 generation time: 224.45 s
+*****************************t=289*****************************
+290 generation time: 225.15 s
+*****************************t=290*****************************
+291 generation time: 225.84 s
+*****************************t=291*****************************
+find a better solution in: 226.42 s	
+292 generation time: 226.63 s
+*****************************t=292*****************************
+293 generation time: 227.39 s
+*****************************t=293*****************************
+294 generation time: 228.12 s
+*****************************t=294*****************************
+295 generation time: 228.85 s
+*****************************t=295*****************************
+296 generation time: 229.52 s
+*****************************t=296*****************************
+297 generation time: 230.24 s
+*****************************t=297*****************************
+298 generation time: 230.96 s
+*****************************t=298*****************************
+299 generation time: 231.62 s
+*****************************t=299*****************************
+300 generation time: 232.32 s
+*****************************t=300*****************************
+301 generation time: 233.04 s
+*****************************t=301*****************************
+302 generation time: 233.75 s
+*****************************t=302*****************************
+303 generation time: 234.57 s
+*****************************t=303*****************************
+304 generation time: 235.25 s
+*****************************t=304*****************************
+305 generation time: 235.95 s
+*****************************t=305*****************************
+306 generation time: 236.71 s
+*****************************t=306*****************************
+307 generation time: 237.41 s
+*****************************t=307*****************************
+308 generation time: 238.04 s
+*****************************t=308*****************************
+309 generation time: 238.72 s
+*****************************t=309*****************************
+310 generation time: 239.40 s
+*****************************t=310*****************************
+311 generation time: 240.10 s
+*****************************t=311*****************************
+312 generation time: 240.83 s
+*****************************t=312*****************************
+find a better solution in: 241.23 s	
+find a better solution in: 241.24 s	
+313 generation time: 241.50 s
+*****************************t=313*****************************
+314 generation time: 242.16 s
+*****************************t=314*****************************
+315 generation time: 242.94 s
+*****************************t=315*****************************
+316 generation time: 243.63 s
+*****************************t=316*****************************
+317 generation time: 244.31 s
+*****************************t=317*****************************
+find a better solution in: 244.56 s	
+318 generation time: 245.00 s
+*****************************t=318*****************************
+find a better solution in: 245.50 s	
+319 generation time: 245.69 s
+*****************************t=319*****************************
+find a better solution in : 246.38 s	
+320 generation time: 246.52 s
+*****************************t=320*****************************
+321 generation time: 247.19 s
+*****************************t=321*****************************
+322 generation time: 247.92 s
+*****************************t=322*****************************
+323 generation time: 248.60 s
+*****************************t=323*****************************
+324 generation time: 249.43 s
+*****************************t=324*****************************
+325 generation time: 250.20 s
+*****************************t=325*****************************
+326 generation time: 250.85 s
+*****************************t=326*****************************
+find a better solution in: 251.22 s	
+327 generation time: 251.51 s
+*****************************t=327*****************************
+328 generation time: 252.19 s
+*****************************t=328*****************************
+find a better solution in: 252.92 s	
+329 generation time: 252.96 s
+*****************************t=329*****************************
+330 generation time: 253.70 s
+*****************************t=330*****************************
+331 generation time: 254.43 s
+*****************************t=331*****************************
+332 generation time: 255.14 s
+*****************************t=332*****************************
+333 generation time: 255.83 s
+*****************************t=333*****************************
+334 generation time: 256.59 s
+*****************************t=334*****************************
+335 generation time: 257.33 s
+*****************************t=335*****************************
+336 generation time: 258.00 s
+*****************************t=336*****************************
+337 generation time: 258.69 s
+*****************************t=337*****************************
+338 generation time: 259.40 s
+*****************************t=338*****************************
+339 generation time: 260.14 s
+*****************************t=339*****************************
+340 generation time: 260.89 s
+*****************************t=340*****************************
+341 generation time: 261.64 s
+*****************************t=341*****************************
+342 generation time: 262.40 s
+*****************************t=342*****************************
+343 generation time: 263.08 s
+*****************************t=343*****************************
+344 generation time: 263.75 s
+*****************************t=344*****************************
+345 generation time: 264.47 s
+*****************************t=345*****************************
+346 generation time: 265.19 s
+*****************************t=346*****************************
+347 generation time: 265.90 s
+*****************************t=347*****************************
+348 generation time: 266.66 s
+*****************************t=348*****************************
+349 generation time: 267.35 s
+*****************************t=349*****************************
+350 generation time: 268.10 s
+*****************************t=350*****************************
+351 generation time: 268.75 s
+*****************************t=351*****************************
+352 generation time: 269.47 s
+*****************************t=352*****************************
+353 generation time: 270.16 s
+*****************************t=353*****************************
+354 generation time: 270.83 s
+*****************************t=354*****************************
+355 generation time: 271.55 s
+*****************************t=355*****************************
+356 generation time: 272.28 s
+*****************************t=356*****************************
+357 generation time: 272.99 s
+*****************************t=357*****************************
+358 generation time: 273.73 s
+*****************************t=358*****************************
+359 generation time: 274.44 s
+*****************************t=359*****************************
+360 generation time: 275.11 s
+*****************************t=360*****************************
+361 generation time: 275.79 s
+*****************************t=361*****************************
+362 generation time: 276.58 s
+*****************************t=362*****************************
+363 generation time: 277.32 s
+*****************************t=363*****************************
+364 generation time: 278.06 s
+*****************************t=364*****************************
+365 generation time: 278.70 s
+*****************************t=365*****************************
+366 generation time: 279.52 s
+*****************************t=366*****************************
+367 generation time: 280.23 s
+*****************************t=367*****************************
+368 generation time: 281.00 s
+*****************************t=368*****************************
+369 generation time: 281.93 s
+*****************************t=369*****************************
+370 generation time: 282.74 s
+*****************************t=370*****************************
+371 generation time: 283.46 s
+*****************************t=371*****************************
+372 generation time: 284.43 s
+*****************************t=372*****************************
+373 generation time: 285.52 s
+*****************************t=373*****************************
+374 generation time: 286.22 s
+*****************************t=374*****************************
+375 generation time: 287.04 s
+*****************************t=375*****************************
+376 generation time: 287.72 s
+*****************************t=376*****************************
+find a better solution in : 288.42 s	
+find a better solution in: 288.42 s	
+377 generation time: 288.53 s
+*****************************t=377*****************************
+378 generation time: 289.43 s
+*****************************t=378*****************************
+379 generation time: 290.27 s
+*****************************t=379*****************************
+380 generation time: 290.95 s
+*****************************t=380*****************************
+381 generation time: 291.97 s
+*****************************t=381*****************************
+382 generation time: 293.04 s
+*****************************t=382*****************************
+383 generation time: 293.79 s
+*****************************t=383*****************************
+find a better solution in: 294.21 s	
+384 generation time: 294.48 s
+*****************************t=384*****************************
+385 generation time: 295.18 s
+*****************************t=385*****************************
+386 generation time: 295.93 s
+*****************************t=386*****************************
+387 generation time: 296.57 s
+*****************************t=387*****************************
+388 generation time: 297.33 s
+*****************************t=388*****************************
+389 generation time: 298.07 s
+*****************************t=389*****************************
+390 generation time: 298.73 s
+*****************************t=390*****************************
+find a better solution in: 299.15 s	
+find a better solution in: 299.15 s	
+391 generation time: 299.43 s
+*****************************t=391*****************************
+392 generation time: 300.15 s
+*****************************t=392*****************************
+393 generation time: 300.96 s
+*****************************t=393*****************************
+394 generation time: 301.58 s
+*****************************t=394*****************************
+find a better solution in: 301.61 s	
+395 generation time: 302.21 s
+*****************************t=395*****************************
+396 generation time: 302.89 s
+*****************************t=396*****************************
+397 generation time: 303.64 s
+*****************************t=397*****************************
+398 generation time: 304.40 s
+*****************************t=398*****************************
+399 generation time: 305.06 s
+*****************************t=399*****************************
+400 generation time: 305.68 s
+[138395.00,9631.50,132385.30],
+[132694.00,11689.00,130345.80],
+[150687.00,692.50,144885.70],
+[133711.00,23342.50,125542.90],
+[143165.00,32323.00,124329.15],
+[148661.00,62417.00,120182.20],
+[140460.00,3255.00,144438.00],
+[143120.00,43918.50,122414.75],
+[161863.00,90821.00,116629.75],
+[150597.00,692.50,145247.60],
+[132706.00,14764.50,128446.55],
+[141165.00,7152.50,139301.45],
+[163743.00,115271.00,114424.90],
+[143180.00,30361.00,124340.30],
+[161330.00,111397.00,116635.75],
+[148665.00,53341.00,121143.10],
+[149158.00,5133.00,137232.75],
+[148657.00,67478.50,118474.95],
+[133726.00,21380.50,125701.50],
+[160568.00,640.50,150574.50],
+[143108.00,47792.50,122363.10],
+[143177.00,41943.00,124145.75],
+[161878.00,88859.00,116786.10],
+[149173.00,2600.50,142491.50],
+[132694.00,14788.50,128444.75],
+[149972.00,2405.00,143407.50],
+[149149.00,2624.50,142484.30],
+[139148.00,43918.50,125308.15],
+[132709.00,10914.50,130227.10],
+[132721.00,10890.50,130230.70],
+[160116.00,1630.50,141367.25],
+[141150.00,7927.00,139354.90],
+[143235.00,9631.50,131543.45],
+[143250.00,10819.00,131527.00],
+[140276.00,6873.00,144190.60],
+[140210.00,6873.00,144264.60],
+[151139.00,1630.50,143657.60],
+[148665.00,57215.00,120866.85],
+[149134.00,5157.00,137227.35],
+[163739.00,134957.00,112950.25],
+[220505.00,134957.00,112267.15],
+[160105.00,1630.50,143404.25],
+[132706.00,11665.00,130345.80],
+[160101.00,2405.00,141418.90],
+[150679.00,722.50,144498.90],
+[133711.00,27216.50,125471.15],
+[161806.00,111397.00,114701.15],
+[163815.00,92733.00,116509.85],
+[143165.00,41967.00,124143.95],
+[169540.00,570.50,161698.00],
+[218572.00,129895.50,113683.25],
+[138410.00,10819.00,132037.45],
+[161328.00,111397.00,116716.25],
+[139148.00,47792.50,124747.85],
+[149166.00,2600.50,144824.70],
+[143120.00,47792.50,122138.50],
+[245974.00,158299.50,112120.10],
+[140264.00,6873.00,144230.00],
+[246875.00,160211.50,111990.35],
+[161863.00,94695.00,116558.00],
+[143104.00,67478.50,123959.60],
+[149134.00,3399.00,142537.75],
+[140430.00,5217.00,144342.00],
+[143165.00,67478.50,121384.25],
+[247911.00,162173.50,111843.85],
+[256203.00,178875.50,109708.45],
+[149138.00,2624.50,144511.20],
+[163800.00,94695.00,116353.50],
+[143108.00,43918.50,124402.90],
+[148642.00,67478.50,119653.45],
+[150107.00,722.50,144822.50],
+[143737.00,67478.50,121163.15],
+x=[138395.00 132694.00 150687.00 133711.00 143165.00 148661.00 140460.00 143120.00 161863.00 150597.00 132706.00 141165.00 163743.00 143180.00 161330.00 148665.00 149158.00 148657.00 133726.00 160568.00 143108.00 143177.00 161878.00 149173.00 132694.00 149972.00 149149.00 139148.00 132709.00 132721.00 160116.00 141150.00 143235.00 143250.00 140276.00 140210.00 151139.00 148665.00 149134.00 163739.00 220505.00 160105.00 132706.00 160101.00 150679.00 133711.00 161806.00 163815.00 143165.00 169540.00 218572.00 138410.00 161328.00 139148.00 149166.00 143120.00 245974.00 140264.00 246875.00 161863.00 143104.00 149134.00 140430.00 143165.00 247911.00 256203.00 149138.00 163800.00 143108.00 148642.00 150107.00 143737.00 ];
+y=[9631.50 11689.00 692.50 23342.50 32323.00 62417.00 3255.00 43918.50 90821.00 692.50 14764.50 7152.50 115271.00 30361.00 111397.00 53341.00 5133.00 67478.50 21380.50 640.50 47792.50 41943.00 88859.00 2600.50 14788.50 2405.00 2624.50 43918.50 10914.50 10890.50 1630.50 7927.00 9631.50 10819.00 6873.00 6873.00 1630.50 57215.00 5157.00 134957.00 134957.00 1630.50 11665.00 2405.00 722.50 27216.50 111397.00 92733.00 41967.00 570.50 129895.50 10819.00 111397.00 47792.50 2600.50 47792.50 158299.50 6873.00 160211.50 94695.00 67478.50 3399.00 5217.00 67478.50 162173.50 178875.50 2624.50 94695.00 43918.50 67478.50 722.50 67478.50 ];
+z=[132385.30 130345.80 144885.70 125542.90 124329.15 120182.20 144438.00 122414.75 116629.75 145247.60 128446.55 139301.45 114424.90 124340.30 116635.75 121143.10 137232.75 118474.95 125701.50 150574.50 122363.10 124145.75 116786.10 142491.50 128444.75 143407.50 142484.30 125308.15 130227.10 130230.70 141367.25 139354.90 131543.45 131527.00 144190.60 144264.60 143657.60 120866.85 137227.35 112950.25 112267.15 143404.25 130345.80 141418.90 144498.90 125471.15 114701.15 116509.85 124143.95 161698.00 113683.25 132037.45 116716.25 124747.85 144824.70 122138.50 112120.10 144230.00 111990.35 116558.00 123959.60 142537.75 144342.00 121384.25 111843.85 109708.45 144511.20 116353.50 124402.90 119653.45 144822.50 121163.15 ];
+tot = 144
+total time: 305.74 s

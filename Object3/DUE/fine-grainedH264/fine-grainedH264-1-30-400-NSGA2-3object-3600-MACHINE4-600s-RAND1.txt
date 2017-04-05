@@ -1,0 +1,78 @@
+m = 4 n = 262
+pop = 30 gen = 400
+init...begin
+greedy begin
+greedy done
+init...done
+*****************************t=0*****************************
+find a better solution in: 0.56 s	
+find a better solution in : 0.56 s	
+1 generation time: 0.58 s
+*****************************t=1*****************************
+find a better solution in: 0.89 s	
+find a better solution in : 0.89 s	
+find a better solution in : 0.89 s	
+find a better solution in : 0.89 s	
+2 generation time: 0.92 s
+*****************************t=2*****************************
+find a better solution in : 1.21 s	
+3 generation time: 1.23 s
+*****************************t=3*****************************
+find a better solution in : 1.53 s	
+4 generation time: 1.56 s
+*****************************t=4*****************************
+find a better solution in : 1.85 s	
+5 generation time: 1.88 s
+*****************************t=5*****************************
+6 generation time: 2.19 s
+*****************************t=6*****************************
+7 generation time: 2.51 s
+*****************************t=7*****************************
+find a better solution in: 2.81 s	
+find a better solution in: 2.81 s	
+find a better solution in: 2.81 s	
+find a better solution in: 2.81 s	
+find a better solution in : 2.81 s	
+find a better solution in : 2.81 s	
+8 generation time: 2.83 s
+*****************************t=8*****************************
+find a better solution in: 3.12 s	
+9 generation time: 3.15 s
+*****************************t=9*****************************
+10 generation time: 3.46 s
+*****************************t=10*****************************
+find a better solution in : 3.75 s	
+find a better solution in : 3.75 s	
+find a better solution in: 3.75 s	
+11 generation time: 3.78 s
+*****************************t=11*****************************
+12 generation time: 4.09 s
+*****************************t=12*****************************
+13 generation time: 4.41 s
+*****************************t=13*****************************
+14 generation time: 4.73 s
+*****************************t=14*****************************
+find a better solution in: 5.02 s	
+find a better solution in : 5.02 s	
+15 generation time: 5.05 s
+*****************************t=15*****************************
+16 generation time: 5.37 s
+*****************************t=16*****************************
+17 generation time: 5.69 s
+*****************************t=17*****************************
+18 generation time: 6.00 s
+*****************************t=18*****************************
+find a better solution in: 6.29 s	
+19 generation time: 6.32 s
+*****************************t=19*****************************
+20 generation time: 6.64 s
+*****************************t=20*****************************
+21 generation time: 6.95 s
+*****************************t=21*****************************
+22 generation time: 7.27 s
+*****************************t=22*****************************
+find a better solution in : 7.56 s	
+23 generation time: 7.59 s
+*****************************t=23*****************************
+24 generation time: 7.97 s
+*****************************t=24*****************************
