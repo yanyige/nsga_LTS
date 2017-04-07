@@ -1,0 +1,332 @@
+m = 4 n = 262
+pop = 30 gen = 400
+init...begin
+greedy begin
+greedy done
+init...done
+*****************************t=0*****************************
+1 generation time: 44.48 s
+*****************************t=1*****************************
+2 generation time: 113.55 s
+*****************************t=2*****************************
+3 generation time: 166.23 s
+*****************************t=3*****************************
+4 generation time: 215.84 s
+*****************************t=4*****************************
+5 generation time: 266.79 s
+*****************************t=5*****************************
+6 generation time: 329.38 s
+*****************************t=6*****************************
+7 generation time: 380.50 s
+*****************************t=7*****************************
+8 generation time: 434.12 s
+*****************************t=8*****************************
+9 generation time: 497.17 s
+*****************************t=9*****************************
+10 generation time: 561.17 s
+*****************************t=10*****************************
+11 generation time: 598.91 s
+*****************************t=11*****************************
+12 generation time: 650.21 s
+*****************************t=12*****************************
+13 generation time: 705.69 s
+*****************************t=13*****************************
+14 generation time: 758.54 s
+*****************************t=14*****************************
+15 generation time: 799.06 s
+*****************************t=15*****************************
+16 generation time: 853.59 s
+*****************************t=16*****************************
+17 generation time: 903.53 s
+*****************************t=17*****************************
+18 generation time: 970.25 s
+*****************************t=18*****************************
+19 generation time: 1019.91 s
+*****************************t=19*****************************
+20 generation time: 1071.13 s
+*****************************t=20*****************************
+21 generation time: 1125.91 s
+*****************************t=21*****************************
+22 generation time: 1161.79 s
+*****************************t=22*****************************
+23 generation time: 1207.11 s
+*****************************t=23*****************************
+24 generation time: 1264.63 s
+*****************************t=24*****************************
+25 generation time: 1313.44 s
+*****************************t=25*****************************
+26 generation time: 1363.50 s
+*****************************t=26*****************************
+27 generation time: 1417.54 s
+*****************************t=27*****************************
+28 generation time: 1478.89 s
+*****************************t=28*****************************
+29 generation time: 1524.99 s
+*****************************t=29*****************************
+30 generation time: 1578.92 s
+*****************************t=30*****************************
+31 generation time: 1626.28 s
+*****************************t=31*****************************
+32 generation time: 1667.30 s
+*****************************t=32*****************************
+33 generation time: 1713.24 s
+*****************************t=33*****************************
+34 generation time: 1763.22 s
+*****************************t=34*****************************
+35 generation time: 1807.47 s
+*****************************t=35*****************************
+36 generation time: 1864.83 s
+*****************************t=36*****************************
+37 generation time: 1915.85 s
+*****************************t=37*****************************
+38 generation time: 1959.54 s
+*****************************t=38*****************************
+39 generation time: 1995.98 s
+*****************************t=39*****************************
+40 generation time: 2045.01 s
+*****************************t=40*****************************
+41 generation time: 2105.05 s
+*****************************t=41*****************************
+42 generation time: 2151.95 s
+*****************************t=42*****************************
+43 generation time: 2198.64 s
+*****************************t=43*****************************
+44 generation time: 2229.73 s
+*****************************t=44*****************************
+45 generation time: 2283.37 s
+*****************************t=45*****************************
+46 generation time: 2339.10 s
+*****************************t=46*****************************
+47 generation time: 2397.42 s
+*****************************t=47*****************************
+48 generation time: 2453.60 s
+*****************************t=48*****************************
+49 generation time: 2516.89 s
+*****************************t=49*****************************
+50 generation time: 2566.17 s
+*****************************t=50*****************************
+51 generation time: 2615.46 s
+*****************************t=51*****************************
+52 generation time: 2665.67 s
+*****************************t=52*****************************
+53 generation time: 2730.44 s
+*****************************t=53*****************************
+54 generation time: 2766.24 s
+*****************************t=54*****************************
+55 generation time: 2810.44 s
+*****************************t=55*****************************
+56 generation time: 2864.79 s
+*****************************t=56*****************************
+57 generation time: 2919.33 s
+*****************************t=57*****************************
+58 generation time: 2955.64 s
+*****************************t=58*****************************
+59 generation time: 3008.81 s
+*****************************t=59*****************************
+60 generation time: 3071.73 s
+*****************************t=60*****************************
+61 generation time: 3128.78 s
+*****************************t=61*****************************
+62 generation time: 3185.98 s
+*****************************t=62*****************************
+63 generation time: 3229.67 s
+*****************************t=63*****************************
+64 generation time: 3278.04 s
+*****************************t=64*****************************
+65 generation time: 3330.48 s
+*****************************t=65*****************************
+66 generation time: 3378.27 s
+*****************************t=66*****************************
+67 generation time: 3426.38 s
+*****************************t=67*****************************
+68 generation time: 3468.78 s
+*****************************t=68*****************************
+69 generation time: 3510.07 s
+*****************************t=69*****************************
+70 generation time: 3560.95 s
+*****************************t=70*****************************
+71 generation time: 3627.40 s
+[83220.00,82.00,133443.81],
+computation energy ratio: 0.810397, idle energy ratio: 0.000157, sleep energy ratio: 0.069438
+computation time ratio: 0.810082, idle time ratio: 0.000394, sleep time ratio: 0.187446
+[85223.00,64.00,134377.66],
+computation energy ratio: 0.804729, idle energy ratio: 0.000287, sleep energy ratio: 0.077610
+computation time ratio: 0.791042, idle time ratio: 0.000707, sleep time ratio: 0.206162
+[78426.00,887.00,130246.95],
+computation energy ratio: 0.830275, idle energy ratio: 0.000000, sleep energy ratio: 0.049446
+computation time ratio: 0.859600, idle time ratio: 0.000000, sleep time ratio: 0.138207
+[77309.00,13459.00,129057.47],
+computation energy ratio: 0.837965, idle energy ratio: 0.001069, sleep energy ratio: 0.043682
+computation time ratio: 0.872020, idle time ratio: 0.002788, sleep time ratio: 0.123019
+[77309.00,13523.00,128948.17],
+computation energy ratio: 0.838613, idle energy ratio: 0.001218, sleep energy ratio: 0.043623
+computation time ratio: 0.872020, idle time ratio: 0.003176, sleep time ratio: 0.122631
+[77266.00,13459.00,129157.76],
+computation energy ratio: 0.837326, idle energy ratio: 0.001129, sleep energy ratio: 0.043392
+computation time ratio: 0.872505, idle time ratio: 0.002948, sleep time ratio: 0.122373
+[77736.00,2051.00,129546.04],
+computation energy ratio: 0.834718, idle energy ratio: 0.000048, sleep energy ratio: 0.046524
+computation time ratio: 0.867230, idle time ratio: 0.000125, sleep time ratio: 0.130458
+[79063.00,784.00,130598.64],
+computation energy ratio: 0.828027, idle energy ratio: 0.000238, sleep energy ratio: 0.051958
+computation time ratio: 0.852674, idle time ratio: 0.000613, sleep time ratio: 0.144549
+[77738.00,1526.00,129797.96],
+computation energy ratio: 0.833122, idle energy ratio: 0.000149, sleep energy ratio: 0.046301
+computation time ratio: 0.867208, idle time ratio: 0.000389, sleep time ratio: 0.130203
+[111442.00,12.00,149790.80],
+computation energy ratio: 0.722010, idle energy ratio: 0.000000, sleep energy ratio: 0.174889
+computation time ratio: 0.604934, idle time ratio: 0.000000, sleep time ratio: 0.393595
+[81212.00,489.00,131914.15],
+computation energy ratio: 0.819818, idle energy ratio: 0.000000, sleep energy ratio: 0.061150
+computation time ratio: 0.830111, idle time ratio: 0.000000, sleep time ratio: 0.167746
+[85067.00,322.00,132844.00],
+computation energy ratio: 0.814092, idle energy ratio: 0.000301, sleep energy ratio: 0.078083
+computation time ratio: 0.792493, idle time ratio: 0.000735, sleep time ratio: 0.204844
+[84399.00,389.00,132781.20],
+computation energy ratio: 0.814513, idle energy ratio: 0.000000, sleep energy ratio: 0.075176
+computation time ratio: 0.798765, idle time ratio: 0.000000, sleep time ratio: 0.199291
+[81129.00,543.00,132351.23],
+computation energy ratio: 0.817207, idle energy ratio: 0.001098, sleep energy ratio: 0.059689
+computation time ratio: 0.830961, idle time ratio: 0.002798, sleep time ratio: 0.164269
+[77866.00,1437.00,129900.35],
+computation energy ratio: 0.832453, idle energy ratio: 0.000228, sleep energy ratio: 0.046799
+computation time ratio: 0.865782, idle time ratio: 0.000594, sleep time ratio: 0.131415
+[77736.00,1775.00,129592.75],
+computation energy ratio: 0.834417, idle energy ratio: 0.000333, sleep energy ratio: 0.046240
+computation time ratio: 0.867230, idle time ratio: 0.000868, sleep time ratio: 0.129715
+[77662.00,2199.00,129622.05],
+computation energy ratio: 0.834253, idle energy ratio: 0.000000, sleep energy ratio: 0.046199
+computation time ratio: 0.868056, idle time ratio: 0.000000, sleep time ratio: 0.129755
+[78288.00,1163.00,130135.95],
+computation energy ratio: 0.830971, idle energy ratio: 0.000000, sleep energy ratio: 0.048856
+computation time ratio: 0.861115, idle time ratio: 0.000000, sleep time ratio: 0.136700
+[78203.00,1333.00,130017.30],
+computation energy ratio: 0.831729, idle energy ratio: 0.000000, sleep energy ratio: 0.048530
+computation time ratio: 0.862051, idle time ratio: 0.000000, sleep time ratio: 0.135762
+[78404.00,931.00,130248.16],
+computation energy ratio: 0.830255, idle energy ratio: 0.000032, sleep energy ratio: 0.049340
+computation time ratio: 0.859841, idle time ratio: 0.000083, sleep time ratio: 0.137895
+[77574.00,2389.00,129503.39],
+computation energy ratio: 0.834993, idle energy ratio: 0.000172, sleep energy ratio: 0.045694
+computation time ratio: 0.869041, idle time ratio: 0.000448, sleep time ratio: 0.128319
+[77736.00,1797.00,129561.33],
+computation energy ratio: 0.834619, idle energy ratio: 0.000306, sleep energy ratio: 0.046277
+computation time ratio: 0.867230, idle time ratio: 0.000798, sleep time ratio: 0.129785
+[77736.00,2093.00,129509.65],
+computation energy ratio: 0.834952, idle energy ratio: 0.000000, sleep energy ratio: 0.046582
+computation time ratio: 0.867230, idle time ratio: 0.000000, sleep time ratio: 0.130583
+[79019.00,784.00,130604.78],
+computation energy ratio: 0.827976, idle energy ratio: 0.000806, sleep energy ratio: 0.051351
+computation time ratio: 0.853149, idle time ratio: 0.002082, sleep time ratio: 0.142618
+[77399.00,3341.00,129583.53],
+computation energy ratio: 0.834501, idle energy ratio: 0.000177, sleep energy ratio: 0.044893
+computation time ratio: 0.871006, idle time ratio: 0.000462, sleep time ratio: 0.126336
+[77440.00,2643.00,129473.25],
+computation energy ratio: 0.835200, idle energy ratio: 0.000000, sleep energy ratio: 0.045224
+computation time ratio: 0.870545, idle time ratio: 0.000000, sleep time ratio: 0.127260
+[82692.00,364.00,132904.41],
+computation energy ratio: 0.813625, idle energy ratio: 0.000055, sleep energy ratio: 0.067485
+computation time ratio: 0.815254, idle time ratio: 0.000139, sleep time ratio: 0.182490
+[82882.00,393.00,132872.65],
+computation energy ratio: 0.813820, idle energy ratio: 0.000000, sleep energy ratio: 0.068365
+computation time ratio: 0.813385, idle time ratio: 0.000000, sleep time ratio: 0.184491
+[82780.00,396.00,132863.15],
+computation energy ratio: 0.813878, idle energy ratio: 0.000397, sleep energy ratio: 0.067537
+computation time ratio: 0.814388, idle time ratio: 0.000997, sleep time ratio: 0.182490
+[82818.00,238.00,133052.55],
+computation energy ratio: 0.812719, idle energy ratio: 0.000265, sleep energy ratio: 0.067782
+computation time ratio: 0.814014, idle time ratio: 0.000664, sleep time ratio: 0.183209
+[82819.00,393.00,132900.04],
+computation energy ratio: 0.813652, idle energy ratio: 0.000348, sleep energy ratio: 0.067782
+computation time ratio: 0.814004, idle time ratio: 0.000872, sleep time ratio: 0.182998
+[82470.00,415.00,132804.61],
+computation energy ratio: 0.814237, idle energy ratio: 0.000465, sleep energy ratio: 0.066149
+computation time ratio: 0.817449, idle time ratio: 0.001170, sleep time ratio: 0.179259
+[82692.00,415.00,132720.59],
+computation energy ratio: 0.814752, idle energy ratio: 0.000270, sleep energy ratio: 0.067386
+computation time ratio: 0.815254, idle time ratio: 0.000677, sleep time ratio: 0.181976
+[82741.00,256.00,133607.36],
+computation energy ratio: 0.809488, idle energy ratio: 0.000193, sleep energy ratio: 0.067083
+computation time ratio: 0.814771, idle time ratio: 0.000486, sleep time ratio: 0.182700
+[82801.00,192.00,133667.86],
+computation energy ratio: 0.809146, idle energy ratio: 0.000229, sleep energy ratio: 0.067284
+computation time ratio: 0.814181, idle time ratio: 0.000577, sleep time ratio: 0.183189
+[82897.00,143.00,133698.76],
+computation energy ratio: 0.808947, idle energy ratio: 0.000193, sleep energy ratio: 0.067733
+computation time ratio: 0.813238, idle time ratio: 0.000486, sleep time ratio: 0.184226
+[81711.00,376.00,133058.65],
+computation energy ratio: 0.812851, idle energy ratio: 0.000120, sleep energy ratio: 0.062825
+computation time ratio: 0.825042, idle time ratio: 0.000306, sleep time ratio: 0.172584
+[81778.00,258.00,133077.62],
+computation energy ratio: 0.812711, idle energy ratio: 0.000117, sleep energy ratio: 0.063122
+computation time ratio: 0.824366, idle time ratio: 0.000297, sleep time ratio: 0.173271
+[82771.00,234.00,133548.36],
+computation energy ratio: 0.809846, idle energy ratio: 0.000193, sleep energy ratio: 0.067243
+computation time ratio: 0.814476, idle time ratio: 0.000486, sleep time ratio: 0.182984
+[82643.00,256.00,133651.72],
+computation energy ratio: 0.809220, idle energy ratio: 0.000427, sleep energy ratio: 0.066392
+computation time ratio: 0.815738, idle time ratio: 0.001080, sleep time ratio: 0.181113
+[86342.00,46.00,135400.86],
+computation energy ratio: 0.798719, idle energy ratio: 0.000562, sleep energy ratio: 0.081827
+computation time ratio: 0.780790, idle time ratio: 0.001378, sleep time ratio: 0.215886
+[77207.00,6177.00,130252.71],
+computation energy ratio: 0.830324, idle energy ratio: 0.000622, sleep energy ratio: 0.043274
+computation time ratio: 0.873172, idle time ratio: 0.001638, sleep time ratio: 0.122923
+[77324.00,6833.00,130228.69],
+computation energy ratio: 0.830441, idle energy ratio: 0.001332, sleep energy ratio: 0.043244
+computation time ratio: 0.871851, idle time ratio: 0.003505, sleep time ratio: 0.122394
+[77207.00,4315.00,130281.86],
+computation energy ratio: 0.830139, idle energy ratio: 0.000621, sleep energy ratio: 0.043285
+computation time ratio: 0.873172, idle time ratio: 0.001638, sleep time ratio: 0.122923
+[77028.00,6241.00,130255.87],
+computation energy ratio: 0.830267, idle energy ratio: 0.000494, sleep energy ratio: 0.042568
+computation time ratio: 0.875201, idle time ratio: 0.001305, sleep time ratio: 0.121222
+[77207.00,4266.00,130421.06],
+computation energy ratio: 0.829253, idle energy ratio: 0.000621, sleep energy ratio: 0.043239
+computation time ratio: 0.873172, idle time ratio: 0.001638, sleep time ratio: 0.122923
+[77131.00,4547.00,130478.57],
+computation energy ratio: 0.828887, idle energy ratio: 0.000567, sleep energy ratio: 0.042853
+computation time ratio: 0.874032, idle time ratio: 0.001497, sleep time ratio: 0.122188
+[77131.00,5649.00,130343.05],
+computation energy ratio: 0.829749, idle energy ratio: 0.000405, sleep energy ratio: 0.043054
+computation time ratio: 0.874032, idle time ratio: 0.001070, sleep time ratio: 0.122629
+[79454.00,679.00,131062.39],
+computation energy ratio: 0.825170, idle energy ratio: 0.000499, sleep energy ratio: 0.053374
+computation time ratio: 0.848478, idle time ratio: 0.001287, sleep time ratio: 0.148007
+[81335.00,642.00,131802.63],
+computation energy ratio: 0.820512, idle energy ratio: 0.000107, sleep energy ratio: 0.061666
+computation time ratio: 0.828856, idle time ratio: 0.000270, sleep time ratio: 0.168747
+[81420.00,529.00,131821.63],
+computation energy ratio: 0.820393, idle energy ratio: 0.000107, sleep energy ratio: 0.062044
+computation time ratio: 0.827991, idle time ratio: 0.000270, sleep time ratio: 0.169614
+[81350.00,620.00,131806.67],
+computation energy ratio: 0.820487, idle energy ratio: 0.000112, sleep energy ratio: 0.061723
+computation time ratio: 0.828703, idle time ratio: 0.000283, sleep time ratio: 0.168875
+[81352.00,600.00,131744.13],
+computation energy ratio: 0.820876, idle energy ratio: 0.000107, sleep energy ratio: 0.061817
+computation time ratio: 0.828683, idle time ratio: 0.000270, sleep time ratio: 0.168933
+[80954.00,662.00,131858.53],
+computation energy ratio: 0.820176, idle energy ratio: 0.000738, sleep energy ratio: 0.059352
+computation time ratio: 0.832757, idle time ratio: 0.001878, sleep time ratio: 0.163216
+[83178.00,166.00,133340.53],
+computation energy ratio: 0.811012, idle energy ratio: 0.000244, sleep energy ratio: 0.069222
+computation time ratio: 0.810491, idle time ratio: 0.000610, sleep time ratio: 0.186819
+[89108.00,38.00,137602.52],
+computation energy ratio: 0.786032, idle energy ratio: 0.001119, sleep energy ratio: 0.091846
+computation time ratio: 0.756554, idle time ratio: 0.002699, sleep time ratio: 0.238750
+[96156.00,29.00,141643.18],
+computation energy ratio: 0.763609, idle energy ratio: 0.000834, sleep energy ratio: 0.119206
+computation time ratio: 0.701100, idle time ratio: 0.001919, sleep time ratio: 0.295140
+[78191.00,9782.00,129395.22],
+computation energy ratio: 0.835790, idle energy ratio: 0.000936, sleep energy ratio: 0.047780
+computation time ratio: 0.862184, idle time ratio: 0.002420, sleep time ratio: 0.133247
+[78128.00,10246.00,129444.08],
+computation energy ratio: 0.835474, idle energy ratio: 0.001061, sleep energy ratio: 0.047412
+computation time ratio: 0.862879, idle time ratio: 0.002745, sleep time ratio: 0.132213
+AVERAGE: computation energy ratio: 0.819921, idle energy ratio: 0.000375, sleep energy ratio: 0.059998
+AVERAGE: computation time ratio: 0.834129, idle time ratio: 0.000959, sleep time ratio: 0.162789
+x=[83220.00 85223.00 78426.00 77309.00 77309.00 77266.00 77736.00 79063.00 77738.00 111442.00 81212.00 85067.00 84399.00 81129.00 77866.00 77736.00 77662.00 78288.00 78203.00 78404.00 77574.00 77736.00 77736.00 79019.00 77399.00 77440.00 82692.00 82882.00 82780.00 82818.00 82819.00 82470.00 82692.00 82741.00 82801.00 82897.00 81711.00 81778.00 82771.00 82643.00 86342.00 77207.00 77324.00 77207.00 77028.00 77207.00 77131.00 77131.00 79454.00 81335.00 81420.00 81350.00 81352.00 80954.00 83178.00 89108.00 96156.00 78191.00 78128.00 ];
+y=[82.00 64.00 887.00 13459.00 13523.00 13459.00 2051.00 784.00 1526.00 12.00 489.00 322.00 389.00 543.00 1437.00 1775.00 2199.00 1163.00 1333.00 931.00 2389.00 1797.00 2093.00 784.00 3341.00 2643.00 364.00 393.00 396.00 238.00 393.00 415.00 415.00 256.00 192.00 143.00 376.00 258.00 234.00 256.00 46.00 6177.00 6833.00 4315.00 6241.00 4266.00 4547.00 5649.00 679.00 642.00 529.00 620.00 600.00 662.00 166.00 38.00 29.00 9782.00 10246.00 ];
+z=[133443.81 134377.66 130246.95 129057.47 128948.17 129157.76 129546.04 130598.64 129797.96 149790.80 131914.15 132844.00 132781.20 132351.23 129900.35 129592.75 129622.05 130135.95 130017.30 130248.16 129503.39 129561.33 129509.65 130604.78 129583.53 129473.25 132904.41 132872.65 132863.15 133052.55 132900.04 132804.61 132720.59 133607.36 133667.86 133698.76 133058.65 133077.62 133548.36 133651.72 135400.86 130252.71 130228.69 130281.86 130255.87 130421.06 130478.57 130343.05 131062.39 131802.63 131821.63 131806.67 131744.13 131858.53 133340.53 137602.52 141643.18 129395.22 129444.08 ];
+tot = 118
+total time: 3627.41 s

@@ -1,0 +1,13 @@
+fine-grainedH264-1-30-400-MOHA-3object-MACHINE8-3600s-RAND1.txt
+fine-grainedH264-2-30-400-MOHA-3object-MACHINE8-3600s-RAND2.txt
+fine-grainedH264-3-30-400-MOHA-3object-MACHINE8-3600s-RAND3.txt
+fine-grainedH264-4-30-400-MOHA-3object-MACHINE8-3600s-RAND4.txt
+fine-grainedH264-5-30-400-MOHA-3object-MACHINE8-3600s-RAND5.txt
+fine-grainedH264-6-30-400-MOHA-3object-MACHINE8-3600s-RAND6.txt
+fine-grainedH264-7-30-400-MOHA-3object-MACHINE8-3600s-RAND7.txt
+fine-grainedH264-8-30-400-MOHA-3object-MACHINE8-3600s-RAND8.txt
+fine-grainedH264-9-30-400-MOHA-3object-MACHINE8-3600s-RAND9.txt
+fine-grainedH264-10-30-400-MOHA-3object-MACHINE8-3600s-RAND10.txt
+all=10
+computation energy ratio: 0.765540, idle energy ratio: 0.001114, sleep energy ratio: 0.102184
+computation time ratio: 0.733970, idle time ratio: 0.002682, sleep time ratio: 0.261345

@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+	<script src="https://code.highcharts.com/highcharts.js"></script>
+	<script src="https://code.highcharts.com/highcharts-3d.js"></script>
+	<script src="https://code.highcharts.com/modules/exporting.js"></script>
+	<style type="text/css">
+		#container {
+		    height: 400px;
+		    min-width: 310px;
+		    max-width: 800px;
+		    margin: 0 auto;
+		}
+	</style>
+</head>
+<body>
+
+	<div id="container" style="height: 400px"></div>
+
+</body>
+<script type="text/javascript">
+	// Give the points a 3D feel by adding a radial gradient
+	Highcharts.getOptions().colors = $.map(Highcharts.getOptions().colors, function (color) {
+	    return {
+	        radialGradient: {
+	            cx: 0.4,
+	            cy: 0.3,
+	            r: 0.5
+	        },
+	        stops: [
+	            [0, color],
+	            [1, Highcharts.Color(color).brighten(-0.2).get('rgb')]
+	        ]
+	    };
+	});
+
+	// Set up the chart
+	var chart = new Highcharts.Chart({
+	    chart: {
+	        renderTo: 'container',
+	        margin: 100,
+	        type: 'scatter',
+	        options3d: {
+	            enabled: true,
+	            alpha: 10,
+	            beta: 30,
+	            depth: 250,
+	            viewDistance: 8,
+	            fitToPlot: false,
+	            frame: {
+	                bottom: { size: 1, color: 'rgba(0,0,0,0.02)' },
+	                back: { size: 1, color: 'rgba(0,0,0,0.04)' },
+	                side: { size: 1, color: 'rgba(0,0,0,0.06)' }
+	            }
+	        }
+	    },
+	    title: {
+	        text: ''
+	    },
+	    subtitle: {
+	        text: ''
+	    },
+	    // plotOptions: {
+	    //     scatter: {
+	    //         width: 10,
+	    //         height: 10,
+	    //         depth: 10
+	    //     }
+	    // },
+	    yAxis: {
+	        min: null,
+	        max: null,
+	        gridLineColor: "#cccccc",
+	        title: {
+	            text: 'workload',
+	            align: 'middle',
+	            style: {
+	            	"font-size": "20px",
+	            }
+	        },
+	    },
+	    xAxis: {
+	        min: null,
+	        max: null,
+	        gridLineWidth: 1,
+	        gridLineColor: "#cccccc",
+	        title: {
+	            text: 'makespan',
+	            align: "middle",
+	            style: {
+	            	"font-size": "20px",
+	            }
+	        },
+	    },
+	    zAxis: {
+	        min: null,
+	        max: null,
+	        showFirstLabel: false,
+	        gridLineWidth: 1,
+	        gridLineColor: "#cccccc",
+	        title: {
+	            text: 'energy',
+	            align: "middle",
+	            style: {
+	            	"font-size": "20px",
+	            }
+	        },
+	    },
+	    legend: {
+	        enabled: true
+	    },
+	    series: [{
+	        name: 'MOHA',
+	        // colorByPoint: true,
+	        color: 'rgb(251, 118, 123)',
+	        data: [[44847.00,288.00,141394.94],
+[44416.00,459.50,140961.06],
+[54127.00,162.50,151919.82],
+[41672.00,610.50,137513.05],
+[44228.00,522.00,140610.70],
+[53941.00,172.00,151716.30],
+[41653.00,1252.00,137599.45],
+[42953.00,576.50,139030.31],
+[43393.00,574.50,139480.57],
+[41662.00,835.00,137458.63],]
+	    },
+	    {
+	        name: 'NSGAⅡ',
+	        // colorByPoint: true,
+	        color: '#77C34F',
+	        data: [[44701.00,7556.50,138318.21],
+[50646.00,723.50,145745.57],
+[48116.00,4482.00,142399.03],
+[49212.00,2094.00,143680.08],
+[47177.00,6134.50,142773.71],
+[43592.00,8558.00,137747.88],
+[43097.00,17794.50,136670.33],
+[46455.00,7286.50,140072.73],
+[62255.00,268.00,159495.13],
+[47600.00,5574.50,141828.06],
+[49915.00,1280.00,144715.73],
+[52313.00,675.00,147627.04],
+[52450.00,437.50,147790.04],
+[48638.00,3203.50,142999.14],]
+	    }],
+	    credits: {
+		     enabled: false
+		}
+	});
+
+
+	// Add mouse events for rotation
+	$(chart.container).on('mousedown.hc touchstart.hc', function (eStart) {
+	    eStart = chart.pointer.normalize(eStart);
+
+	    var posX = eStart.pageX,
+	        posY = eStart.pageY,
+	        alpha = chart.options.chart.options3d.alpha,
+	        beta = chart.options.chart.options3d.beta,
+	        newAlpha,
+	        newBeta,
+	        sensitivity = 5; // lower is more sensitive
+
+	    $(document).on({
+	        'mousemove.hc touchdrag.hc': function (e) {
+	            // Run beta
+	            newBeta = beta + (posX - e.pageX) / sensitivity;
+	            chart.options.chart.options3d.beta = newBeta;
+
+	            // Run alpha
+	            newAlpha = alpha + (e.pageY - posY) / sensitivity;
+	            chart.options.chart.options3d.alpha = newAlpha;
+
+	            chart.redraw(false);
+	        },
+	        'mouseup touchend': function () {
+	            $(document).off('.hc');
+	        }
+	    });
+	});
+	</script>
+</html>

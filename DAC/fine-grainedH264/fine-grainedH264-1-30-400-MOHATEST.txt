@@ -1,0 +1,4 @@
+m = 262 n = 359
+pop = 30 gen = 400
+init...begin
+greedy begin

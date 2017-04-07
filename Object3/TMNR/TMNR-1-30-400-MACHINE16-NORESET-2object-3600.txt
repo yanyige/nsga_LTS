@@ -1,0 +1,11 @@
+m = 4 n = 14
+pop = 30 gen = 400
+init...begin
+greedy begin
+here新生成机器
+第0个机器: 0 1 2 
+第1个机器: 3 4 5 
+第2个机器: 6 7 8 
+第3个机器: 9 10 11 12 13 
+makespan = 2568.000000
+workload = 324.000000

@@ -1,0 +1,2 @@
+computation energy ratio: 0.820692, idle energy ratio: 0.000575, sleep energy ratio: 0.062234
+computation time ratio: 0.829552, idle time ratio: 0.001456, sleep time ratio: 0.166889

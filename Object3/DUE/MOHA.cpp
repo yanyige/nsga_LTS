@@ -1613,6 +1613,17 @@ for(int i = 0 ; i < ElistCollection.size() ; i ++)
      printf("];");
             printf("\n");
     printf("tot = %d\n", tot);
+
+    for(int i = 0 ; i < ElistCollection.size() ; i ++)
+    {
+//        if(Collection[i].front == 1)
+//        {
+
+            printf("[%.2lf,%.2lf],\n", ElistCollection[i].makespan, ElistCollection[i].workload);
+
+
+//        }
+    }
 }
 
 int main(int argc, char **argv){
@@ -1649,7 +1660,7 @@ int main(int argc, char **argv){
     strcat(outPutFile, argv[2]);
     strcat(outPutFile, ".txt");
     freopen(testcase, "r", stdin);
-//    freopen(outPutFile, "w", stdout);
+    freopen(outPutFile, "w", stdout);
 //    printf("%s\n", outPutFile);
     start = clock();
 //    start_time = start.tms_utime + start.tms_stime;

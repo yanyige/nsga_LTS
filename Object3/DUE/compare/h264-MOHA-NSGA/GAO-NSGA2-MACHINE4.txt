@@ -1,0 +1,13 @@
+fine-grainedH264-1-30-400-NSGA2-3object-MACHINE4-3600s-RAND1.txt
+fine-grainedH264-2-30-400-NSGA2-3object-MACHINE4-3600s-RAND2.txt
+fine-grainedH264-3-30-400-NSGA2-3object-MACHINE4-3600s-RAND3.txt
+fine-grainedH264-4-30-400-NSGA2-3object-MACHINE4-3600s-RAND4.txt
+fine-grainedH264-5-30-400-NSGA2-3object-MACHINE4-3600s-RAND5.txt
+fine-grainedH264-6-30-400-NSGA2-3object-MACHINE4-3600s-RAND6.txt
+fine-grainedH264-7-30-400-NSGA2-3object-MACHINE4-3600s-RAND7.txt
+fine-grainedH264-8-30-400-NSGA2-3object-MACHINE4-3600s-RAND8.txt
+fine-grainedH264-9-30-400-NSGA2-3object-MACHINE4-3600s-RAND9.txt
+fine-grainedH264-10-30-400-NSGA2-3object-MACHINE4-3600s-RAND10.txt
+all=10
+computation energy ratio: 0.815316, idle energy ratio: 0.000398, sleep energy ratio: 0.073824
+computation time ratio: 0.805573, idle time ratio: 0.000988, sleep time ratio: 0.191493

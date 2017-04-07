@@ -1,0 +1,1218 @@
+m = 16 n = 262
+pop = 30 gen = 400
+init...begin
+greedy begin
+heregreedy done
+init...done
+*****************************t=0*****************************
+find a better solution in: 0.36 s	
+find a better solution in: 0.37 s	
+find a better solution in : 0.42 s	
+find a better solution in: 0.44 s	
+find a better solution in: 0.55 s	
+find a better solution in : 0.55 s	
+find a better solution in : 0.76 s	
+find a better solution in: 0.78 s	
+find a better solution in : 1.00 s	
+find a better solution in: 1.20 s	
+find a better solution in: 1.45 s	
+find a better solution in : 1.48 s	
+find a better solution in : 1.50 s	
+find a better solution in: 1.50 s	
+find a better solution in: 1.59 s	
+find a better solution in: 1.79 s	
+find a better solution in: 1.93 s	
+find a better solution in : 1.97 s	
+find a better solution in : 2.18 s	
+find a better solution in: 2.39 s	
+find a better solution in: 2.39 s	
+find a better solution in : 2.45 s	
+find a better solution in: 2.67 s	
+find a better solution in: 3.20 s	
+find a better solution in: 3.21 s	
+find a better solution in: 3.49 s	
+find a better solution in: 3.51 s	
+find a better solution in : 3.84 s	
+find a better solution in: 4.24 s	
+find a better solution in: 4.32 s	
+find a better solution in : 4.35 s	
+find a better solution in : 4.37 s	
+find a better solution in: 4.41 s	
+find a better solution in: 4.55 s	
+find a better solution in: 4.57 s	
+find a better solution in : 4.57 s	
+find a better solution in : 4.74 s	
+find a better solution in: 4.76 s	
+find a better solution in: 5.19 s	
+find a better solution in: 5.19 s	
+find a better solution in: 5.21 s	
+find a better solution in : 5.34 s	
+find a better solution in : 5.38 s	
+find a better solution in: 5.41 s	
+find a better solution in: 5.55 s	
+find a better solution in: 5.57 s	
+find a better solution in : 5.80 s	
+find a better solution in : 5.80 s	
+find a better solution in : 5.80 s	
+find a better solution in : 6.25 s	
+find a better solution in: 6.25 s	
+find a better solution in: 6.25 s	
+find a better solution in: 6.27 s	
+find a better solution in : 6.27 s	
+find a better solution in: 6.29 s	
+find a better solution in: 6.29 s	
+find a better solution in : 6.32 s	
+find a better solution in : 6.49 s	
+find a better solution in: 6.60 s	
+find a better solution in: 7.52 s	
+find a better solution in: 7.52 s	
+find a better solution in: 7.53 s	
+find a better solution in : 7.60 s	
+find a better solution in: 7.61 s	
+find a better solution in : 7.67 s	
+find a better solution in: 7.69 s	
+find a better solution in : 7.83 s	
+find a better solution in: 7.85 s	
+find a better solution in: 7.86 s	
+find a better solution in: 8.21 s	
+find a better solution in: 8.42 s	
+find a better solution in : 8.50 s	
+find a better solution in : 8.52 s	
+find a better solution in: 8.52 s	
+find a better solution in: 8.53 s	
+find a better solution in : 8.56 s	
+find a better solution in: 8.66 s	
+find a better solution in: 8.67 s	
+find a better solution in: 9.11 s	
+find a better solution in : 9.16 s	
+find a better solution in : 9.77 s	
+find a better solution in: 9.77 s	
+find a better solution in: 9.94 s	
+find a better solution in : 10.14 s	
+find a better solution in : 10.56 s	
+find a better solution in : 10.56 s	
+find a better solution in: 10.58 s	
+find a better solution in : 10.59 s	
+find a better solution in: 10.61 s	
+find a better solution in: 10.61 s	
+find a better solution in: 10.76 s	
+find a better solution in: 10.87 s	
+find a better solution in: 10.90 s	
+find a better solution in : 11.45 s	
+find a better solution in: 11.47 s	
+find a better solution in: 11.47 s	
+find a better solution in : 11.50 s	
+find a better solution in: 11.61 s	
+find a better solution in: 11.62 s	
+find a better solution in : 12.06 s	
+find a better solution in : 12.39 s	
+find a better solution in: 12.39 s	
+find a better solution in: 12.51 s	
+find a better solution in : 12.85 s	
+find a better solution in : 12.89 s	
+find a better solution in: 12.90 s	
+find a better solution in : 13.10 s	
+find a better solution in : 13.48 s	
+find a better solution in: 13.48 s	
+find a better solution in: 13.49 s	
+find a better solution in: 13.56 s	
+find a better solution in : 14.16 s	
+find a better solution in : 14.23 s	
+find a better solution in : 14.38 s	
+find a better solution in: 14.38 s	
+find a better solution in: 14.40 s	
+find a better solution in: 14.55 s	
+find a better solution in : 14.88 s	
+find a better solution in: 15.12 s	
+find a better solution in : 15.13 s	
+find a better solution in : 15.18 s	
+find a better solution in: 15.37 s	
+find a better solution in : 15.54 s	
+find a better solution in : 15.58 s	
+find a better solution in : 15.85 s	
+find a better solution in : 15.96 s	
+find a better solution in: 15.96 s	
+find a better solution in : 15.96 s	
+find a better solution in: 15.97 s	
+find a better solution in: 16.05 s	
+find a better solution in: 16.22 s	
+find a better solution in: 16.32 s	
+find a better solution in : 29.00 s	
+find a better solution in: 29.00 s	
+find a better solution in : 30.08 s	
+find a better solution in: 30.08 s	
+find a better solution in : 30.09 s	
+find a better solution in : 30.09 s	
+find a better solution in : 30.09 s	
+find a better solution in: 30.11 s	
+find a better solution in : 30.12 s	
+find a better solution in: 30.12 s	
+find a better solution in: 30.12 s	
+find a better solution in: 30.20 s	
+find a better solution in: 30.26 s	
+find a better solution in: 30.31 s	
+find a better solution in : 30.39 s	
+find a better solution in: 30.54 s	
+find a better solution in : 30.98 s	
+find a better solution in: 31.23 s	
+find a better solution in : 31.29 s	
+find a better solution in: 32.15 s	
+find a better solution in : 32.35 s	
+find a better solution in : 32.38 s	
+find a better solution in: 32.45 s	
+find a better solution in: 32.79 s	
+find a better solution in: 32.93 s	
+find a better solution in: 33.06 s	
+find a better solution in : 33.37 s	
+find a better solution in : 33.43 s	
+find a better solution in: 33.51 s	
+find a better solution in: 33.95 s	
+find a better solution in : 34.49 s	
+find a better solution in: 34.52 s	
+find a better solution in : 34.55 s	
+find a better solution in : 34.69 s	
+find a better solution in: 34.82 s	
+find a better solution in: 34.83 s	
+find a better solution in: 35.12 s	
+find a better solution in: 35.15 s	
+find a better solution in: 35.16 s	
+find a better solution in : 35.43 s	
+find a better solution in : 35.43 s	
+find a better solution in : 35.43 s	
+find a better solution in: 35.46 s	
+find a better solution in : 36.02 s	
+find a better solution in: 36.02 s	
+find a better solution in : 36.04 s	
+find a better solution in : 36.04 s	
+find a better solution in : 36.04 s	
+find a better solution in : 36.07 s	
+find a better solution in: 36.30 s	
+find a better solution in: 36.46 s	
+find a better solution in: 36.52 s	
+find a better solution in : 36.58 s	
+find a better solution in: 36.60 s	
+find a better solution in : 36.60 s	
+find a better solution in : 36.61 s	
+find a better solution in: 36.63 s	
+find a better solution in: 36.63 s	
+find a better solution in: 36.64 s	
+find a better solution in: 37.02 s	
+find a better solution in: 37.33 s	
+find a better solution in: 37.67 s	
+find a better solution in: 37.69 s	
+find a better solution in : 37.69 s	
+find a better solution in : 37.70 s	
+find a better solution in : 37.70 s	
+find a better solution in: 37.72 s	
+find a better solution in: 37.74 s	
+find a better solution in: 38.14 s	
+find a better solution in: 38.34 s	
+find a better solution in: 38.44 s	
+find a better solution in : 38.50 s	
+find a better solution in: 38.50 s	
+find a better solution in: 38.52 s	
+find a better solution in: 39.02 s	
+find a better solution in : 39.09 s	
+find a better solution in : 39.53 s	
+find a better solution in: 39.55 s	
+find a better solution in: 39.56 s	
+find a better solution in: 39.56 s	
+find a better solution in: 39.58 s	
+find a better solution in: 39.59 s	
+find a better solution in : 39.80 s	
+find a better solution in: 39.84 s	
+find a better solution in: 39.87 s	
+find a better solution in : 40.22 s	
+find a better solution in: 40.23 s	
+find a better solution in : 40.25 s	
+find a better solution in: 40.26 s	
+find a better solution in: 41.01 s	
+find a better solution in: 41.35 s	
+find a better solution in: 41.42 s	
+find a better solution in: 41.43 s	
+find a better solution in : 41.43 s	
+find a better solution in: 41.81 s	
+find a better solution in: 41.82 s	
+find a better solution in : 41.99 s	
+find a better solution in: 42.65 s	
+find a better solution in : 42.90 s	
+find a better solution in : 42.95 s	
+find a better solution in: 43.02 s	
+find a better solution in: 43.04 s	
+find a better solution in: 43.15 s	
+find a better solution in: 43.21 s	
+find a better solution in: 43.38 s	
+find a better solution in: 43.99 s	
+find a better solution in: 44.12 s	
+find a better solution in : 44.16 s	
+find a better solution in: 44.19 s	
+find a better solution in : 44.57 s	
+find a better solution in: 44.82 s	
+find a better solution in: 45.08 s	
+find a better solution in : 45.10 s	
+find a better solution in: 45.30 s	
+find a better solution in: 45.32 s	
+find a better solution in : 45.44 s	
+find a better solution in: 46.03 s	
+find a better solution in: 46.11 s	
+find a better solution in : 46.21 s	
+find a better solution in : 46.50 s	
+find a better solution in : 46.92 s	
+find a better solution in : 46.92 s	
+find a better solution in : 46.94 s	
+find a better solution in: 46.94 s	
+find a better solution in: 46.94 s	
+find a better solution in: 46.96 s	
+find a better solution in : 47.16 s	
+find a better solution in: 47.36 s	
+find a better solution in: 47.58 s	
+find a better solution in: 47.67 s	
+find a better solution in : 47.80 s	
+find a better solution in: 48.00 s	
+find a better solution in : 48.66 s	
+find a better solution in : 48.75 s	
+find a better solution in: 48.91 s	
+find a better solution in : 49.02 s	
+find a better solution in : 49.23 s	
+find a better solution in: 49.33 s	
+find a better solution in: 49.56 s	
+find a better solution in: 49.76 s	
+find a better solution in: 49.89 s	
+find a better solution in: 49.97 s	
+find a better solution in: 50.33 s	
+find a better solution in : 50.81 s	
+find a better solution in : 50.81 s	
+find a better solution in: 50.81 s	
+find a better solution in: 50.82 s	
+find a better solution in: 50.82 s	
+find a better solution in : 50.84 s	
+find a better solution in: 50.86 s	
+find a better solution in : 51.06 s	
+find a better solution in: 51.17 s	
+find a better solution in : 51.70 s	
+find a better solution in: 51.73 s	
+find a better solution in : 51.74 s	
+find a better solution in : 51.74 s	
+find a better solution in: 51.74 s	
+find a better solution in : 51.82 s	
+find a better solution in : 51.84 s	
+find a better solution in: 51.84 s	
+find a better solution in : 51.93 s	
+find a better solution in: 51.95 s	
+find a better solution in : 51.95 s	
+find a better solution in : 51.95 s	
+find a better solution in : 52.06 s	
+find a better solution in: 52.38 s	
+find a better solution in : 69.89 s	
+find a better solution in: 70.01 s	
+find a better solution in: 70.03 s	
+find a better solution in: 71.23 s	
+find a better solution in: 71.31 s	
+find a better solution in : 71.37 s	
+find a better solution in: 71.67 s	
+find a better solution in : 71.73 s	
+find a better solution in : 72.04 s	
+find a better solution in: 72.04 s	
+find a better solution in : 72.31 s	
+find a better solution in: 72.31 s	
+find a better solution in: 72.90 s	
+find a better solution in: 72.92 s	
+find a better solution in : 73.74 s	
+find a better solution in : 74.16 s	
+find a better solution in : 74.16 s	
+find a better solution in: 74.16 s	
+find a better solution in: 74.18 s	
+find a better solution in: 74.38 s	
+find a better solution in : 74.57 s	
+find a better solution in: 74.58 s	
+find a better solution in: 74.85 s	
+find a better solution in : 75.11 s	
+find a better solution in : 75.21 s	
+find a better solution in: 75.21 s	
+find a better solution in: 75.22 s	
+find a better solution in: 75.22 s	
+find a better solution in: 75.29 s	
+find a better solution in : 75.69 s	
+find a better solution in: 75.99 s	
+find a better solution in : 76.00 s	
+find a better solution in : 76.05 s	
+find a better solution in: 76.11 s	
+find a better solution in: 76.46 s	
+find a better solution in: 76.47 s	
+find a better solution in : 76.64 s	
+find a better solution in: 77.11 s	
+find a better solution in: 77.52 s	
+find a better solution in: 77.52 s	
+find a better solution in: 77.55 s	
+find a better solution in : 78.22 s	
+find a better solution in: 78.27 s	
+find a better solution in : 78.34 s	
+find a better solution in: 78.36 s	
+find a better solution in: 79.09 s	
+find a better solution in: 79.09 s	
+find a better solution in: 79.31 s	
+find a better solution in : 79.94 s	
+find a better solution in: 79.95 s	
+find a better solution in: 80.11 s	
+find a better solution in: 80.31 s	
+find a better solution in: 80.33 s	
+find a better solution in: 80.64 s	
+find a better solution in: 80.68 s	
+find a better solution in: 81.00 s	
+find a better solution in: 81.01 s	
+find a better solution in : 81.09 s	
+find a better solution in: 81.14 s	
+find a better solution in: 81.46 s	
+find a better solution in: 81.53 s	
+find a better solution in : 81.82 s	
+find a better solution in : 81.96 s	
+find a better solution in: 82.09 s	
+find a better solution in : 82.10 s	
+find a better solution in: 82.23 s	
+find a better solution in: 82.43 s	
+find a better solution in : 82.99 s	
+find a better solution in : 83.57 s	
+find a better solution in: 83.57 s	
+find a better solution in : 83.58 s	
+find a better solution in: 83.60 s	
+find a better solution in: 83.66 s	
+find a better solution in: 83.87 s	
+find a better solution in : 83.95 s	
+find a better solution in : 84.05 s	
+find a better solution in: 84.14 s	
+find a better solution in: 84.15 s	
+find a better solution in: 84.16 s	
+find a better solution in: 84.32 s	
+find a better solution in: 84.97 s	
+find a better solution in : 85.02 s	
+find a better solution in: 85.40 s	
+find a better solution in: 85.41 s	
+find a better solution in: 85.54 s	
+find a better solution in: 85.90 s	
+find a better solution in : 86.05 s	
+find a better solution in : 86.36 s	
+find a better solution in: 86.36 s	
+find a better solution in: 86.38 s	
+find a better solution in : 86.44 s	
+find a better solution in: 86.52 s	
+find a better solution in: 86.52 s	
+find a better solution in: 87.27 s	
+find a better solution in : 87.72 s	
+find a better solution in : 88.04 s	
+find a better solution in: 88.37 s	
+find a better solution in : 88.40 s	
+find a better solution in : 137.17 s	
+find a better solution in: 139.29 s	
+find a better solution in: 140.74 s	
+find a better solution in: 140.74 s	
+find a better solution in : 141.71 s	
+find a better solution in: 142.68 s	
+find a better solution in: 143.90 s	
+find a better solution in : 143.93 s	
+find a better solution in: 143.93 s	
+find a better solution in: 144.13 s	
+find a better solution in: 144.19 s	
+find a better solution in: 144.73 s	
+find a better solution in: 144.79 s	
+find a better solution in: 144.79 s	
+find a better solution in : 145.21 s	
+find a better solution in: 145.65 s	
+find a better solution in: 145.90 s	
+find a better solution in : 146.42 s	
+find a better solution in: 146.45 s	
+find a better solution in: 147.13 s	
+find a better solution in : 147.24 s	
+find a better solution in : 147.24 s	
+find a better solution in: 147.70 s	
+find a better solution in: 148.12 s	
+find a better solution in : 148.25 s	
+find a better solution in: 149.01 s	
+find a better solution in: 149.03 s	
+find a better solution in: 149.15 s	
+find a better solution in : 149.28 s	
+find a better solution in: 149.28 s	
+find a better solution in : 150.04 s	
+find a better solution in: 150.09 s	
+find a better solution in: 151.78 s	
+find a better solution in : 151.99 s	
+find a better solution in : 151.99 s	
+find a better solution in: 152.46 s	
+find a better solution in: 153.43 s	
+find a better solution in : 153.43 s	
+find a better solution in : 153.51 s	
+find a better solution in: 153.51 s	
+find a better solution in: 153.54 s	
+find a better solution in: 153.71 s	
+find a better solution in: 153.91 s	
+find a better solution in: 154.22 s	
+find a better solution in: 155.13 s	
+find a better solution in: 155.29 s	
+find a better solution in: 156.03 s	
+find a better solution in : 156.70 s	
+find a better solution in: 157.22 s	
+find a better solution in : 254.81 s	
+find a better solution in : 260.22 s	
+find a better solution in: 260.63 s	
+find a better solution in : 260.68 s	
+find a better solution in: 260.71 s	
+find a better solution in: 260.71 s	
+find a better solution in : 260.72 s	
+find a better solution in : 260.75 s	
+find a better solution in: 260.85 s	
+find a better solution in : 260.85 s	
+find a better solution in: 260.99 s	
+find a better solution in: 261.07 s	
+find a better solution in: 261.49 s	
+find a better solution in: 261.49 s	
+find a better solution in: 261.77 s	
+find a better solution in : 261.94 s	
+find a better solution in: 261.94 s	
+find a better solution in : 261.99 s	
+find a better solution in: 262.00 s	
+find a better solution in: 262.03 s	
+find a better solution in: 262.36 s	
+find a better solution in: 262.41 s	
+find a better solution in: 262.42 s	
+find a better solution in : 262.55 s	
+find a better solution in: 262.84 s	
+find a better solution in: 263.59 s	
+find a better solution in : 263.66 s	
+find a better solution in : 276.48 s	
+find a better solution in: 276.73 s	
+find a better solution in : 278.24 s	
+find a better solution in: 278.73 s	
+find a better solution in : 278.94 s	
+find a better solution in: 278.96 s	
+find a better solution in: 279.08 s	
+find a better solution in: 279.24 s	
+find a better solution in: 279.33 s	
+find a better solution in: 280.04 s	
+find a better solution in: 280.05 s	
+find a better solution in : 280.88 s	
+find a better solution in: 280.91 s	
+find a better solution in : 280.94 s	
+find a better solution in : 281.11 s	
+find a better solution in: 281.13 s	
+find a better solution in: 281.14 s	
+find a better solution in : 281.63 s	
+find a better solution in: 281.86 s	
+find a better solution in: 282.56 s	
+find a better solution in : 282.61 s	
+find a better solution in: 282.63 s	
+find a better solution in: 282.63 s	
+find a better solution in : 282.86 s	
+find a better solution in: 282.86 s	
+find a better solution in: 282.88 s	
+find a better solution in: 282.95 s	
+find a better solution in: 283.34 s	
+find a better solution in : 283.34 s	
+find a better solution in : 283.36 s	
+find a better solution in: 283.39 s	
+find a better solution in: 283.44 s	
+find a better solution in : 283.45 s	
+find a better solution in: 283.45 s	
+find a better solution in: 283.55 s	
+find a better solution in : 283.56 s	
+find a better solution in: 283.86 s	
+find a better solution in: 284.64 s	
+find a better solution in : 284.85 s	
+find a better solution in : 284.87 s	
+find a better solution in: 284.87 s	
+find a better solution in : 286.08 s	
+find a better solution in : 286.10 s	
+find a better solution in: 286.19 s	
+find a better solution in: 286.66 s	
+find a better solution in : 286.76 s	
+find a better solution in : 286.92 s	
+find a better solution in: 286.93 s	
+find a better solution in: 287.09 s	
+find a better solution in : 287.19 s	
+find a better solution in: 287.20 s	
+find a better solution in: 287.39 s	
+find a better solution in : 287.50 s	
+find a better solution in : 287.79 s	
+find a better solution in: 287.83 s	
+find a better solution in: 287.86 s	
+find a better solution in : 288.43 s	
+find a better solution in: 288.44 s	
+find a better solution in: 288.46 s	
+find a better solution in: 288.51 s	
+find a better solution in : 288.65 s	
+find a better solution in: 288.65 s	
+find a better solution in : 288.66 s	
+find a better solution in: 288.70 s	
+find a better solution in: 288.76 s	
+find a better solution in : 288.77 s	
+find a better solution in: 288.78 s	
+find a better solution in: 288.87 s	
+find a better solution in: 289.02 s	
+find a better solution in: 289.20 s	
+find a better solution in : 289.38 s	
+find a better solution in: 289.91 s	
+find a better solution in: 290.12 s	
+find a better solution in: 290.13 s	
+find a better solution in: 290.24 s	
+find a better solution in : 290.47 s	
+find a better solution in: 290.48 s	
+find a better solution in : 290.92 s	
+find a better solution in : 290.93 s	
+find a better solution in: 291.17 s	
+find a better solution in: 291.53 s	
+find a better solution in : 292.19 s	
+find a better solution in : 292.19 s	
+find a better solution in: 292.35 s	
+find a better solution in: 293.01 s	
+find a better solution in : 293.08 s	
+find a better solution in : 293.44 s	
+find a better solution in : 293.45 s	
+find a better solution in: 293.57 s	
+find a better solution in: 293.63 s	
+find a better solution in : 293.77 s	
+find a better solution in: 293.78 s	
+find a better solution in: 293.84 s	
+find a better solution in: 293.88 s	
+find a better solution in: 293.88 s	
+find a better solution in : 294.11 s	
+find a better solution in : 294.13 s	
+find a better solution in : 294.45 s	
+find a better solution in: 294.46 s	
+find a better solution in: 294.71 s	
+find a better solution in: 294.73 s	
+find a better solution in: 294.74 s	
+find a better solution in: 294.94 s	
+find a better solution in: 295.14 s	
+find a better solution in: 295.17 s	
+find a better solution in: 295.19 s	
+find a better solution in : 295.28 s	
+find a better solution in: 295.32 s	
+find a better solution in : 295.34 s	
+find a better solution in : 295.40 s	
+find a better solution in : 296.41 s	
+find a better solution in : 364.66 s	
+find a better solution in : 444.10 s	
+find a better solution in: 444.68 s	
+find a better solution in : 444.90 s	
+find a better solution in: 445.07 s	
+find a better solution in: 445.31 s	
+find a better solution in: 445.35 s	
+find a better solution in: 445.48 s	
+find a better solution in: 445.49 s	
+find a better solution in : 445.68 s	
+find a better solution in: 445.70 s	
+find a better solution in: 445.91 s	
+find a better solution in: 446.12 s	
+find a better solution in: 446.26 s	
+find a better solution in: 446.26 s	
+find a better solution in: 446.26 s	
+find a better solution in : 446.35 s	
+find a better solution in : 446.35 s	
+find a better solution in: 446.35 s	
+find a better solution in : 446.46 s	
+find a better solution in: 446.46 s	
+find a better solution in : 446.63 s	
+find a better solution in: 446.66 s	
+find a better solution in: 446.68 s	
+find a better solution in: 446.87 s	
+find a better solution in: 446.88 s	
+find a better solution in : 446.90 s	
+find a better solution in: 446.91 s	
+find a better solution in : 447.24 s	
+find a better solution in: 447.27 s	
+find a better solution in: 447.29 s	
+find a better solution in : 447.35 s	
+find a better solution in : 447.41 s	
+find a better solution in: 447.54 s	
+find a better solution in: 447.97 s	
+find a better solution in : 448.46 s	
+find a better solution in : 448.48 s	
+find a better solution in : 448.49 s	
+find a better solution in: 448.49 s	
+find a better solution in: 448.55 s	
+find a better solution in: 448.60 s	
+find a better solution in: 449.01 s	
+find a better solution in : 449.57 s	
+find a better solution in: 449.59 s	
+find a better solution in: 449.81 s	
+find a better solution in: 450.07 s	
+find a better solution in: 450.42 s	
+find a better solution in: 450.71 s	
+find a better solution in: 450.81 s	
+find a better solution in : 450.91 s	
+find a better solution in: 450.95 s	
+find a better solution in: 451.27 s	
+find a better solution in: 451.32 s	
+find a better solution in: 451.40 s	
+find a better solution in: 451.83 s	
+find a better solution in : 452.29 s	
+find a better solution in : 452.29 s	
+find a better solution in: 452.33 s	
+find a better solution in: 452.33 s	
+find a better solution in: 452.44 s	
+find a better solution in: 452.54 s	
+find a better solution in : 452.88 s	
+find a better solution in : 453.38 s	
+find a better solution in: 453.39 s	
+find a better solution in : 453.39 s	
+find a better solution in: 453.64 s	
+find a better solution in: 453.71 s	
+find a better solution in: 453.83 s	
+find a better solution in : 453.91 s	
+find a better solution in: 454.27 s	
+find a better solution in: 454.28 s	
+find a better solution in : 454.49 s	
+find a better solution in: 454.52 s	
+find a better solution in : 455.05 s	
+find a better solution in : 455.63 s	
+find a better solution in: 455.64 s	
+find a better solution in: 456.13 s	
+find a better solution in : 456.14 s	
+find a better solution in: 456.16 s	
+find a better solution in: 456.16 s	
+find a better solution in: 456.16 s	
+find a better solution in: 456.20 s	
+find a better solution in: 456.20 s	
+find a better solution in : 456.48 s	
+find a better solution in: 456.50 s	
+find a better solution in: 457.12 s	
+find a better solution in : 457.14 s	
+find a better solution in: 457.30 s	
+find a better solution in: 457.64 s	
+find a better solution in : 458.06 s	
+find a better solution in: 458.11 s	
+find a better solution in: 458.68 s	
+find a better solution in: 458.81 s	
+find a better solution in : 459.23 s	
+find a better solution in : 459.29 s	
+find a better solution in : 459.29 s	
+find a better solution in: 459.40 s	
+find a better solution in: 459.77 s	
+find a better solution in: 460.61 s	
+find a better solution in : 460.90 s	
+find a better solution in : 460.92 s	
+find a better solution in : 460.93 s	
+find a better solution in: 461.03 s	
+find a better solution in : 461.13 s	
+find a better solution in: 461.13 s	
+find a better solution in: 461.15 s	
+find a better solution in: 461.15 s	
+find a better solution in : 461.17 s	
+find a better solution in : 461.43 s	
+find a better solution in : 461.62 s	
+find a better solution in: 461.70 s	
+find a better solution in: 462.31 s	
+find a better solution in: 462.38 s	
+find a better solution in : 462.40 s	
+find a better solution in: 462.76 s	
+find a better solution in : 463.10 s	
+find a better solution in: 463.21 s	
+find a better solution in : 463.21 s	
+find a better solution in: 463.43 s	
+find a better solution in: 463.44 s	
+find a better solution in: 464.12 s	
+find a better solution in : 465.14 s	
+find a better solution in: 465.16 s	
+find a better solution in: 465.16 s	
+find a better solution in: 465.22 s	
+find a better solution in : 465.29 s	
+find a better solution in: 465.30 s	
+find a better solution in: 465.52 s	
+find a better solution in: 465.80 s	
+find a better solution in: 465.82 s	
+find a better solution in : 466.13 s	
+find a better solution in: 466.13 s	
+find a better solution in : 466.19 s	
+find a better solution in : 466.20 s	
+find a better solution in : 466.30 s	
+find a better solution in : 466.83 s	
+find a better solution in: 466.85 s	
+find a better solution in: 466.97 s	
+find a better solution in : 467.16 s	
+find a better solution in : 467.32 s	
+find a better solution in: 467.33 s	
+find a better solution in : 467.60 s	
+find a better solution in: 467.63 s	
+find a better solution in: 467.92 s	
+find a better solution in : 468.44 s	
+1 generation time: 722.18 s
+*****************************t=1*****************************
+find a better solution in : 798.24 s	
+find a better solution in : 798.35 s	
+find a better solution in: 798.35 s	
+find a better solution in: 798.39 s	
+find a better solution in: 798.50 s	
+find a better solution in: 798.52 s	
+find a better solution in: 798.66 s	
+find a better solution in: 798.81 s	
+find a better solution in : 799.31 s	
+find a better solution in: 799.59 s	
+find a better solution in : 799.64 s	
+find a better solution in: 799.78 s	
+find a better solution in : 799.88 s	
+find a better solution in: 799.89 s	
+find a better solution in: 800.16 s	
+find a better solution in: 800.22 s	
+find a better solution in: 800.52 s	
+find a better solution in : 800.66 s	
+find a better solution in: 800.67 s	
+find a better solution in : 800.76 s	
+find a better solution in: 800.88 s	
+find a better solution in: 800.88 s	
+find a better solution in: 800.95 s	
+find a better solution in : 801.01 s	
+find a better solution in: 801.05 s	
+find a better solution in: 801.06 s	
+find a better solution in: 801.39 s	
+find a better solution in : 801.64 s	
+find a better solution in: 801.75 s	
+find a better solution in: 801.83 s	
+find a better solution in: 801.84 s	
+find a better solution in: 801.90 s	
+find a better solution in : 802.36 s	
+find a better solution in : 802.68 s	
+find a better solution in: 802.83 s	
+find a better solution in: 802.95 s	
+find a better solution in: 802.97 s	
+find a better solution in : 803.11 s	
+find a better solution in : 803.12 s	
+find a better solution in : 803.26 s	
+find a better solution in: 803.28 s	
+find a better solution in : 803.32 s	
+find a better solution in: 803.32 s	
+find a better solution in: 803.61 s	
+find a better solution in: 803.71 s	
+find a better solution in : 804.01 s	
+find a better solution in: 804.13 s	
+find a better solution in: 804.18 s	
+find a better solution in: 804.48 s	
+find a better solution in: 805.28 s	
+find a better solution in: 805.29 s	
+find a better solution in: 805.51 s	
+find a better solution in: 805.96 s	
+find a better solution in : 806.26 s	
+find a better solution in: 806.37 s	
+find a better solution in: 806.46 s	
+find a better solution in: 806.95 s	
+find a better solution in: 806.96 s	
+find a better solution in : 807.21 s	
+find a better solution in: 807.23 s	
+find a better solution in: 807.34 s	
+find a better solution in: 807.46 s	
+find a better solution in : 807.70 s	
+find a better solution in: 807.92 s	
+find a better solution in: 807.95 s	
+find a better solution in : 807.96 s	
+find a better solution in: 808.03 s	
+find a better solution in : 808.21 s	
+find a better solution in : 808.49 s	
+find a better solution in: 808.85 s	
+find a better solution in : 808.98 s	
+find a better solution in : 808.98 s	
+find a better solution in: 809.48 s	
+find a better solution in: 809.60 s	
+find a better solution in : 809.60 s	
+find a better solution in : 809.60 s	
+find a better solution in: 809.62 s	
+find a better solution in: 809.90 s	
+find a better solution in : 809.91 s	
+find a better solution in: 809.91 s	
+find a better solution in: 809.95 s	
+find a better solution in: 809.96 s	
+find a better solution in: 809.96 s	
+find a better solution in: 810.30 s	
+find a better solution in: 810.32 s	
+find a better solution in: 810.38 s	
+find a better solution in: 810.43 s	
+find a better solution in : 811.16 s	
+find a better solution in: 811.38 s	
+find a better solution in : 811.60 s	
+find a better solution in : 811.63 s	
+find a better solution in: 811.68 s	
+find a better solution in: 812.05 s	
+find a better solution in : 812.05 s	
+find a better solution in: 812.05 s	
+find a better solution in: 812.16 s	
+find a better solution in: 812.30 s	
+find a better solution in : 812.55 s	
+find a better solution in : 812.55 s	
+find a better solution in: 812.94 s	
+find a better solution in: 813.00 s	
+find a better solution in : 813.41 s	
+find a better solution in : 813.41 s	
+find a better solution in: 813.49 s	
+find a better solution in: 813.50 s	
+find a better solution in: 813.78 s	
+find a better solution in: 814.10 s	
+find a better solution in: 814.16 s	
+find a better solution in: 814.69 s	
+find a better solution in: 814.73 s	
+find a better solution in: 814.75 s	
+find a better solution in: 815.26 s	
+find a better solution in: 815.28 s	
+find a better solution in : 815.55 s	
+find a better solution in : 815.59 s	
+find a better solution in: 815.67 s	
+find a better solution in: 815.94 s	
+find a better solution in: 816.12 s	
+find a better solution in : 816.59 s	
+find a better solution in: 816.62 s	
+find a better solution in : 816.86 s	
+find a better solution in : 816.97 s	
+find a better solution in: 817.34 s	
+find a better solution in : 817.45 s	
+find a better solution in : 817.45 s	
+find a better solution in : 817.46 s	
+find a better solution in: 817.46 s	
+find a better solution in: 817.48 s	
+find a better solution in : 817.56 s	
+find a better solution in: 817.82 s	
+find a better solution in : 818.00 s	
+find a better solution in: 818.00 s	
+find a better solution in: 818.26 s	
+find a better solution in : 818.32 s	
+find a better solution in: 818.81 s	
+find a better solution in: 818.88 s	
+find a better solution in: 819.51 s	
+find a better solution in : 819.62 s	
+find a better solution in: 819.93 s	
+find a better solution in : 820.15 s	
+find a better solution in: 820.54 s	
+find a better solution in: 820.57 s	
+find a better solution in: 821.15 s	
+find a better solution in : 997.24 s	
+find a better solution in : 997.24 s	
+find a better solution in : 997.24 s	
+find a better solution in: 997.25 s	
+find a better solution in: 998.05 s	
+find a better solution in: 998.95 s	
+find a better solution in: 998.95 s	
+find a better solution in : 999.12 s	
+find a better solution in: 999.81 s	
+find a better solution in : 1000.73 s	
+find a better solution in: 1000.95 s	
+find a better solution in: 1000.97 s	
+find a better solution in: 1001.17 s	
+find a better solution in: 1001.34 s	
+find a better solution in: 1001.34 s	
+find a better solution in: 1001.48 s	
+find a better solution in: 1001.78 s	
+find a better solution in: 1001.89 s	
+find a better solution in : 1002.09 s	
+find a better solution in: 1002.59 s	
+find a better solution in: 1003.20 s	
+find a better solution in: 1003.20 s	
+find a better solution in: 1003.49 s	
+find a better solution in: 1003.51 s	
+find a better solution in: 1003.52 s	
+find a better solution in: 1003.62 s	
+find a better solution in : 1003.74 s	
+find a better solution in : 1003.76 s	
+find a better solution in : 1004.21 s	
+find a better solution in : 1004.37 s	
+find a better solution in: 1004.99 s	
+find a better solution in : 1005.08 s	
+find a better solution in: 1005.10 s	
+find a better solution in: 1005.10 s	
+find a better solution in: 1005.86 s	
+find a better solution in : 1005.89 s	
+find a better solution in : 1005.96 s	
+find a better solution in: 1006.08 s	
+find a better solution in: 1006.10 s	
+find a better solution in : 1006.44 s	
+find a better solution in : 1006.64 s	
+find a better solution in: 1006.66 s	
+find a better solution in : 1006.80 s	
+find a better solution in : 1007.11 s	
+find a better solution in: 1007.13 s	
+find a better solution in : 1007.42 s	
+find a better solution in: 1007.47 s	
+find a better solution in : 1007.81 s	
+find a better solution in: 1008.19 s	
+find a better solution in: 1008.50 s	
+find a better solution in: 1008.81 s	
+find a better solution in : 1009.30 s	
+find a better solution in: 1010.33 s	
+find a better solution in : 1010.37 s	
+find a better solution in: 1010.39 s	
+find a better solution in: 1010.47 s	
+find a better solution in: 1010.65 s	
+find a better solution in: 1010.81 s	
+find a better solution in : 1011.11 s	
+find a better solution in : 1011.11 s	
+find a better solution in: 1011.12 s	
+find a better solution in : 1011.32 s	
+find a better solution in: 1011.34 s	
+find a better solution in : 1011.48 s	
+find a better solution in: 1011.53 s	
+find a better solution in: 1011.76 s	
+find a better solution in : 1011.76 s	
+find a better solution in: 1011.79 s	
+find a better solution in : 1012.62 s	
+find a better solution in: 1012.79 s	
+find a better solution in: 1013.26 s	
+find a better solution in : 1013.49 s	
+find a better solution in: 1013.51 s	
+find a better solution in : 1013.52 s	
+find a better solution in : 1013.63 s	
+find a better solution in: 1013.80 s	
+find a better solution in : 1013.87 s	
+find a better solution in: 1013.88 s	
+find a better solution in: 1014.18 s	
+find a better solution in: 1014.18 s	
+find a better solution in: 1014.96 s	
+find a better solution in : 1014.98 s	
+find a better solution in: 1014.99 s	
+find a better solution in : 1015.24 s	
+find a better solution in: 1015.37 s	
+find a better solution in: 1015.48 s	
+find a better solution in: 1016.07 s	
+find a better solution in: 1016.13 s	
+find a better solution in : 1016.26 s	
+find a better solution in: 1016.36 s	
+find a better solution in: 1016.43 s	
+find a better solution in: 1016.43 s	
+find a better solution in: 1017.10 s	
+find a better solution in : 1017.78 s	
+find a better solution in: 1017.92 s	
+find a better solution in: 1018.16 s	
+find a better solution in: 1018.28 s	
+find a better solution in : 1018.42 s	
+find a better solution in: 1018.63 s	
+find a better solution in: 1018.88 s	
+find a better solution in: 1019.03 s	
+find a better solution in : 1019.31 s	
+find a better solution in: 1019.52 s	
+find a better solution in : 1019.83 s	
+find a better solution in : 1019.97 s	
+find a better solution in : 1020.22 s	
+find a better solution in: 1020.59 s	
+find a better solution in: 1021.12 s	
+find a better solution in: 1021.17 s	
+find a better solution in: 1021.31 s	
+find a better solution in: 1021.62 s	
+find a better solution in: 1021.80 s	
+find a better solution in: 1021.81 s	
+find a better solution in : 1021.84 s	
+find a better solution in: 1021.87 s	
+find a better solution in: 1022.69 s	
+find a better solution in : 1022.84 s	
+find a better solution in: 1022.87 s	
+find a better solution in : 1023.14 s	
+find a better solution in: 1023.42 s	
+find a better solution in: 1023.59 s	
+find a better solution in : 1023.61 s	
+find a better solution in : 1023.67 s	
+find a better solution in: 1023.68 s	
+find a better solution in: 1023.81 s	
+find a better solution in : 1023.86 s	
+find a better solution in: 1024.03 s	
+find a better solution in: 1024.04 s	
+find a better solution in: 1024.64 s	
+find a better solution in: 1025.56 s	
+find a better solution in: 1025.62 s	
+find a better solution in: 1026.85 s	
+find a better solution in : 1221.03 s	
+2 generation time: 1373.65 s
+*****************************t=2*****************************
+3 generation time: 1989.70 s
+*****************************t=3*****************************
+find a better solution in : 2102.28 s	
+find a better solution in: 2102.28 s	
+find a better solution in : 2102.56 s	
+find a better solution in: 2103.07 s	
+find a better solution in: 2103.24 s	
+find a better solution in: 2103.34 s	
+find a better solution in: 2104.32 s	
+find a better solution in : 2104.35 s	
+find a better solution in: 2104.90 s	
+find a better solution in: 2104.96 s	
+find a better solution in: 2105.34 s	
+find a better solution in : 2106.15 s	
+find a better solution in : 2106.21 s	
+4 generation time: 2518.02 s
+*****************************t=4*****************************
+find a better solution in : 2641.89 s	
+find a better solution in : 2643.07 s	
+find a better solution in: 2645.63 s	
+5 generation time: 3069.60 s
+*****************************t=5*****************************
+find a better solution in : 3164.54 s	
+find a better solution in: 3164.77 s	
+find a better solution in: 3164.78 s	
+find a better solution in: 3164.78 s	
+find a better solution in : 3165.22 s	
+find a better solution in: 3165.22 s	
+find a better solution in: 3165.27 s	
+find a better solution in : 3165.38 s	
+find a better solution in : 3166.07 s	
+find a better solution in : 3166.66 s	
+find a better solution in : 3301.15 s	
+find a better solution in: 3374.28 s	
+find a better solution in : 3374.29 s	
+find a better solution in: 3374.71 s	
+find a better solution in: 3375.23 s	
+find a better solution in : 3375.29 s	
+find a better solution in: 3375.31 s	
+find a better solution in: 3375.74 s	
+find a better solution in: 3376.01 s	
+find a better solution in: 3376.06 s	
+find a better solution in : 3376.24 s	
+find a better solution in : 3376.39 s	
+find a better solution in: 3376.67 s	
+find a better solution in: 3376.90 s	
+find a better solution in: 3376.92 s	
+find a better solution in: 3376.92 s	
+find a better solution in: 3377.01 s	
+find a better solution in : 3377.65 s	
+find a better solution in : 3555.84 s	
+find a better solution in: 3556.45 s	
+find a better solution in: 3556.46 s	
+find a better solution in: 3557.02 s	
+find a better solution in: 3557.85 s	
+find a better solution in : 3562.17 s	
+find a better solution in: 3562.42 s	
+find a better solution in: 3562.77 s	
+find a better solution in: 3563.59 s	
+find a better solution in: 3563.64 s	
+find a better solution in : 3563.69 s	
+find a better solution in: 3563.70 s	
+find a better solution in: 3563.88 s	
+find a better solution in: 3563.94 s	
+find a better solution in: 3564.28 s	
+find a better solution in: 3564.69 s	
+find a better solution in : 3565.70 s	
+find a better solution in: 3565.81 s	
+find a better solution in : 3566.37 s	
+find a better solution in: 3566.39 s	
+find a better solution in: 3566.42 s	
+find a better solution in: 3566.42 s	
+find a better solution in: 3566.61 s	
+find a better solution in: 3566.68 s	
+find a better solution in: 3567.35 s	
+find a better solution in: 3567.39 s	
+find a better solution in : 3567.87 s	
+find a better solution in: 3568.20 s	
+find a better solution in : 3568.21 s	
+find a better solution in: 3568.23 s	
+find a better solution in: 3568.23 s	
+find a better solution in: 3568.37 s	
+find a better solution in : 3568.79 s	
+find a better solution in: 3568.87 s	
+find a better solution in : 3569.51 s	
+find a better solution in: 3569.52 s	
+find a better solution in: 3569.65 s	
+find a better solution in : 3569.93 s	
+find a better solution in: 3570.24 s	
+find a better solution in: 3636.47 s	
+find a better solution in : 3637.11 s	
+find a better solution in : 3637.85 s	
+find a better solution in : 3638.09 s	
+find a better solution in : 3638.58 s	
+find a better solution in: 3638.58 s	
+find a better solution in: 3638.66 s	
+find a better solution in: 3639.38 s	
+find a better solution in: 3639.45 s	
+find a better solution in: 3639.87 s	
+find a better solution in: 3640.20 s	
+find a better solution in: 3640.26 s	
+find a better solution in : 3640.30 s	
+find a better solution in: 3640.55 s	
+find a better solution in: 3640.64 s	
+find a better solution in: 3640.67 s	
+find a better solution in : 3641.25 s	
+find a better solution in : 3641.43 s	
+find a better solution in: 3641.43 s	
+find a better solution in: 3641.45 s	
+find a better solution in : 3641.62 s	
+find a better solution in: 3641.68 s	
+find a better solution in: 3641.73 s	
+find a better solution in: 3641.82 s	
+find a better solution in: 3642.24 s	
+find a better solution in: 3642.60 s	
+find a better solution in: 3642.65 s	
+find a better solution in: 3642.79 s	
+find a better solution in: 3642.89 s	
+find a better solution in: 3643.43 s	
+find a better solution in: 3643.57 s	
+find a better solution in: 3644.09 s	
+find a better solution in: 3644.45 s	
+find a better solution in : 3644.62 s	
+find a better solution in: 3644.90 s	
+find a better solution in: 3644.91 s	
+find a better solution in: 3644.97 s	
+find a better solution in: 3645.07 s	
+find a better solution in: 3645.76 s	
+find a better solution in : 3646.44 s	
+6 generation time: 3865.13 s
+[28302.00,3527.25,157692.25],
+computation energy ratio: 0.686096, idle energy ratio: 0.002232, sleep energy ratio: 0.169164
+computation time ratio: 0.595497, idle time ratio: 0.004858, sleep time ratio: 0.397949
+[27413.00,7175.25,155496.60],
+computation energy ratio: 0.695722, idle energy ratio: 0.001914, sleep energy ratio: 0.158382
+computation time ratio: 0.614809, idle time ratio: 0.004241, sleep time ratio: 0.379181
+[34132.00,658.50,170580.56],
+computation energy ratio: 0.634173, idle energy ratio: 0.000962, sleep energy ratio: 0.239364
+computation time ratio: 0.493781, idle time ratio: 0.001879, sleep time ratio: 0.502941
+[28406.00,2958.00,157989.35],
+computation energy ratio: 0.684785, idle energy ratio: 0.001382, sleep energy ratio: 0.171131
+computation time ratio: 0.593317, idle time ratio: 0.003003, sleep time ratio: 0.401990
+[33411.00,1482.50,168861.89],
+computation energy ratio: 0.640628, idle energy ratio: 0.000781, sleep energy ratio: 0.231813
+computation time ratio: 0.504437, idle time ratio: 0.001541, sleep time ratio: 0.492592
+[33499.00,850.50,169138.00],
+computation energy ratio: 0.639582, idle energy ratio: 0.000804, sleep energy ratio: 0.232579
+computation time ratio: 0.503112, idle time ratio: 0.001586, sleep time ratio: 0.493877
+[34386.00,638.25,171188.96],
+computation energy ratio: 0.631919, idle energy ratio: 0.000847, sleep energy ratio: 0.242179
+computation time ratio: 0.490134, idle time ratio: 0.001647, sleep time ratio: 0.506831
+[28032.00,4553.75,157011.47],
+computation energy ratio: 0.689050, idle energy ratio: 0.002040, sleep energy ratio: 0.165960
+computation time ratio: 0.601233, idle time ratio: 0.004464, sleep time ratio: 0.392592
+[28232.00,3927.50,157411.23],
+computation energy ratio: 0.687300, idle energy ratio: 0.001670, sleep energy ratio: 0.168877
+computation time ratio: 0.596973, idle time ratio: 0.003637, sleep time ratio: 0.397689
+[29945.00,2206.50,161080.10],
+computation energy ratio: 0.671616, idle energy ratio: 0.001415, sleep energy ratio: 0.190937
+computation time ratio: 0.562824, idle time ratio: 0.002974, sleep time ratio: 0.432583
+[27918.00,5927.25,156698.40],
+computation energy ratio: 0.690407, idle energy ratio: 0.001828, sleep energy ratio: 0.164859
+computation time ratio: 0.603688, idle time ratio: 0.004007, sleep time ratio: 0.390559
+[27925.00,5689.50,156773.90],
+computation energy ratio: 0.690074, idle energy ratio: 0.002164, sleep energy ratio: 0.164642
+computation time ratio: 0.603536, idle time ratio: 0.004745, sleep time ratio: 0.389973
+[27895.00,6005.50,156720.99],
+computation energy ratio: 0.690307, idle energy ratio: 0.001770, sleep energy ratio: 0.164555
+computation time ratio: 0.604185, idle time ratio: 0.003885, sleep time ratio: 0.390182
+[27796.00,6661.50,156542.71],
+computation energy ratio: 0.691093, idle energy ratio: 0.002372, sleep energy ratio: 0.162714
+computation time ratio: 0.606337, idle time ratio: 0.005219, sleep time ratio: 0.386690
+[27038.00,8021.25,154600.02],
+computation energy ratio: 0.699757, idle energy ratio: 0.002279, sleep energy ratio: 0.153147
+computation time ratio: 0.623336, idle time ratio: 0.005090, sleep time ratio: 0.369780
+[33064.00,1797.75,168445.08],
+computation energy ratio: 0.642251, idle energy ratio: 0.001751, sleep energy ratio: 0.226463
+computation time ratio: 0.509731, idle time ratio: 0.003484, sleep time ratio: 0.485326
+[29892.00,2760.75,160956.99],
+computation energy ratio: 0.672130, idle energy ratio: 0.000725, sleep energy ratio: 0.190791
+computation time ratio: 0.563821, idle time ratio: 0.001524, sleep time ratio: 0.433040
+[29897.00,2672.50,160944.88],
+computation energy ratio: 0.672180, idle energy ratio: 0.001067, sleep energy ratio: 0.190607
+computation time ratio: 0.563727, idle time ratio: 0.002243, sleep time ratio: 0.432408
+[30205.00,1916.25,161796.87],
+computation energy ratio: 0.668651, idle energy ratio: 0.001278, sleep energy ratio: 0.193901
+computation time ratio: 0.557979, idle time ratio: 0.002673, sleep time ratio: 0.437742
+[31829.00,1890.25,165710.32],
+computation energy ratio: 0.652860, idle energy ratio: 0.001272, sleep energy ratio: 0.212820
+computation time ratio: 0.529509, idle time ratio: 0.002586, sleep time ratio: 0.466381
+[27312.00,7809.25,155299.88],
+computation energy ratio: 0.696603, idle energy ratio: 0.002146, sleep energy ratio: 0.156717
+computation time ratio: 0.617082, idle time ratio: 0.004767, sleep time ratio: 0.376375
+[27201.00,7873.25,154916.65],
+computation energy ratio: 0.698326, idle energy ratio: 0.001668, sleep energy ratio: 0.155967
+computation time ratio: 0.619600, idle time ratio: 0.003711, sleep time ratio: 0.374915
+AVERAGE: computation energy ratio: 0.673887, idle energy ratio: 0.001562, sleep energy ratio: 0.186708
+AVERAGE: computation time ratio: 0.570848, idle time ratio: 0.003353, sleep time ratio: 0.424163
+x=[28302.00 27413.00 34132.00 28406.00 33411.00 33499.00 34386.00 28032.00 28232.00 29945.00 27918.00 27925.00 27895.00 27796.00 27038.00 33064.00 29892.00 29897.00 30205.00 31829.00 27312.00 27201.00 ];
+y=[3527.25 7175.25 658.50 2958.00 1482.50 850.50 638.25 4553.75 3927.50 2206.50 5927.25 5689.50 6005.50 6661.50 8021.25 1797.75 2760.75 2672.50 1916.25 1890.25 7809.25 7873.25 ];
+z=[157692.25 155496.60 170580.56 157989.35 168861.89 169138.00 171188.96 157011.47 157411.23 161080.10 156698.40 156773.90 156720.99 156542.71 154600.02 168445.08 160956.99 160944.88 161796.87 165710.32 155299.88 154916.65 ];
+tot = 44
+total time: 3865.18 s

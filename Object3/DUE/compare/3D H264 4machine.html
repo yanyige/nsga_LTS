@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+	<script src="https://code.highcharts.com/highcharts.js"></script>
+	<script src="https://code.highcharts.com/highcharts-3d.js"></script>
+	<script src="https://code.highcharts.com/modules/exporting.js"></script>
+	<style type="text/css">
+		#container {
+		    height: 400px;
+		    min-width: 310px;
+		    max-width: 800px;
+		    margin: 0 auto;
+		}
+	</style>
+</head>
+<body>
+
+	<div id="container" style="height: 400px"></div>
+
+</body>
+<script type="text/javascript">
+	// Give the points a 3D feel by adding a radial gradient
+	Highcharts.getOptions().colors = $.map(Highcharts.getOptions().colors, function (color) {
+	    return {
+	        radialGradient: {
+	            cx: 0.4,
+	            cy: 0.3,
+	            r: 0.5
+	        },
+	        stops: [
+	            [0, color],
+	            [1, Highcharts.Color(color).brighten(-0.2).get('rgb')]
+	        ]
+	    };
+	});
+
+	// Set up the chart
+	var chart = new Highcharts.Chart({
+	    chart: {
+	        renderTo: 'container',
+	        margin: 100,
+	        type: 'scatter',
+	        options3d: {
+	            enabled: true,
+	            alpha: 10,
+	            beta: 30,
+	            depth: 250,
+	            viewDistance: 8,
+	            fitToPlot: false,
+	            frame: {
+	                bottom: { size: 1, color: 'rgba(0,0,0,0.02)' },
+	                back: { size: 1, color: 'rgba(0,0,0,0.04)' },
+	                side: { size: 1, color: 'rgba(0,0,0,0.06)' }
+	            }
+	        }
+	    },
+	    title: {
+	        text: ''
+	    },
+	    subtitle: {
+	        text: ''
+	    },
+	    // plotOptions: {
+	    //     scatter: {
+	    //         width: 10,
+	    //         height: 10,
+	    //         depth: 10
+	    //     }
+	    // },
+	    yAxis: {
+	        min: null,
+	        max: null,
+	        title: {
+	            text: 'workload',
+	            align: 'middle',
+	            style: {
+	            	"font-size": "20px",
+	            }
+	        },
+	    },
+	    xAxis: {
+	        min: null,
+	        max: null,
+	        gridLineWidth: 1,
+	        title: {
+	            text: 'makespan',
+	            align: "middle",
+	            style: {
+	            	"font-size": "20px",
+	            }
+	        },
+	    },
+	    zAxis: {
+	        min: null,
+	        max: null,
+	        showFirstLabel: false,
+	        title: {
+	            text: 'energy',
+	            align: "middle",
+	            style: {
+	            	"font-size": "20px",
+	            }
+	        },
+	    },
+	    legend: {
+	        enabled: true
+	    },
+	    series: [{
+	        name: 'MOHA',
+	        // colorByPoint: true,
+	        color: 'rgb(251, 118, 123)',
+	        data: [[78021.00,637.00,130021.00],
+[78068.00,686.00,130014.33],
+[85679.00,207.00,134206.84],
+[85761.00,121.00,134343.68],
+[92087.00,86.00,138576.17],
+[78089.00,434.00,130910.88],
+[76392.00,1218.00,129806.48],
+[74338.00,3459.00,127369.73],
+[94287.00,67.00,139698.46],
+[77941.00,816.00,130099.90],
+[78068.00,790.00,129853.21],
+[78500.00,476.00,130306.33],
+[96759.00,42.00,141949.23],
+[74338.00,2909.00,127478.69],
+[74105.00,3523.00,127290.16],
+[73744.00,4411.00,126981.21],
+[73304.00,4732.00,126677.84],
+[74062.00,4199.00,127275.99],
+[73936.00,3861.00,127397.85],
+[85679.00,316.00,134111.24],
+[85659.00,227.00,134211.24],
+[77390.00,794.00,130307.58],
+[78285.00,363.00,130999.73],
+[77729.00,518.00,130525.58],
+[77306.00,1023.00,130500.63],
+[78281.00,363.00,131022.51],
+[77444.00,1134.00,130232.40],
+[77382.00,774.00,130351.10],
+[77451.00,878.00,130303.03],
+[77455.00,646.00,130269.15],
+[77406.00,710.00,130431.26],
+[77773.00,622.00,130508.75],
+[77362.00,1134.00,130240.90]]
+	    },
+	    {
+	        name: 'nsga2',
+	        // colorByPoint: true,
+	        color: '#77C34F',
+	        data: [[75906.00,2180.00,127009.58],
+[78368.00,1142.00,129368.43],
+[88422.00,412.00,135700.46],
+[86885.00,510.00,134377.36],
+[92645.00,122.00,137970.81],
+[79109.00,1652.00,129184.90],
+[80999.00,548.00,129603.28],
+[77074.00,1871.00,128476.63],
+[88899.00,331.00,135008.10],
+[103936.00,57.00,144141.18],
+[83677.00,526.00,133134.30]]
+	    }],
+	    credits: {
+		     enabled: false
+		}
+	});
+
+
+	// Add mouse events for rotation
+	$(chart.container).on('mousedown.hc touchstart.hc', function (eStart) {
+	    eStart = chart.pointer.normalize(eStart);
+
+	    var posX = eStart.pageX,
+	        posY = eStart.pageY,
+	        alpha = chart.options.chart.options3d.alpha,
+	        beta = chart.options.chart.options3d.beta,
+	        newAlpha,
+	        newBeta,
+	        sensitivity = 5; // lower is more sensitive
+
+	    $(document).on({
+	        'mousemove.hc touchdrag.hc': function (e) {
+	            // Run beta
+	            newBeta = beta + (posX - e.pageX) / sensitivity;
+	            chart.options.chart.options3d.beta = newBeta;
+
+	            // Run alpha
+	            newAlpha = alpha + (e.pageY - posY) / sensitivity;
+	            chart.options.chart.options3d.alpha = newAlpha;
+
+	            chart.redraw(false);
+	        },
+	        'mouseup touchend': function () {
+	            $(document).off('.hc');
+	        }
+	    });
+	});
+	</script>
+</html>

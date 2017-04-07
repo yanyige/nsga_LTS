@@ -1,0 +1,65 @@
+m = 16 n = 262
+pop = 30 gen = 400
+init...begin
+greedy begin
+greedy done
+init...done
+*****************************t=0*****************************
+1 generation time: 385.12 s
+*****************************t=1*****************************
+2 generation time: 879.11 s
+*****************************t=2*****************************
+3 generation time: 1317.17 s
+*****************************t=3*****************************
+4 generation time: 1820.18 s
+*****************************t=4*****************************
+5 generation time: 2268.93 s
+*****************************t=5*****************************
+6 generation time: 2716.79 s
+*****************************t=6*****************************
+7 generation time: 3178.16 s
+*****************************t=7*****************************
+8 generation time: 3635.71 s
+[25870.00,4465.00,150047.49],
+computation energy ratio: 0.721041, idle energy ratio: 0.002606, sleep energy ratio: 0.138847
+computation time ratio: 0.651479, idle time ratio: 0.005905, sleep time ratio: 0.340733
+[26343.00,4180.75,151244.19],
+computation energy ratio: 0.715336, idle energy ratio: 0.002987, sleep energy ratio: 0.144910
+computation time ratio: 0.639781, idle time ratio: 0.006700, sleep time ratio: 0.351659
+[26364.00,4253.00,151177.42],
+computation energy ratio: 0.715652, idle energy ratio: 0.002537, sleep energy ratio: 0.145698
+computation time ratio: 0.639271, idle time ratio: 0.005682, sleep time ratio: 0.353197
+[27205.00,3789.00,153298.31],
+computation energy ratio: 0.705751, idle energy ratio: 0.001577, sleep energy ratio: 0.157519
+computation time ratio: 0.619509, idle time ratio: 0.003471, sleep time ratio: 0.375227
+[26018.00,4309.25,150425.02],
+computation energy ratio: 0.719231, idle energy ratio: 0.003060, sleep energy ratio: 0.140428
+computation time ratio: 0.647773, idle time ratio: 0.006911, sleep time ratio: 0.343443
+[26310.00,4280.75,151256.75],
+computation energy ratio: 0.715277, idle energy ratio: 0.002401, sleep energy ratio: 0.144818
+computation time ratio: 0.640583, idle time ratio: 0.005392, sleep time ratio: 0.352171
+[25976.00,4318.75,150337.26],
+computation energy ratio: 0.719651, idle energy ratio: 0.002449, sleep energy ratio: 0.140414
+computation time ratio: 0.648820, idle time ratio: 0.005536, sleep time ratio: 0.343767
+[25870.00,4324.75,150218.88],
+computation energy ratio: 0.720218, idle energy ratio: 0.003284, sleep energy ratio: 0.138124
+computation time ratio: 0.651479, idle time ratio: 0.007448, sleep time ratio: 0.339189
+[25870.00,4549.00,150045.62],
+computation energy ratio: 0.721050, idle energy ratio: 0.002513, sleep energy ratio: 0.138940
+computation time ratio: 0.651479, idle time ratio: 0.005694, sleep time ratio: 0.340952
+[25936.00,4401.00,150164.92],
+computation energy ratio: 0.720477, idle energy ratio: 0.002762, sleep energy ratio: 0.139664
+computation time ratio: 0.649821, idle time ratio: 0.006246, sleep time ratio: 0.342054
+[25804.00,5099.00,150067.08],
+computation energy ratio: 0.720947, idle energy ratio: 0.002818, sleep energy ratio: 0.137721
+computation time ratio: 0.653145, idle time ratio: 0.006402, sleep time ratio: 0.338564
+[25794.00,4951.00,150069.37],
+computation energy ratio: 0.720936, idle energy ratio: 0.003275, sleep energy ratio: 0.137130
+computation time ratio: 0.653398, idle time ratio: 0.007444, sleep time ratio: 0.337268
+AVERAGE: computation energy ratio: 0.717964, idle energy ratio: 0.002689, sleep energy ratio: 0.142018
+AVERAGE: computation time ratio: 0.645545, idle time ratio: 0.006069, sleep time ratio: 0.346519
+x=[25870.00 26343.00 26364.00 27205.00 26018.00 26310.00 25976.00 25870.00 25870.00 25936.00 25804.00 25794.00 ];
+y=[4465.00 4180.75 4253.00 3789.00 4309.25 4280.75 4318.75 4324.75 4549.00 4401.00 5099.00 4951.00 ];
+z=[150047.49 151244.19 151177.42 153298.31 150425.02 151256.75 150337.26 150218.88 150045.62 150164.92 150067.08 150069.37 ];
+tot = 24
+total time: 3635.74 s
